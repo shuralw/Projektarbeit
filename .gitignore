@@ -1,0 +1,23 @@
+# LaTeX files
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.synctex.gz
+*.fls
+
+# Generated files
+*.pdf
+
+# Other build files
+*.dvi
+*.ps
+
+# Editor files
+.vscode
+*.swp
+*~
+.#*

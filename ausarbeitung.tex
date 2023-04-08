@@ -1,0 +1,83 @@
+%scrartcl: Für kürzere Ausarbeitungen. Beginnt mit section, es gibt keine chapter
+%scrreprt: Für längere Ausarbeitungen (Bacherlo oder Master Thesis). Beginnt chapter
+\documentclass[pdftex,a4paper,abstracton,11pt,parskip=half,bibtotocnumbered]{scrartcl} 
+
+% Je nach LaTeX Compiler werden etwas andere Bibliotheken verwendet.
+% Das Paket iftex erlaubt es, den Compiler zu überprüfen
+\usepackage{iftex}
+
+\usepackage[ngerman]{babel} % Einstellungen für den deutschen Sprachraum, neue deutsche Rechtschreibung
+\ifPDFTeX
+  \usepackage[utf8]{inputenc} % Umlaute erkennen. Als Option in "[] " die vom Editor verwendete Zeichencodierung auswählen
+  \usepackage[T1]{fontenc}
+\fi
+
+% Für kompakter Aufzählungen
+\usepackage{paralist}
+
+\usepackage[style=ieee,backend=bibtex]{biblatex}
+\addbibresource{literatur/literatur.bib}
+
+% Für Abbildungen
+\usepackage{graphicx}
+\graphicspath{{./abbildungen/}}
+
+% Ändert die Überschrift des Abstracts.
+% Falls kein Abstract benötigt wird, kann die Option "abstracton" ganz oben in \documentclass entfallen.
+\renewcommand{\abstractname}{Zusammenfassung}
+
+
+
+\title{Leitfaden zum Verfassen von Ausarbeitungen}
+\author{Prof. Dr. Heiner Giefers}
+\date{\today}
+
+
+
+\begin{document}
+
+\makeatletter
+\begin{titlepage}
+	\centering
+	{\scshape\LARGE Fachhochschule Südwestfalen \par}
+	\vspace{1cm}
+%	{\scshape\Large Merkblatt\par}
+	\vspace{1.5cm}
+	{\huge\bfseries \@title\par}
+	\vspace{3cm}
+	{\Large \@author\par}
+	\vspace{1cm}
+	{\Large \@date\par}
+	\vfill
+
+	\raggedright
+%	{\large Eingereicht bei:\par}
+%	{\large Betreuer 1}
+\end{titlepage}
+\makeatother
+
+\thispagestyle{empty}
+\begin{abstract}
+%Ein Abstrakt, also eine Kurzzusammenfassung der Arbeit ist bei einer schriftlichen Ausarbeitung nicht unbedingt notwendig.
+%Bei umfangreicheren Arbeiten, also z.~B. einer Bachelor- oder Master-Thesis, sollte die Ausarbeitung in jedem Fall mit einem \textit{Abstract} beginnen.
+Schriftliche Ausarbeitungen sind  wissenschaftliche Texte, die in ihrem formalen Aufbau bestimmten Richtlinien entsprechen müssen.
+Dies gilt im Besonderen für Abschlussarbeiten (Bachelor- oder Masterarbeiten), aber prinzipiell auch für kürzere Aufsätze, Hausarbeiten und Projektberichte.
+In diesem Leitfaden soll es darum gehen, wie Sie Ihre Ausarbeitung strukturell aufbauen sollten und welche Qualitätskriterien für die äußere und sprachliche Form gelten.
+Bei einer typischen Projekt-, Bachelor- oder Masterarbeit macht die schriftliche Ausarbeitung nur einen Teil der Arbeitslast aus, ist aber gleichzeitig das wichtigste Kriterium für die Bewertung.
+Daher ist es ratsam, sich möglichst frühzeitig mit den inhaltlichen und formalen Anforderungen wissenschaftlicher Texte vertraut zu machen und diese bei der Anfertigung eigener Ausarbeitungen zu berücksichtigen.
+\end{abstract}
+
+\vfill
+\tableofcontents
+\pagebreak
+
+\setcounter{page}{1}
+\input{kapitel/leitfaden}
+
+%\appendix
+%\include{kapitel/anhang}
+
+% Bibliographie
+\printbibliography
+
+\end{document}

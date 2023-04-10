@@ -1,64 +1,143 @@
 %Bei einem Report (documentclass "scrreprt") oder einem Buch ("scrbook")  ist das 
 
-\section{Allgemeines}
+\section{Nutzungskontext}
+Benutzer: Schulpersonal im Alter zwischen 18 und 67 Jahren, insbesondere das Sekretariat.
 
-Im Laufe Ihres Studiums werden Sie verschiedene schriftliche Ausarbeitungen anfertigen.
-Die Abschlussarbeit ist dabei sicher die Ausarbeitung mit dem größten Umfang, aber auch kleinere Arbeiten, wie etwa Projektberichte und Hausarbeiten, sind Ausarbeitungen, für die ähnliche Maßgaben gelten.
-In diesem Dokument möchte ich Ihnen ein paar Hinweise und Tipps auf den Weg geben, die Sie beim Schreiben von Ausarbeitungen beachten sollten.
+Ziel: Effektive Erfassung von Bewerbungen für Schüler an der eigenen Schule.
 
-In den technischen Disziplinen, zu denen die Ingenieurwissenschaften und auch die Informatik zählen, liegen den Ausarbeitungen häufig technische Implementierungen zugrunde.
-In der Informatik ist dies normalerweise Software, die im Rahmen der Arbeit entsteht.
-Oft ist gerade dieser praktische Teil besonders interessant und man vertieft sich darin,  das Verfassen der Ausarbeitung hingegen wird gelegentlich unterschätzt.
-Dabei sollte man sich immer darüber im Klaren sein, dass die Ausarbeitung am Ende des Projekts die wichtigste Grundlage für die Bewertung darstellt.
+Aufgaben: Erfassung von persönlichen Daten des Schülers, schulischer Vorbildung, Migrationshintergrund, Auswahl des Bildungsgangs, Beantwortung von Zusatzfragen und Abschluss der Bewerbung. Der Prozess umfasst mehrere Tabs, die jeweils unterschiedliche Daten erfordern.
 
-Jede Ausarbeitung stellt für sich eine wissenschaftliche Arbeit dar und unterliegt den dafür üblichen Regeln.
-Bei einer wissenschaftlichen Arbeit muss der Weg zum Erkenntnisfortschritt nachvollziehbar sein und daher reicht die reine Beschreibung der (im Zuge der Arbeit entstandenen) Implementierung nicht aus. 
-Es müssen auch die verwendeten Konzepte, Daten und Werkzeuge eingeführt und erläutert werden.
-Die Zielsetzung muss klar formuliert und die gewählten Methoden argumentativ begründet werden.
-Dabei muss immer klar sein, welche Leistung im Rahmen Ihrer Arbeit entstanden ist und was Sie von welcher Quelle übernommen haben.
-Die erzielten Ergebnisse sollten immer kritisch bewertet werden. 
-Hierbei gilt es, die Stärken der eignen Arbeit herauszustellen, aber auch verbesserungsfähige Aspekte zu benennen und gegebenenfalls Lösungsansätze aufzuzeigen.
+Kontext: Das System wird im Sekretariat einer Schule eingesetzt und auf einem klassischen PC-Arbeitsplatz genutzt. Die Benutzer arbeiten regulär mit einem stationären Computer oder Laptop, der auch über einen externen Bildschirm verfügen kann.
 
-Neben den wissenschaftlichen Ansprüchen sind auch die Gliederung sowie die sprachliche Qualität wichtige Entscheidungskriterien für die Bewertung.
-Kann man einer Ausarbeitung, aufgrund eines schlechten Aufbaus, vieler orthographischer oder grammatikalischer Fehler und Ausdrucksschwächen nicht folgen, so kann auch die  technisch-wissenschaftliche Leistung \textit{hinter} der Ausarbeitung nicht klar werden.
-Damit Ihre technische Leistung auch angemessen bewertet werden kann, sollten Sie daher entsprechend Wert auf den Inhalt und die Form Ihrer schriftlichen Ausarbeitung legen.
+Erwartungen: Die Benutzer erwarten ein verständliches und selbsterklärendes Produkt, das es ihnen ermöglicht, Bewerbungen schnell und effektiv zu erfassen.
 
-\section{Aufbau der Arbeit}
+Feedback: Das Feedback der Benutzer wird erfasst und in den Usability Engineering-Prozess einbezogen, um das System kontinuierlich zu verbessern.
 
-In diesem Abschnitt werden Fragen besprochen, die sich mit der Struktur und dem logischen Aufbau der Ausarbeitung befassen.
+Evaluation: Die Wirksamkeit des Usability Engineering-Prozesses wird anhand von Metriken wie der Benutzerzufriedenheit, der Effektivität und der Effizienz des Systems bewertet
 
-\subsection{Der \textit{rote Faden}}
+\section{lose Themen}
+\subsection{Zielsetzung}
+Das Ziel der Forschung ist es, einen Einblick zu gewinnen, welche Problemstellen und Nutzerbedürfnisse das Schulpersonal beim Bewerbungsprozess eines Schülers existieren. Hierzu wird ein semistrukturiertes Leitfadeninterview durchgeführt und die Testpersonen offen beobachtet. Die Ergebnisse werden anschließend qualitativ ausgewertet. Die Forschung wird betrieben, indem Personen aus der genannten Gruppe die Anwendung Schüler Online die Aufgaben "Bewerbung an der Primarstufe erstellen", "Bewerbung an der Sekundarfstufe I erstellen" sowie "Bewerbung an der Sekundarfstufe II erstellen" vollziehen. 
 
-Wissenschaftliche Texte dienen der Darstellung, Vermittlung und kritischen Diskussion eines Sachproblems.
-Um den Text möglichst interessant zu gestalten, sollten Sie sich stets vor Auge führen, \textbf{an wen} sich der Text wendet, und \textbf{welche Fragen} sich der Leser zum aktuellen Zeitpunkt stellt.
-Wenn Sie es schaffen, die Fragen des Lesers \textit{vorherzusehen}, können Sie an entsprechender Stelle die notwendigen Informationen oder Argumente liefern.
-So erfüllen Sie die Erwartungshaltung des Lesers und ermutigen ihn, interessiert weiterzulesen.
+\section{Einleitung}
+In der Einleitung solltest du die Zielsetzung deiner Projektarbeit, die zentralen Fragestellungen, die Vorgehensweise und die Bedeutung deines Themas für die Wissenschaft oder die Praxis erläutern.
 
-Beginnen wir mit der ersten Leitfrage: An wen richtet sich Ihre Ausarbeitung?
-Hierzu sollte vor allem klargestellt werden, das die Zielgruppe der Arbeit nicht (nur) die Betreuer sind!
-Inhaltliche Aspekte, die Sie möglicherweise mit Ihren Betreuern mündlich oder schriftlich besprochen haben, dürfen Sie deswegen keinesfalls weglassen.
-Der Text muss für sich allein verständlich sein und daher sollte alles, was inhaltlich wichtig ist, auch in der Ausarbeitung genannt werden.
+=> Ggf. eine Annahme darlegen: Schüler sitzen dem Schulpersonal gegenüber wenn sie sich bewerben, die Sekretärin füllt die Daten aus die der Schüler ihr nennt.
 
-Allgemein kann man sagen, dass die Ausarbeitung so geschrieben sein sollte, dass fachlich qualifizierte Personen der Arbeit folgen können.
-Nun ist die Frage, wer ist \textit{fachlich qualifiziert} bzw. welches fachliche Wissen können Sie vom Leser voraussetzen.
-Eine gute Faustregel ist hierbei, anzunehmen, dass der Leser den gleichen Kenntnisstand besitzt, den Sie \textbf{vor Beginn} der Bearbeitung des Themas hatten.
-Dies gilt natürlich nicht für relevantes \textit{Spezialwissen}, das Sie vielleicht schon vor der Bearbeitung besaßen.
-Den Kenntnisstand Ihrer Leser richtig einzuschätzen, ist sehr wichtig für die Qualität der Arbeit!
-Wählen Sie ein zu hohes Niveau, wird Ihr Text unverständlich und Sie hängen den Leser ab, ist das Niveau zu niedrig, laufen Sie Gefahr den Leser zu langweilen.
+\section{Theoretischer Hintergrund}
+In diesem Kapitel solltest du den theoretischen Hintergrund deines Themas erläutern und den aktuellen Forschungsstand darstellen. Hierbei kannst du auf Literatur und Quellen zurückgreifen.
 
-Die zweite Leitfrage ist: Welche Fragen stellt sich der Leser gerade?
-Die Antwort darauf hängt natürlich stark von Ihrem Thema ab und davon an welcher Stelle sich der Leser im Text befindet.
-Es gibt einige sehr generelle Fragestellungen, die man ganz zu Beginn der Arbeit beantworten sollte, um überhaupt das Interesse des Lesers zu wecken:
-\begin{enumerate}
-\item Worum geht es in der Arbeit? Was ist die Motivation, dieses Thema zu behandeln?
-\item Was waren die Ziele der Arbeit? Was wurde erreicht? Was sind die Hauptleistungen der Arbeit?
-\item Wie wurde das Ergebnis erreicht? Welche Methoden wurden eingesetzt?
-\item Kann ich (der Leser) das Ergebnis für meine Zwecke verwenden?
-\end{enumerate}
+\subsection{Hawthorne Effekt}
+Der Hawthorne-Effekt besagt, dass Personen ihr Handeln verändern, weil sie wissen, dass sie unter Beobachtung stehen. Er kann bei Teilnehmenden an wissenschaftlichen Experimenten vorkommen, deren Verhalten beobachtet wird. So ist ihr Verhalten unnatürlich.
 
-Aus diesen Fragen sollten Sie bei jeder Ausarbeitung auf den ersten ein bis zwei Seiten eingehen.
-Bei längeren Texten werden diese Fragen im Abstract, also der Kurzzusammenfassung, die vor dem eigentlichen Text steht, behandelt und im Verlauf des ersten Kapitels nochmals aufgegriffen.
-Bei kurzen Ausarbeitungen kann der Abstract entfallen, die oben genannten Punkte werden dann in der Einleitung behandelt.
+\subsection{ggf. Soziale Erwünschtheit}
+"Beim Effekt der sozialen Erwünschtheit verändern Teilnehmende ihr Verhalten oder ihre Antworten bei Fragebogen, um ein positives Bild von sich selbst abzugeben."
+
+\subsection{DECIDE Ansatz}
+\subsection{Beobachtung}
+\subsection{Hawthorne Effekt}
+\subsection{Loud Thinking}
+\subsection{Feldtest / Labortest}
+
+
+\section{Methodik}
+In diesem Kapitel solltest du die Methoden und Techniken, die du zur Durchführung deiner Projektarbeit verwendest, beschreiben und begründen. Hier sollten auch die Einzelheiten zur Durchführung des leitfadengestützten Interviews enthalten sein.
+
+Für das leitfadengestützte Experteninterview solltest du in der Methodik deiner Projektarbeit den Ablauf und die Durchführung des Interviews beschreiben. Hierbei könntest du beispielsweise folgende Punkte erwähnen:
+
+Teilnehmer: Wer wurde für das Interview ausgewählt und warum? Wie viele Experten wurden befragt?
+Vorbereitung: Wie wurde das Interview vorbereitet? Wurde den Experten im Voraus eine Liste mit Fragen oder Themenbereichen zur Verfügung gestellt?
+
+Interview: Welche verschiedenen Szenarien kommen vor, wenn sich ein Schüler bei Ihnen bewerben möchte - wie muss man sich das vorstellen?
+Beispiel - (nicht erwähnen!!): "Ein Schüler sitzt vor mir und ich sitze am Rechner, ich trage seine Daten ein.
+Soll Hypothese bzw. Bias belegen: Eine Sekretariatsmitarbeiterin führt die Bewerbung im Beisein und Diallog mit dem Schüler durch.
+Wie kann man die Schüler beschreiben, die Ihnen gegenüber sitzen?
+Bei Sek 1 + Primarstufe: Charakterisieren sie klassische Elternteile
+Verwenden Sie die Software Schüler Online für Bewerbungen?
+Wie häufig?
+Welche Schwierigkeiten bereitet Ihnen die Software Schüler Online 1.0 (Ist eine Folgefrage, die nur Personen die bereits 1.0 verwenden gestellt werden kann)
+=> Vorgehensweise: Ich kann entweder selber der Schüler sein oder ich bitte Chrissy darum, eine Schülerin oder Mutter zu simulieren.
+=> Es gibt drei Szenarien, die der Proband durchlaufen sollte, die in der Realität vorkommen:
+    1: Guten Tag, ich bin Hans Meier, geboren am 01.05.2008 und möchte auf ihr Berufskolleg
+    Ziel: 
+    Das Szenario "Mit Betrieb anmelden" existiert nicht nur für die Sek II Anmeldung.
+
+Durchführung: Wie wurde das Interview durchgeführt? Wurde es in persönlichen Gesprächen oder telefonisch durchgeführt? Wie lange dauerte das Interview? Gab es Besonderheiten oder Schwierigkeiten während des Interviews?
+Aufzeichnung: Wie wurde das Interview aufgezeichnet? Wurden Notizen gemacht, oder wurde das Interview aufgezeichnet und transkribiert?
+Ethik: Welche ethischen Gesichtspunkte wurden bei der Durchführung des Interviews berücksichtigt, z.B. in Bezug auf Datenschutz oder Anonymität?
+
+=> Beobachtung
+		- Wie wurde die Beobachtung durchgeführt?
+			- Wer, wie viele, Umgebung, welcher Teil der Anwendung...
+			- Grobstruktur des Evaluations
+			- Feldtest 
+			- Wie lief das "Intro" bei der Beobachtung ab? Was hat der Beobachter den Beobachteten vorher gesagt und erläutert?
+		- Filmen?
+
+\section{Ergebnisse}
+In diesem Kapitel solltest du die Ergebnisse deiner Projektarbeit ausführlich und detailliert darstellen. Hierbei solltest du auch das Ergebnis des leitfadengestützten Interviews einbeziehen.
+
+Expertenmeinungen: Was waren die Meinungen und Einschätzungen der befragten Experten zu deinem Thema?
+Unterschiede und Gemeinsamkeiten: Gab es Unterschiede oder Gemeinsamkeiten in den Antworten der Experten? Gab es übereinstimmende Aussagen oder Diskrepanzen?
+Erkenntnisse: Welche Erkenntnisse konntest du aus den Antworten der Experten gewinnen? Wie tragen die Ergebnisse zu deiner Forschungsfrage und zum aktuellen Stand der Forschung bei?
+
+\subsection{Identifizierter Nutzungskontext}
+
+Benutzer:
+    - Kenntnisse: 
+    - Fertigkeiten:     
+    - Erfahrungen:    
+    - Ausbildiungen:     
+    - physische Merkmale:     
+    - Gewohnheiten:   
+    - Vorlieben:    
+    - Fähigkeiten: 
+    - Alter: 
+    - Geschlecht: 
+    - Bildungsniveau: 
+    - Sprachkenntnisse: 
+    - Kultureller Hintergrund: 
+    - Berufliche Erfahrungen: 
+    - Hobbies und Interessen: 
+    - Körperliche Einschränkungen: 
+    - Krankheiten oder Behinderungen: 
+Aufgaben:
+    - Die Art, wie der Benutzer die Aufgabe ausführt
+    - Häufigkeit
+    - Zeitdauer
+    - Priorität der Aufgabe
+    - Komplexität der Aufgabe
+    - Fehleranfälligkeit
+    - Abhängigkeit von anderen Aufgaben
+    - Auswirkungen auf andere Aufgaben
+
+Ausrüstung:
+    - Hardware
+    - Software
+    - Materialien
+    - Beleuchtung
+    - Möbel
+    - Raumgestaltung
+Verfügbarkeit der Ausrüstung
+Qualität und Zustand der Ausrüstung
+Einfachheit der Bedienung der Ausrüstung
+Kompatibilität der Ausrüstung mit anderen Geräten oder Software
+Umgebung: 
+    - Physischen
+    - sozial 
+    - kulturell: Arbeitsweisen und Einstellungen
+    - organisationsbezogen 
+    
+
+\section{Diskussion}
+In diesem Kapitel solltest du deine Ergebnisse diskutieren und in den Kontext der Literatur und des aktuellen Forschungsstandes einordnen. Hier kannst du auch Schwächen und Limitationen deiner Projektarbeit besprechen und einen Ausblick geben, wie weiterführende Forschung aussehen könnte.
+
+Grobstruktur für einen Evaluationsbericht (vgl. Skript)
+Screenshots des untersuchten Prozesses der Anwendung
+Fotos der Umgebung / des Arbeitsplatzes?
+
+\section{Schlussfolgerungen}
+In diesem Kapitel solltest du deine wichtigsten Erkenntnisse zusammenfassen und deine Forschungsfragen beantworten. Hierbei sollten auch praktische Implikationen und Empfehlungen für die Praxis diskutiert werden.
 
 \paragraph{Die Motivation der Arbeit}
 

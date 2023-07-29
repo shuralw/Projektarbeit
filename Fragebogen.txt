@@ -1,0 +1,31 @@
+Einleitung 
+1. Formulieren Sie die Tätigkeit in einem oder in zwei Sätzen. 
+2. Aus welchen Aufgaben ist die Tätigkeit zusammengesetzt (typische Kern-Aufgaben aufführen, d.h., wenn großer Zeitanteil oder häufig wiederkehrend oder sehr wichtig)? Welche dieser Kern-Aufgaben sollen durch die Software unterstützt werden? 
+3. Wie ist die Tätigkeit organisiert (z. B. als Mischarbeit, als Folge von Aufgaben, als monotone Einzelaufgabe)? 
+
+Voraussetzungen 
+4. Welche Qualifikation ist zur Bewältigung der Aufgaben erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.? 
+5. Wer (bzw. welches Ereignis) bestimmt, was zu tun ist? (Wer trifft die Auswahl? Selbständigkeit der Bearbeitung, Arbeitsteilung, externe Datenquellen) 
+6. Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung/ zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht? 
+
+Normale Durchführung 
+7. Welche Arbeitsschritte sind durchzuführen? 
+8. Welche Arbeitsschritte kehren häufig wieder? (Automatisierung gewünscht / erforderlich?) 
+9. Welche Arbeitsschritte werden automatisch durchgeführt? Sind bei automatisierten Arbeitsschritten Einflussmöglichkeiten des Benutzers vorhanden / erlaubt / gewünscht / erforderlich? 
+10. Kommt es vor, dass mehrere Benutzer gleichzeitig an dem gleichen Objekt (z. B. Vorgang, Akte, Dokument, Datensatz) arbeiten müssen? 
+11. Gibt es eine festgelegte Abfolge der Arbeitsschritte und wenn ja, wie sieht diese aus? (Ist eine Flexibilität sinnvoll / nötig?) 
+12. Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt? 
+13. Welches Feedback bekommt die befragte Person in bezug auf die Arbeitsergebnisse und die Wirkung ihrer Arbeit? 
+
+Besonderheiten bei der Durchführung 
+14. Welche Unterbrechungen gibt es und warum? Welche Störungen treten auf (organisatorisch / sozial / technisch )? 
+15. Wie werden Fehler zurückgemeldet und behoben (organisatorisch / sozial / technisch)? 
+16. Welche wichtigen Sonderfälle müssen berücksichtigt werden (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)? 
+
+Organisatorische Rahmenbedingungen 
+17. Welche Organisationsziele gibt es im Hinblick auf die Tätigkeit? 
+18. Gibt es Mechanismen zur Leistungssteuerung / Leistungskontrolle? (Wenn ja, welche? Sind diese erforderlich?) 
+19. Welchen Überblick hat der Benutzer im Hinblick auf die Gesamttätigkeit? 
+20. Welche Änderungen, die die Aufgabenbearbeitung beeinflussen, sind zu erwarten oder werden gewünscht? Welche Vorschläge hat der/die Befragte dazu? 
+21. Von welchen Arbeitsergebnissen / Arbeitsschritten sind Dritte (z. B. Kunden) direkt betroffen? Und was folgt daraus? 
+22. Welche Stressfaktoren gibt es und wie wird damit umgegangen?

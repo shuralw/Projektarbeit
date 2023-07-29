@@ -1,0 +1,173 @@
+Vorab: 	
+- Internet ist langsam, die Anwendung braucht anfangs lange zum Laden
+- mehrere Personen haben das Sekretariat betreten, aber keine Unterbrechnung
+ 
+In welchem Umfang besitzen Sie Vorerfahrungen mit Schüler Online 1.0? 	
+- Keine				
+In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?	
+- Keine
+
+Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?
+- Falsch ausgefüllt
+- Fehlende Nagaben
+- Nicht leserlich
+- Falsche Daten
+- Begriffe wie Konfession nicht verständlich, Schulformempfehlung unverständlich, bewusst falsche Angaben, Sorgeberchtigungen, negativbescheinigung oder verpflichtend 2 Sorgeberechtigte, sensible Daten
+
+Wer nutzt das System hauptsächlich an Ihrer Schule?
+Nur das Sekretariat, beide übernehmen die gleichen Aufgaben
+
+Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?	
+- Man muss lesen und schreiben können, nicht mal internetaffin sein.
+- Man muss sehr gewillt sein es auzuprobieren		
+
+Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.	
+- Es steht zunächst die Frage im Raum: "Darf dieses Kind unsere Schule überhaupt besuchen?". Diese Entscheidung basiert auf der Schulempfehlung sowie Gesprächen im Voraus mit der Schulleitung
+- Die Eltern füllen vorgefertigte Unterlagen nach Anmeldeformular, Rest per Post, Mail oder in Person, wenn Deutsch schwierig zusammen in Person ausfüllen	
+- Anmeldeschein der Grundschulen sind farbig gedruckt, um Mehrfachanmeldungen zu vermeiden
+- Mehrere Anmeldungen an unterschiedlichen Schulen fallen in der Regel spätestens bei Kennenlernterminen auf. 
+ - Die Sekretärin zitiert exemplarisch fiktive Eltern: "Mal gucken wie sich das Kind entwickelt", laut Schulgesetz kann ein schulkind jederzeit abspringen	
+- Eine Lösung durch Anwalt kommt immer mal wieder vor, aber meist wird sowas per Telefon geklärt
+- Pessimistische Haltung gegenüber Mehrfachanmeldungen bei der Software
+- Bewerbung an mehrere Schulen ist 'grauenvoll'
+
+Zu Beginn der Durchführung:	
+Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?	
+
+Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
+
+(DAkkS) Welche Arbeitsschritte sind durchzuführen?
+
+Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)	
+- HerkunftsSprachlicherUnterricht (HSU) muss angemeldet werden, bei Schulamt (Kreis Lippe) jedes Jahr neues Anmeldeformular, muss unterschrieben werden
+
+Während der Durchführung:
+Schüler Tab
+Die Sekretärin behauptet, dass sie den ID-Schlüssel natürlich nicht wissen kann und sucht unmittelbar danach nach dem Schüler.
+- Die sind Ortsteile interessant
+- Es wird großer Wert darauf gelegt, dass die Personen vor Ort erscheinen
+- Schild hat veraltete Daten von Schulen
+- ISERV wird verwendet, das ist eine Software über die Schulen mit anderen Schulen, Kindern etc kommunizieren (auch Termine)
+- Es wurde festgestellt, dass das Klassen-Dropdown nicht lädt oder keine Einträge im System vorliegen, 
+- Es ist unklar, ob der Beschulungsbeginn selbst gepflegt werden muss, Frage: "Wie lange sind die Kinder dann bei uns?"
+- Datum kann auch per Tastatur eingegeben werden -> Falsches Datumsformat wurde eingetippt
+- Der Sekretärin fehlt das Wort 'Neuaufnahme' aus Schild
+- Das Wort Warteliste bedeutet in Schild etwas anderes
+- Die angegebene Telfonnummer ist eine unsinnige - Man würde dann bei der anderen, mobilen Nummer anrufen.
+
+Bildungsgang										
+Persönliche Daten										
+Sorgeberechtigte
+- Initial war die Sekretärin irritiert und hat sich gefragt, wieso dort keine Sorgeberechtigen hinterlegt sind. 
+- Im Feld anschrift wurde die Straße eingegeben.
+- Die Hausnummer wurde zusätzlich im Feld Straße eingegeben
+
+Notfallkontakte
+- Aussage "Wir geben nur noch die ein, die zusätzlich sind"
+- Es wurde 'Arbeitsplatz Vater' bei Vorname eingetragen (sowie Handy Vater, Handy Mutter)
+- Frage: "Wie hinterlege ich, dass es sich um den Arbeitsplatz handelt"	
+- Dropback speichert nicht
+- Speichern-Button wird von Dropdown verdeckt, Handynummer wurde zwischenzeitig zunächst nicht akzeptiert	
+- Aussage: "Wenn ein Dropdown auf geht, höre ich auf zu tippen"							
+
+Migrationshintergrund
+- "Nicht vorhanden" ausgewählt und direkt weiter im Prozess navigiert.									
+
+Letzte Tätigkeit
+"letzte Tätigkeit -> also passt das 
+Ansonsten könnten wir das hier eingeben
+- Aussage: "Das Kind kann ja noch keinen Abschluss haben, Für uns ist die Seite sinnlos
+
+Bemerkungen 
+- Frage: "Wer kann die internen Notizen sehen?"
+- Das ist das, was ich bisher immer über die Excel Liste gemacht habe' bemerkung für Schulkind, 
+- Die Felder "Interne Notiz" und "Bemerkung für Schüler*in" wurden mit der Aussage "Anmerkung ist unsere Meinung, Bemerkung ist Fakt" kommentiert.									
+
+Aufnahmeberatung										
+- Die Termine müssen nicht ausgefüllt werden, da es ja schon eine Aufnahmeberatung gab.
+
+Zusammenfassung
+- Die Ladezeit der Seite hatte ein paar Sekunden gedauert.
+- Der Wortlaut der versandten E-Mail ist wahrscheinlich kritisch formuliert, so wie die Meldung andeutet.
+- Die Email sollte aussagen, dass die Anmeldung eingegangen ist, nicht dass das Kind aufgenommen wurde
+- Ich habe keinen jahrgang vorliegen, auf den sich der Schüler bewerben möchte. Es ist wichtig für uns, in welchem jahrgang das Kind bei uns aufgenommen werden soll
+- Die Sekretärin benötigt noch eine Unterschrift, wir müssen das ja prüfen
+- Passt das Schuljahr? Wir würden bei dieser Unklarheit anrufen.
+
+Übersichtsliste
+- Man hätte es gerne auf einen Blick, was noch zu tun ist.
+- Die Chat-Funktion wurde kommentiert mit "Ich möchte doch nicht mit den Schülern reden".
+
+Aufgabe 2 + 3:
+Bewerbung-Tab 'Anmeldung wurde exportiert' unklar
+- Die nachweise dürfen wir nicht schriftlich haben
+- Warn die Geburtsorte der Eltern hinterlegt? -> Nein
+- Speichern hat zu Fehler geführt -> Indikator an den Reitern wären gewünscht
+- Schild wird's mir nachher sagen, wenn was falsch war
+- Die meisten 5-Klässler, die sich bei uns bewerben, haben noch keine Email
+- Nachweis für alleiniges Sorgerecht verpflichtend
+
+Am liebsten hätte ich meinen eingescannten (Anmelde)-Bogen mit drin"		
+
+
+
+Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?
+- Ich konnte das abschließen.			
+
+Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?	
+- Ich hab 2 mal gesagt, dass das gut ist
+- Es muss jetzt in Schild übertragbar sein
+- Iserv auch wichtig, sonst keine weiteren Schnittstellen
+- Bei den Notfallkontakten hätte ich weitere Informationen benötigt.
+- Die Standardinformationen, die ein Schüler einreichen muss, sollte in den Notizen erfassen vereinfacht werden (darf das Kind fotografiert werden, Sport, Schwimmabzeichen, etc)
+- Der wird jedes Jahr neu diskutiert (?)
+- Die Farben sind schön			
+
+Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?			
+- Der Jahrgang ist wichtig, direkt auf der Anmeldungen-Seite	
+
+Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?	
+- Die Felder zum Export waren verwirrend. Aber wenn man es 3 mal gemacht hat gibt's bestimmt keine Probleme mehr
+- Ich hätte den Speichern-Button auch nach oben gesetzt			
+
+Wie verständlich waren die Rückmeldungen der Anwendung?
+- Es gab ja nur einen Anwenderfehler, sonst hat er (die Anwendung) nicht viel mit uns gesprochen			
+
+Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?	
+- Man braucht eine Maus, Tastatur und man muss lesen und schreiben können
+- Mindestens die Grundzüge des Schulgesetzes müssen bekannt sein
+- Selbst Praktikanten könnten das eingeben, es müsste dann aber geprüft werden
+
+Wie sehr entspricht die Umsetzung in der Software der Realität? 
+- Im Prinzip entspricht das 1 zu 1 der Eingabe in Schild
+- Die Notizen der neuen 5er sollten in einer Liste zusammenführbar sein
+- Was mir sehr gut gefällt, ist dass die Kinder informiert werden
+- Das sind 4 Arbeitschritte in einem, was super ist
+- Das Programm könnte der abgebenden Schule mitteilen, dass der Schüler aufgenommen wurden
+- Die Sekretärin sieht Probleme mit Mehrfachbewerbungen	
+
+Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
+- Aussage: "Ich geb das direkt in Schild ein, ich gucke ob die Daten passen, sonst nichts"
+- Die Validierung der PLZ und Orte, Kilometerangabe automatisch ermitteln, Ortsteile aus PLZ-Ort ermitteln
+ - Aktuell mache ich das mit Google Maps
+- In Schild eingeben, bei Fragen anrufen, Stammsatz ausgedruckt, in Akte ablegen. Die Lehrer präferieren die Daten in Papier, weswegen wir das ausdrucken
+- Es wären weitere Daten notwendig einzugeben bei zwischenjährigen Wechsel: Welche Schulform davor besucht wurde und wie viele Jahre
+
+Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
+- Es fehlen noch Informationen, die irgendwie erfasst werden müssen: Angaben zum Ipad müssen erfasst werden (Mietvertrag, Kaufoptionen, etc...)
+- Die Email muss dafür stimmen und muss überprüft werden, kann auch gerne mal falsch sein.
+- Schulbuchbestellung mit in Email an Schüler integrieren, Materialliste (Mappen, Stifte etc)
+- Noten werden auch erfasst (wurde anfangs vergessen)			
+- Die Geburtsurkunde muss uns vorliegen, Die Datenschutzerklärung von uns muss gelesen werden, der Impfausweis muss vorgelegt werden, darf aber nicht erfasst werden. Regulär prüft das bereits die Grundschule und hinterlässt uns eine Notiz wie "Impfbuch wurde vorgelegt" oder "Impfschutz liegt vor", dann wissen wir was gemeint ist. 
+
+Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
+- Schild  bietet mehr Auswahl bei den Notfallkontakten			
+
+Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 	
+- Iserv und Schild			
+
+Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdrucken können?	
+- Für die Schülerakte ein Schülerstammblatt und jedes Jahr die Notenübersicht			
+
+Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?	
+- Alle Formulare, die für die Anmeldung relevant waren (vor allem das Anmeldeformular)			

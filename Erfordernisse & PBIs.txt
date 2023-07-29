@@ -1,0 +1,202 @@
+============= Grundsätzliches =============
+
+- Hemmschwelle senken um das Programm auszuprobieren
+- Erklärung an passender Stelle bezüglich Entscheidung über Mehrfachanmeldungen oder Vorstellung des Konzeptes diesbezüglich
+- Unterstützung für Anmeldung an HSU => ggf. sogar Integration des Schulamts?
+- ID Schlüssel verständlicher machen
+- Dauerhaft sicherstellen, dass wir aktuelles Verzeichnis an Schulen besitzen.
+- ISERV Schnittstelle
+- Dropdowns sollten Felder nicht vollständig verdecken (z.B. bei NFK)
+- Sichtbar machen, welche Felder den Schülern/Eltern angezeigt werden sollen (ggf. durch Icon oder Farbcodierung?)
+- Fehler wieder sichtbar machen (auf welchem Tab der Fehler ist)
+- Anmeldeformular-hinterlegen irgendwo platzieren.
+- Zwischenjährige Wechsel unterstützen und als solche markieren (Info: Diese Bewerbung erfolgt zwischenjährlich!)
+- Schulbuchbestellung unterstützen (ggf. als Zusatzbemerkung in E-Mail und Schreibtisch bei Aufnahme)
+- Bestätigte E-Mails signalisieren
+- Datenschutzerklärung der Schule muss hinterlegbar sein und akzeptierbar sein.
+- Leichte Sprache ist für Förderschulen immens wichtig, das sollte einfach erreichbar sein.
+- Export nach Excel ermöglichen
+- Förderschulen Besonderheit unterstützen: Es gibt keine Schulstufen
+ - Es gibt Schulbesuchsjahre
+- Youtube Video zur Erklärung der Seite schnell aufrufbar hinterlegen mit Vorschau, wie lange das Video dauert (Sollte Hemmschwelle reduzieren, wenn man eine Seite nicht versteht und man sieht "Oh, das geht ja nur 2 Minuten")
+- Mehrere Standorte unterstützen
+- Buzzword Warnung bei sensiblen Stellen wie "Interne Notiz", dass keine nicht-zulässigen Daten erfasst werden - z.B. über Krankheiten, etc. (Und auch ein Hinweis wie man besser vorgehen kann => "Lassen Sie sich den Impfausweis vorzeigen und erfassen Sie den Impfausweis als Dokument bei ihrem Bildungsangebot.")
+- Irgendwas mit "Gutachten liegt vor" für Förderschulen bereitstellen (Entscheidet sich am Ende des Kindergartens, ist das eine "auflösende Bedingung"?)
+- Einzugsgebiete?
+- Checkbox: "Rundgang" gemacht mit Schüler
+- "Mit Stern markierte Felder sind Pflichtfelder" => Muss auch rüberkommen! Ich hatte das Gefühl dass die dachten viele Felder wären required.
+- Wichtige Daten müssen mit Urkunden, etc. ausgefüllt werden	
+- Felder mit Autocomplete sollten als solche markiert sein, niemand wusste den Unterschied zu nem normalen Dropdown.
+- Menüpunkte in der Navigation "Schülerinnen" und "Anmeldungen" klarer differenzieren.
+- Keine leeren Seiten wenn man nur "Anmeldungen" anklickt.
+- Eingetragene Daten in der Anmeldung regelmäßig in Cookie oder Local Storage wiederherstellbar machen
+ - Cookie Hinweis? Falls ja => Den Anwender motivieren das er alle aktiviert.
+ - Evtl. ein Warnhinweis zu Beginn des Anmeldeprozesses bei deaktivierten Cookies: "Änderungen verfallen bei Logout oder dem Verlassen der Seite" => "Das System kann die erfassten Daten einer Bewerbung nicht wiederherstellen, wenn Sie die Seite verlassen oder nach 10 Minuten Nichtbedienung der Anwendung automatisch ausgeloggt werden. Falls sie die Funktion zum Wiederherstellen aktivieren möchten, ändern Sie ihre Cookie-Einstellungen."
+- Es finden sehr viele Telefonate und Unterbrechungen statt
+ - Pausen tolerieren => hinsichtlich Datenschutz, Komfort, etc.
+- Die Schulen würden es aus meinem Bauchgefühl nicht unbedingt von  selbst nutzen, da sie den Mehrwert nicht kennen
+ - Klassische Aussage: "Und das soll jetzt Schild ersetzen?"
+- Reihenfolge der Tabs sinniger gestalten. Insbesondere sollten Dinge die unmittelbar zum Schulkind gehören miteinander verknüpft sein.
+  - Zitat "Der Tab "Persönliche Daten" sollte vor dem Tab "Bildungsgang" erscheinen, da das auch so in Schild ist."
+  - Nach Auffassung einer Sekretärin hätte die letzte Tätigkeit noch im Kontext der Bearbeitung der Schüler-Daten kommen sollen, da es sich um ergänzende Informationen zur Person handelt, nicht erst nach den Sorgeberechtigten und Notfallkontakten
+ - "Bemerkung" tab sollte wieder früher kommen 
+ - Gesamtfazit eines Sekretariats: Tabanordnung hat alles unübersichtlich gemacht
+- Sollte sich ein Schulkind über logische dinge hinwegsetzen, dann sollte SO2.0 darauf hinweise, dass es Diskrepanzen in den Daten gibt 
+    - Beispiel 1: Wenn eine Anmeldung an die Sekundarstufe 1 erfolgt und die letzte Jahrgangsstufe=3 ist
+    - Beispiel 2: Anmeldung an Sek2 als Grundschüler
+    - Beispiel 3: Datumsangaben widersprechen sich
+    - Beispiel 4: Jahrgang wurde irgendwann übersprungen oder wiederholt
+    - Es sollte dann eine Warnung erscheinen oder sich ein Fenster öffnen, sobald man speichern möchte.
+- Es ist nervig, wenn das Anmeldeformular anders aufgebaut ist als der Create / Update Prozess
+ => Die Anmeldeformulare müssen sich Schüler Online beugen. Wir müssen einen leichten Prozess für neue Anmeldeformulare bieten, viele Schulen besitzen ja selber schon eigene Anmeldeformulare.
+- Reihenfolge der Datenabfrage mit Schild synchronisieren. Die Schulen sind Schild gewohnt, Schüler Online nicht.
+- Schulwechsel und Stufe wiederholen unterstützen und klarifizieren, wie man damit umgeht.
+- Es gibt Flüchtlingskinder, wo nicht alle Daten vorhanden sind
+- Langfristige Beurlaubung oder ähnliches, bei dem unklar ist, in welche Klasse das Kind gehen soll
+ - Fallbeispiel: Kind ist in Therapie, nimmt nicht an schule teil, Eltern ziehen um und müssen es aufgrund der Schulpflicht trotzdem an der Schule anmelden
+ - Diese Kinder werden in der Regel in der Klinik geschult (Abfrage der Unterichtsinhalte an Schule) mit Personal der Klinik
+- Man muss der Anwendung vertrauen können, dass sämtliche Daten vom Schüler korrekt ausgefüllt wurden, ohne dass man nochmal durch den gesamten Update Dialog durchgehen muss und alle Daten nochmal einzeln prüfen zu müssen
+ - Alternativ: Aufwand senken, sodass man davon ausgehen kann: Die Daten passen soweit für ne Aufnahme. Vielleicht wäre hier n Report gut, der alle relevanten Aufnahmeentscheidungsgrundlagen ALLER Bewerbungen in einem Dokument zusammenfasst? Oder eine eigene Liste mit diesen Infos?
+- Wichtiger Wunsch von allen Sekretariaten: Es sollte eine Unterscheidung oder Markierung geben, welche Felder den Eltern sichtbar gemacht werden, damit das Sekretariat weiß, WO sie WELCHE Informationen reinschreiben dürfen. Sie würden auch gerne "Mutter lügt bei XXX" hineinschreiben und sich sicher sein können, dass das die Mutter nicht sehen kann.
+- Plz Ort Suche sollte 32657 Lemgo unterstützen. aktuell wird nur 32657 unterstützt aus Performancegründen. Das kriegt man aber noch besser hin  durch z.B. Denormalisierung
+- Vorausfüllen des Staats Deutschland an geeigneten Stellen
+- Hilfe + Support
+ - Zitat: "Hilfeoption oder ähnliches wäre praktisch" (Wurde nicht gefunden/wahrgenommen)
+ - Zitat: "Ein Handbuch wäre gut um selber Probleme zu korrigieren" (Wurde nicht gefunden/wahrgenommen)
+ - Wie wärs mit nem "Intro"/Tutorial, wo die unterschiedlichen Bereiche einmal kurz gehighlighted werden und erklärt werden. Habt ihr sowas schon mal gesehen Chrissy/Ingo? 
+- Gesamtfeedback:
+ - Positiv im vergleich zum alten SchülerOnline => bessere Struktur, übersichtlicher	
+ - Es kann jeder machen, die Begrifflichkeiten wären auch für Laien verständlich	
+- Auf die Frage "Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?", die ich NACH der Bearbeitung der Anmeldungs-Aufgabe gestellt habe, gab es diese Antworten:
+- Noch ein zusätzliches Programm => Mehr Aufwand 
+- Dopplung zu SCHILD 
+- Es sollte die Möglichkeit geben eine E-Mail anzugeben, wenn neue dinge (z.B. eine Anmeldung) vorhanden sind, womit dann in einem einstellbaren Intervall Neuigkeiten empfangen werden können.	
+================ TABS ===================
+
+Schüler-Suche
+- Die Schüler Suche sollte bei der Primarstufe den Eindruck vermitteln, dass schon Daten von der Kommune eingepflegt sein sollten (Wenn sie sich um Schüler Online kümmern, ggf. könnte man ja auch sagen, dass bereits bspw. 400 Schülerdatensätze von der Gemeinde Lemgo erfasst wurden) und man den Schüler in der Regel über diese Suche findet. Bei Sek-1 sollten die Daten von der Grundschule eingepflegt worden sein und bei Sek2 von der weiterführenden Schule.
+- Sinn und Zweck des ID-Schlüssels war größtenteils nicht gegeben (Wie wärs mit nem guten Hinweis / Placeholder => "Kann Ihnen von Ihrer Kommune mitgeteilt werden bei doppelten Daten")
+ - Eine Sekretärin dachte laut: "Braucht man den? Wofür ist der da? Kann man den ignorieren?"
+- Eine Sekretärin dachte laut: "Was bedeutet die Suche? Wo genau wird gesucht?" Laut ihr wäre hier ein Anhaltspunkt wichtig (Hinweistext)
+- 
+
+Bildungsgang
+- Hinweistext zu Klasse o.ä. (Dass man die später ausfüllen kann oder JETZT Klassen anlegen kann)
+- Die Klasse wird teils als Jahrgangsstufe missinterpretiert.
+- Hinweistext zu Beschulungsbeginn/Ende
+- Das Gymnasium gibt bei dem Schulbeginn/Ende immer die korrekten Daten an, das machen allerdings nicht alle Schulen so, was für Nachweise wichtig sein kann, unter anderem für Kindergeld und weitere Informationen, wie lange das Kind an der Schule war
+ - Es wäre das beste, wenn die Gesetzgebung den Schulbeginn/Ende vorgibt und es so für alle Schulen gleichmäßig ist
+ - Zitat Schule: "Es wäre hilfreich, wenn der Schulbeginn/Ende direkt unter dem Schuljahr ist und dann der Beschulungsbeginn/Ende dort individuell angegeben werden kann"
+- Begrifflichkeiten zu Schild synchronisieren bzgl. Bewerbungsstatus (oder nachvollziehbar machen)
+ - Warteliste, Neuaufnahme
+- Niemand hat bei Aufnahmestatus gescrollt, jeder hat das Kind auf "Angemeldet" gesetzt.
+ - 3 oder 4 von 4 Sekretariaten hatten den Wunsch die Begriffe in diesem Dropdown den Begriffen von Schild gleichzusetzen.
+- Default Sort Schuljahre
+- Es war beim Gymnasium Unklar, warum für die Anwendung wichtig ist, dass eine Aufnahmeberatung erfolgt ist
+- Eine Sekretärin weiß zunächst nicht, wozu die Uhrzeit dient, die andere Person erklärt, dass in der Oberstufe unterschiedliche Startuhrzeiten vorliegen.
+- Die Schulgliederung wird bei einem Sekretariat interpretiert als die Schulgliederung, welche vorher besucht wurde, es war unklar was ausgewählt werden sollte
+
+Persönliche Daten 
+- Verdeutlichen, welche E-Mail und Telefonnummer gewollt ist (Zitat: "Kommt hier die von den Eltern rein? Vom Schulkind? Welche soll man da eintragen")
+- Verdeutlichen, dass Notfallkontakte später abgefragt werden. Ist vielleicht sogar egal, weil wenn man das erste Mal den Prozess durchlaufen hat weiß man, dass später die Notfallkontakte kommen :-)
+- Ortsteile sind interessant, sollte man da nochmal drüber sprechen? Auf jeden Fall sollten wir die Daten bereitstellen und auf Gemeinde vorfiltern. Die Sekretariate fanden die Ortsteile sehr wünschenswert, aber nicht notwendig. (Ich glaube wegen Bussen...? Vielleicht auch noch aus anderen Gründen.)
+
+ - Dropdown mit Vorschlägen?
+- Kilometerentfernungen berechnen
+- Vorwahlprüfung => Stadt anzeigen (z.B. "Vorwahl Lemgo in grün") => Sonst Warnung mit "Diese Vorwahl ist dem System nicht bekannt."
+- Warnung bei nicht vorhandener Straße
+
+Sorgeberechtigte
+- Warnhinweis bei Verlassen des Dialogs
+- Warnung bei Eingabe einer Zahl in Straße?
+- Adressart intuitiver eingliedern
+- Nachweise hinterlegbar machen (Falls legal) => Oder Checkbox?
+- "Erstellen" Button
+ - auch ggf. oben platzieren
+ - umbenennen zu "Speichern"
+- Pflegeeltern als Art-Daten hinzufügen
+- Weitere Telefonnummern hinzufügen, sodass man Tel1: Privat, Tel2: Mobil, Tel3: Dienstlich angeben kann. Das geht Hand in Hand mit den Notfallkontakten, evtl. sollte man die Sorgeberechtigten auch übertragbar zu den Notfallkontakten machen. Auch optionale Erreichbarkeitszeiten bei Notfallkontakten je Telefonnummer wurde gewünscht, da Papa bspw. um 9 Uhr nur noch Dienstlich erreichbar ist, aber ab 17 Uhr wieder privat und via Handy jederzeit.
+- Ggf. Erfassung eines Nachweises oder anhaken von "Nachweis über alleiniges Sorgerecht liegt vor".
+- Dropback (rausklicken oder Abbrechen) ohne Rückfrage muss verhindert werden 
+- Adressdaten übernehmbar machen aus persönliche Daten (falls das nicht ohnehin schon eingeplant war)
+- Klarheit schaffen, wann man ein Postfach verwenden möchte, dadurch können wir auch wieder Verständnis für die Anwendung schaffen.
+
+Notfallkontakte
+- Warnhinweis bei Verlassen des Dialogs
+- Möglichkeit schaffen, dass man "Arbeitsplatz Mutter" erfassen kann
+ - Also einerseits dass man mehrere eingeben als auch die Beschreibung PRO NUMMER erfassen kann
+- Abgleichen mit Schild
+- Nachbarn + Pflegeeltern als Rolle-Daten hinzufügen
+- Erreichbarkeitszeiträume optional erfassbar machen
+- Umgang mit sensiblen Informationen (Sollte man eine Checkbox diesbezüglich platzieren?)
+- Eine Sekretärin war gegen eine Anruf Prioritätenliste, ich wills nur nochmal aufgreifen.
+
+Letzte Tätigkeit
+- Abschlüsse sinnvoll vorausfüllen oder gar ausblenden o.ä. bei Primar & Sek-I Anmeldungen
+- Schulen Suche
+ - Suche nach Schulen abgleichen mit Schild. Die Funktionalität dort fanden die Sekretärinnen besser.
+ - Müsst ihr abwägen Ingo+Chrissy: In der Schulsuche sollte die eigene Umgebung bevorzugt werden bezüglich der Sortierung (also erst diese Einträge und dann der Rest von NRW/Deutschland)
+ - Es sollten nur realistische Auswahlmöglichkeiten angezeigt werden (Bei Bewerbungen für die Sekundarstufe 2 sollten bspw. keine Grundschulen gelistet werden.)
+- Letzte Klasse: Wenn die Kinder die Informationen selber ins Formular geben, dann geben diese oft nur Klasse "4" an, ohne die Information 'a','b','c','d','e', ...
+- Hinweis dass es um die letzte Tätigkeit des Schülers geht (nicht um die letzte Tätigkeit der Eltern o.ä.)
+- Angestrebte Schulstufe widerspricht dem Seitentitel und macht es unintuitiv
+- Alter bei Einschulung in jedem System berechnen und gesperrt anzeigen (Da sich Eltern verrechnen)
+ - "Ihr Kind wurde im Alter von 6 Jahren eingeschult." oder "Alter bei Einschulung: 6 Jahre".
+- Bei nicht gefundener Schule ist es unklar wie man weiterehen soll, es wird eine Checkbox überdeckt von der Suche
+ - Ich hatte das Gefühl dass der Text der Checkbox auch nicht ganz verstanden wurde
+- Side-Fact: Die Daten müssen aus häufig aus Zeugnissen und anderen Dokumenten gelesen werden, da die Kinder/Eltern die Informationen entweder gar nicht oder unpassend angeben	
+- Beim Speichern tritt eine Fehlermeldung auf (Die Fehlermeldung ist sehr unklar) => Hier sollte eine Führung kommen, wo genau darauf hingewiesen wird, wo der fehler liegt und wie dieser behoben werden kann.
+ - Am besten sollte der Fokus auf das Feld gesetzt werden, welches Fehlerhaft ist. (Das sollten wir aber abwägen. Könnte auch ggf. stören)
+ - Ich kann darüber hinaus meine Validierungs-Fehlermeldungen nochmal verbessern.
+
+Dokumente
+- Unterstützung für...
+ - Geburtsurkunde
+ - Impfausweis
+  - Synergieeffekte mit vorheriger Schule...? (Zulässig?)
+ - Essensanmeldung 
+ - Einen Notfallkontaktbogen (bzgl. Medikamente, Telefonnummern, Krankenkasse, Hausarzt, Allergien, etc.)
+ - Ein Formular zur Fotoerlaubnis  für Webseite / intern, 
+ - Schweigepflicht (?) siehe Lukas Notiz
+ - Infos zum Schülerspezialverkehr (bus)
+ - siehe die 2 E-Mails die Lukas erhalten hat
+ - Schweigepflichtsentbindung
+ - Einverständnis für PKW / Bulli Mitfahrten
+
+
+Zusatzfragen:
+- Unterstützung für...
+ - Angaben fürs Ipad (Mietvertrag, Kaufoptinen)
+ - Noten
+- Sollten hier eigene Checkboxen, die nicht vom Schüler eingetragen werden, unterstützt werden?
+ - Bsp: "Es gab einen Rundgang"
+- Angabe von Wunschklassenkameraden sowie eine Limitierung der maximalen Anzahl ebenjener (Schule wollte maximal 2 Wünsche) => Eltern schreiben teilweise 10 Klassenkameradenwünsche über das Feld hinaus, obwohl nur 2 erlaubt sind.
+
+Bemerkungen
+- Hier sehr wichtig: Sichtbar machen, welche Felder den Schülern/Eltern angezeigt werden sollen.
+ - Aussage: Die Felder "Interne Notiz" und "Bemerkung für Schüler*in" wurden mit der Aussage "Anmerkung ist unsere Meinung, Bemerkungen sind Fakten" kommentiert.	
+- ggf. Hinweis, wo man Chat (de-)aktivieren kann.
+
+Zusammenfassung
+- Loading Spinner hinzufügen
+- Nachvollziehbar machen, dass die versandte E-Mail je nach Aufnahmestatus eine Interessensbekundung oder eine Aufnahme ist.
+ - Die Eltern nehmen laut einer Sekretärin erfahrungsgemäß den Aufnahmestatus "Angemeldet" als Bestätigung / Nachweis, obwohl die Entscheidung über eine Aufnahme an der Schule erst intern später gefällt wird. Dies könnte ein Druckmittel sein. Der Elternwille sei im Allgemeinen sehr stark ausgeprägt. => Es sollte signalisiert werden, dass Schüler Online eine geeignete E-Mail verschickt hat. Ja, es wird beworben heißen, allerdings wär's cool wenn man hier zur Schule Vertrauen aufbaut.
+- Nächste mögliche Schritte darlegen, was das Sekretariat tun KANN, zu tun HAT oder ERHALTEN WIRD (In der E-Mail steht, dass das Schulkind das Bewerbungsformular ausdrucken und unterschrieben vorbeibringen muss. bzw. via E-ID was einreicht.)
+ - Schild/Schulverwaltungsprogramm-Export 
+- Wenn Eltern getrennt leben oder es einen Vormund gibt sollten ggf. mehrere cc-mäßig kontaktiert werden.
+
+
+============== Übersichtsliste ====================
+- Man hätte es gerne auf einen Blick, was noch zu tun ist.
+- Laufende Nummer der Anmeldungen, auch sortierbar danach.
+ - Löschverhalten und Updateverhalten? Insert führt ein MAX+1 durch.
+ - 
+- Die Sekretärin hovert lediglich über das Stift Symbol, mit dessen Hilfe Sie den Schülerdatensatz bearbeiten könnte.
+
+Update - Bewerbung Tab
+- Exportiert-Bereich ist unklar.
+ - Sekretariat a) Die "Anmeldung wurde exportiert" Checkbox wurde für 'als abgearbeitet' verstanden
+ - Sekretariat b) "Anmeldung Exportieren" wird als Export an neue annehmende Schule interpretiert
+ - Es ist unklar, warum die blaue formatierten Texte "Dokumente" nicht angeklickt werden können
+- Die Funktion des Buttons "Bewerbungsformular" ist zunächst unklar.
+- Die letzten 3 Tabs wurden nicht bemerkt wegen der Bildschirmgröße und sie deswegen versteckt waren

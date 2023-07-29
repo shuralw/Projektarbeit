@@ -1,0 +1,212 @@
+Interview mit Förderschule
+In welchem Umfang besitzen Sie Vorerfahrungen mit Schüler Online 1.0? 		
+Keine
+
+In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?		
+- Schon einmal kurz reingeguckt, auch schon die Elternseite
+- Seite war schon offen und angemeldet	
+- Nur bund-ID ist möglich, für unsere Eltern wäre das zu schwer. Man müsste das simplifizieren, ein Link zum Einloggen wäre gut ohne Bund-ID
+- Leichte Sprache ist sehr wichtig, sogar auf englisch
+- Export zu Excel und Schild wäre gut.
+- Einstellung "Ich probier mal lieber, als mir was anzuhören"
+- Aussage: "Die (Datensätze unter Anmeldungen) sind einfach so reingekommen" (Ihr ist zu Anfang aufgefallen, dass die Daten zu Aufgabe 2&3 vorliegen.)
+
+Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?
+- Meistens nur, dass die (Hand-)schrift der Anmeldeformulare nicht lesbar ist, vor allem die E-Mail-Adressen
+- Für die Eltern ist es meist recht entspannt, Ablauf ist Gespräch -> Mail -> Gespräch mit Rundführung -> Unterlagen ausgefüllt
+- Unterlagen direkt ausfüllen geht auch
+- Selten vom Schulamt direkt
+- Schon recht simpel, komplizierter macht keinen Sin. (?)
+- Anmeldeformulare manchmal nicht direkt aufzufinden (?)
+
+Wer nutzt das System hauptsächlich an Ihrer Schule?
+- Das Sekretariat im Zusammenspiel mit Verwaltung, 
+- Trennung zwischen Lehrer und Schule Trennung Erfassen und Übernehmen in Schild (?)
+- Es gibt mehrere Standorte	
+- Die Klasseneinteilung erfolgt nach Schulbesuchsjahren, dadurch unterschiedliche Altersklassen, daher auch keine Standortunterscheidung
+
+Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?
+- technisch erstmal n Rechner, Internet
+- wir im Sekretariat würden damit klar kommen. Einmal gesehen, damit man weiß wie das grundlegend funktioniert.
+- Kenntnisse zum Schulgesetz nicht unbedingt
+- Informationen werden weitergegeben an Busunternehmen etc. Die Eltern hier unterschreiben die auf dem Formular (Datenschutz)
+- Also man darf nicht einfach alles eintragen. Man muss auf Datenschutzaspekte achten
+
+Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.		
+- Mit den Eltern haben wir schon vorher telefoniert, wir warten auf den Zettel, es muss noch ein Gutachten gemacht werden (entscheidet sich am ende des Kindergartens) es gibt unterschiedliche Arten von Gutachten
+- Wir achten auf das Einzugsgebiet
+- Meist reicht uns schon die Info, dass das Kind autistisch ist						
+									
+Zu Beginn der Durchführung:									
+Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?
+- Die Eltern müssen bei uns im Vergleich zu anderen Schulen mehr an die Hand genommen werden
+- Google maps verwende ich sehr selten
+
+Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?		
+- Ich hab meine 3 neuen Schüler hier drin
+- Eine Rangfolge wäre gut (durchnummerriert) wie eine laufende Nummer, die sich nicht ändert. Wäre fürs für abheften sinnvoll und dann später in Schild übertragen
+
+Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)		
+- Einen Feste Sortierung, damit die Reihenfolge immer gleich bleibt	Bewerbung Nr1, Nr2... Ordner ausgedruckt, nach der Nummer sortiert, um die so abzuarbeiten (?)
+									
+Während der Durchführung:									
+- Es gibt die Primarstufe, Sek I, Sek II so nicht bei uns.
+- Ankreuzen, mit wem habe ich schon den Rundgang gemacht
+- Eine "Schulstufe" reicht mir. Und wir würden die dann gerne nach sortieren dann die Anmeldungen nach schulkindalter sortieren.
+- Ist initial zum Menüpunkt "Schulkindern" gewechselt, nicht zum Menüpunkt "Anmeldungen"
+- Sucht jetzt nach dem Kind => Suche war eigenartig	Unterschied zwischen Schulkind und Anmeldung			
+
+Bildungsgang
+- Die Reihenfolge der Schuljahre ist nicht sinnvoll
+- Der Stern wurde als Markierung als Pflichtfeld verstanden
+- Runterscrollen in Aufnahmestatus war verwirrend (?)
+- Das Feld Weiterer Unterstützungsbedarf ist sinnvoll
+ - Ich darf Keine Details über Krankheit, nur die Auswirkungen da rein schreiben.
+- Information, konnte aber nichts dahinter schreiben (im Sinn von Notizen)	"welche Informationen dürfen Sie da rein schrieben? Was benötigt das Kind, müssen wir mehr organisieren z.B. Rollstuhl in Bus oder Klassen raum (?)
+
+Persönliche Daten
+- Die Autovervollständigung wurde nicht in anspruch genommen
+- Bei bisher unbekannten Straßen wird bei Google Maps überprüft, ob es die gibt.
+- Telefonnummer wurde auf festnetz geprüft
+- Eine Information, wann die Person (Eltern oder Schüler) unter der Telefonnummer erreichbar ist, wäre hilfreich. Auf der anderen Hand hingegen wird (?)
+- Je mehr nummern erfasst wurden, desto besser. Nachbarn können auch gut sein und helfen (Freund der Familie zum Untestützen, z.B. aufgrund von Sprache)
+- Die Notfallkontakte wurden früher erwartet. Die Sekretärin hatte bereits resigniert dass man hier keine Notfallkontakte mehr eintragen kann.
+- Es gibt immer mal wieder welche (Eltern/Schüler), die keine Mail haben
+							
+Sorgeberechtigte		
+- Man geht immer vom Standard aus beim Feld Sorgerechtsgrund
+- Bei Sonderfälle lass wir uns dann die Infos geben.
+- Der Erstellen Button wurde als Speichern interpretiert.
+- 'Das ist ne andere Tel als oben, ach egal' (?)
+- Das Feld Adressart wurde als Feld für die Straße zunächst verstanden
+ - Da man es gewohnt ist zunächst Staat => PLZ/Ort => Straße => Hausnummer einzutippen ist man so im "Flow" und tippt automatisch die Straße ein.
+						
+Notfallkontakte
+- Aussage: "Das ist auch hier wieder Mama"
+- Die Sekretärin versucht zunächst beide Telefonnummern in ein Feld zu schreiben, da es nur ein Feld für eine Telefonnummer gibt.
+ - Sie löscht dann die Festnetz-nummer, sodass nur noch mobil drin ist
+ - Es wäre gut wenn man hier Erreichbarkeitszeiträume mit erfassen könnte.
+- Mehrere Tel nach auf privat das, auf arbeit hier -> ja (?)
+- Pflegeeltern nicht vergessen (?)
+- Wichtig ist, dass ich erfasse wer das genau ist, nicht dass ich den Freund (jemand Bekannten) anrufe und ihm sensible Informationen mitteile.
+- Eine Anruf-Prioritätenliste ist nicht unbedingt sinnvoll
+
+Migrationshintergrund
+- Im Hintergrund wird telefoniert, es entsteht dementsprechend eine entsprechende Geräuschkulisse
+
+Letzte Tätigkeit
+- Frage: Die letzte Tätigkeit von der Mama oder von Ihm (dem Schüler)?
+- Die Angestrebte Schulstufe verstanden als letzte Schulstufe (welche bei der Primarstufenameldung nicht existiert), da die Seite "Letzte Tätigkeit" heißt und es das unmittelbar erst Feld ist.
+ - Die Eingabe eines Kindergartens fehlt in Folge dessen
+ - Aussage: "Ich habe falsch herum gedacht"
+- Angestrebte Schulstufe passt nicht auf unsere Schule, wählt erstmal Primarstufe aus (?)
+- Die Sekretärin sucht nur nach Lemgo und findet den konkreten Kindergarten nicht
+- Die Checkbox "Kindertageseinrichtung nicht in der Liste gefunden?" Wird nach zweimaliger Suche verwendet und eine manuelle Eingabe vorgenommen.
+ - Die Checkbox wird nach zuklappen direkt gefunden
+- Die Dauer des Besuchs ist meist nicht relevant
+
+Qualifikationen			
+ 
+Termine
+- Infos über Schulführung hier unterbringen (?)
+
+Notizen 
+- Interpretation der Felder intern : infosüber kaontaktaufnahme (?)
+- für den schüler: Rollstuhl etc (?)
+- alles nur für Intern"	 (?)
+- Das Telefon klingelt, die Kollegin nimmt ab
+
+Aufnahmeberatung							
+
+Zusammenfassung		
+- Interpretation der Informationen: Die Mutter wurde kontaktiert
+- Es fand ein Gespräch im Raum statt (ohne die Sekretärin), was recht laut war
+
+Aufgabe 2 & 3:
+Bewerbung-Tab 
+- Eine Essensanmeldung fehlt
+- Anmeldeformular nochladen
+- Die "Anmeldung wurde exportiert" Checkbox wurde für 'als abgearbeitet' verstanden
+
+Termine-Tab
+- Vergleich zu Excel ziehen (?)
+- Eine Checkbox mit dem Titel "Gab es einen Rundgang?" fehlt
+
+- Es trat ein Fehler auf. Das Vorgehen wird nun mit "Ich gehe jetzt durch die Tabs durch" beschrieben.
+- Ich hätte jetzt gerne auf dem Reiter einen Hinweis, damit ich nicht suchen muss (wo der Fehler ist)
+
+- Die weiter-Buttons verstecken weitere Tabs,
+- Der Prozess füht mich da so durch, daher hab ich mir da nicht weiter Gedanken gemacht
+
+man muss dann später die Klasseneinteilung vornehmen
+tabs nochmal prüfen"
+									
+									
+Nach der Durchführung:									
+Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?		
+- Ich hab den Schüler reinbekommen, also ja							
+
+Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?		
+- Ich fands relativ intuitiv
+- Die Letzte Tätigkeit, ja ok, da gab es Irritationen
+- Alles andere war recht schnell
+
+Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?		
+- Der Unterschied zwischen Schüler und Anmeldung sollte klarer sein, sonst nein
+							
+Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?		
+- Nein
+- Wenn Eltern getrennt leben oder es einen Vormund gibt sollte es mehr Adressen geben, sodass mehrere kontaktiert werden
+- Status muss dabei erfassbar sein (?)
+
+Wie verständlich waren die Rückmeldungen der Anwendung?		
+- Hinweis auf Reiter mit Fehler hat gefehlt
+
+Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?		
+- Man muss der deutschen sprache mächtig sein, Lesefähigkeit reicht							
+
+Wie sehr entspricht die Umsetzung in der Software der Realität? 		
+- Meistens sind es die Eltern, die den Schüler anmelden
+- Praktisch wäre es, wenn die Kommunen das vorbereiten
+- Bei Ummeldung passiert der Umzug meist in den Sommerferien, damit die Lernlücke nicht so groß ist
+- Unterschied zwischen den unterscheidlichen Schülertypen(?) S, G etc	telefonat vor der Antwort (?)
+
+Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?		
+- Das würde nur die Excel Tabelle ersetzen
+- Es muss Felder oder Hinweise daran geben, welche die Eltern dann später nicht sehen
+ - Sichtbarkeit (Sekretariat vs Eltern) deutlich machen					
+
+Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?	
+- Bisher nur, dass die Eltern da noch keine wirkliche Möglichkeit haben sich mitzubeteiligen
+- Bisher verwende ich eine Excel tabelle für notizen, es muss einfacher sein als Excel
+- Nachfrage nach Bewerbungsformular (?)
+									
+Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?		
+- Nö, wir haben auch nicht mehr Daten (?)
+							
+Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 		
+- Excel und Schild
+							
+Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdrucken können?		
+- Das Bewerbungsformular
+- Das Formular für Essensverpflegung
+- Infos zum Schülerspezialverkehr (bus)
+- Einen Notfallkontaktbogen (bzgl. Medikamente, Telefonnummern, Krankenkasse, Hausarzt, Allergien, etc.)
+- Ein Formular zur Fotoerlaubnis
+- Schweigepflicht (?) siehe Lukas Notiz
+- Wir besitzen 15 bis 20 Formulare
+
+Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?
+- Die Anmeldung 
+- Den Rest scannen wir nicht ein, das geht so in die Akte
+- Frage: Kann man die Software auch für Praktikanten verwenden?
+- Missbrauch von SO? (?)
+
+
+Wechsel im Schuljahr, Daten an andere Schulen weitergeben
+					
+Welche Arbeitsschritte sind durchzuführen?		
+- Es muss geklärt werden, ob Rundgang durchgeführt wurde
+- Daten müssen aufgenommen werden und das Gutachten für später in den Akten angefordert werden.
+- Es muss ein kurzes Kennenlernen stattfinden
+- Es muss entschieden werden in welche Klasse das Kind kommt, dann in die Struktur

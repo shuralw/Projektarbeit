@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2023-07-31T15:01:41.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0H7FVWXR0eno7x2b-eFh" version="21.6.6" type="device">
+  <diagram id="6CFMpTPamAb4-6U3RSOZ" name="Seite-1">
+    <mxGraphModel dx="2314" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qllGP9LnnCHWxWjseUkL-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="690" width="535" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="270" width="940" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="400" width="535" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-1" target="qllGP9LnnCHWxWjseUkL-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-1" target="qllGP9LnnCHWxWjseUkL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-1" value="Abgebende Schule legt Schüler im System an" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="105" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-2" target="qllGP9LnnCHWxWjseUkL-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-2" value="Schüler bewirbt sich eigenständig an der Schule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="325" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-3" target="qllGP9LnnCHWxWjseUkL-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-3" value="Schüler wird von aufnehmender Schule&amp;nbsp;&lt;br&gt;&amp;nbsp;im System gesucht&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="525" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-4" value="Schule entscheidet &lt;br&gt;über Aufnahme&lt;br&gt;(Update Prozess)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="865" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-5" target="qllGP9LnnCHWxWjseUkL-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-5" value="Schule ergänzt ggf. Daten&lt;br&gt;(Update Prozess)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="525" y="430" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-6" value="Aufnehmende Schule erzeugt &lt;br&gt;Anmeldung für Schüler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="715" y="590" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-14" target="qllGP9LnnCHWxWjseUkL-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-14" value="Schüler bewirbt sich&lt;br&gt;eigenständig an der Schule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-15" target="qllGP9LnnCHWxWjseUkL-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-15" value="Schüler erstellt seinen Datensatz eigenständig im System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="100" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-17" target="qllGP9LnnCHWxWjseUkL-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-17" value="Betrieb bewirbt den Schüler an der Schule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-19" target="qllGP9LnnCHWxWjseUkL-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-19" value="Betrieb erstellt &lt;br&gt;Schüler-Datensatz &lt;br&gt;im System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="100" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-20" value="Schule entscheidet &lt;br&gt;über Aufnahme&lt;br&gt;(Update Prozess)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="860" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-21" target="qllGP9LnnCHWxWjseUkL-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-21" value="Schule ergänzt ggf. Daten&lt;br&gt;(Update Prozess)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="520" y="720" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-25" value="Schule entscheidet &lt;br&gt;über Aufnahme&lt;br&gt;(Update Prozess)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="860" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qllGP9LnnCHWxWjseUkL-27" target="qllGP9LnnCHWxWjseUkL-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-27" value="Schule ergänzt ggf. Daten&lt;br&gt;(Update Prozess)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="520" y="840" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-32" value="Aufnehmende Schule erzeugt Schülerdatensatz&lt;br&gt;und Anmeldung für Schüler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="105" y="300" width="920" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-40" value="Aufgabe 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="274" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-41" value="Aufgabe 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="400" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qllGP9LnnCHWxWjseUkL-46" value="Aufgabe 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="690" width="570" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

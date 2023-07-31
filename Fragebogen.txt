@@ -29,3 +29,42 @@ Organisatorische Rahmenbedingungen
 20. Welche Änderungen, die die Aufgabenbearbeitung beeinflussen, sind zu erwarten oder werden gewünscht? Welche Vorschläge hat der/die Befragte dazu? 
 21. Von welchen Arbeitsergebnissen / Arbeitsschritten sind Dritte (z. B. Kunden) direkt betroffen? Und was folgt daraus? 
 22. Welche Stressfaktoren gibt es und wie wird damit umgegangen?
+
+Vorab: 
+- Wer nutzt das System hauptsächlich an Ihrer Schule?
+	- Deren Positionen (Schulleitung, Sekretariat, Oberstufenkoordination)
+- Welche (Teil-)Faktoren bestimmen das Abschließen einer Bewerbung, sodass sie diese nicht mehr bearbeiten müssen?
+	- Bspw. ausgedrucktes Bewerbungsformular erhalten, Beratungsgespräch ist erfolgt, Schulleitung hat über die Aufnahme des Schülers positiv entschieden 
+- Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?
+- Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.
+	- Welche Informationen liegen Ihnen zum Fall (zur "Akte") vor? Welche Dokumente haben Sie erhalten, etc.
+- In welchem Umfang besitzen Sie Vorerfahrungen mit Schüler Online 1.0? 
+- In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?
+	- z.B. Schulungen für Schüler Online 2.0 besucht oder sich anderweitig über die Bedienung der Software informiert oder gar ausprobiert?
+- (DAkkS) Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?
+
+Zu Beginn der Durchführung:
+- (DAkkS) Welche Arbeitsschritte sind durchzuführen?
+- (DAkkS) Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?
+- (DAkkS) Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
+- (DAkkS) Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)
+
+Während der Durchführung:
+- Für jeden Tab / Seite: Welche Seiteninhalte sind unverständlich?
+
+Nach der Durchführung:
+- Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein - was hat Sie daran gehindert?
+- Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?
+- Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?
+- Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?
+- Wie verständlich waren die Rückmeldungen der Anwendung?
+- Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
+- Wie sehr entspricht die Umsetzung in der Software der Realität? 
+- Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
+	- Es gibt in der Praxis Fälle, wo bspw. das "theoretische" Schulgesetz im nicht-digitalen Verfahren falsch angewandt wird. Interessant wären hier als Antworten insbesondere gemeinsame Falschanwendungen (des Gesetzes o.ä.) in der Realität
+- Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
+- Wie sehr erleichtert Ihnen die Anwendung ihre Arbeit?
+- Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
+- Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 
+- Welche Dokumente würden Sie gerne im Prozess ausdrucken können?
+- Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?

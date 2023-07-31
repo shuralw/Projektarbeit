@@ -1,11 +1,63 @@
 \section{Theoretischer Hintergrund}
 In diesem Kapitel solltest du den theoretischen Hintergrund deines Themas erläutern und den aktuellen Forschungsstand darstellen. Hierbei kannst du auf Literatur und Quellen zurückgreifen.
 
-Definition von Problemstellen im Rahmen dieser Ausarbeitung 
-Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung 
-Definition von Effektivität im Rahmen dieser Ausarbeitung 
-Definition von Zufriedenstellung 
-im Rahmen dieser Ausarbeitung 
+\subsection{Definition von Effektivität im Rahmen dieser Ausarbeitung }
+Die ISO 9241-110 definiert Effektivität wie folgt: "Effektivität = Die Genauigkeit und Vollständigkeit mit der Benutzer ein bestimmtes Ziel erreichen" \cite{ISO-9241-110}. 
+"[Sie] bezeichnet das Ausmaß der Übereinstimmung von tatsächlichen und angestrebten Ergebnissen."\cite{iso-9241-11}. Ein "Mangel an Effektivität kann zu Ergebnissen führen, die nutzungsbedingte Schäden nach sich ziehen könnten."\cite{iso-9241-11}
+In Anlehnung an diese Definition kann also festgelegt werden, dass Effektivität im Sinne dieser Ausarbeitung den Erreichungsgrad Genauigkeit und Vollständigkeit mit dem die Studienteilnehmer die drei an sie gestellten Aufgaben erreichen. 
+Kriterien, die darauf hinweisen, dass Aufgabe 1 erfolgreich abgeschlossen wurde, sind: 
+\begin{itemize}
+    \item Die Navigation zur Aufgabe wurde erfolgreich abgeschlossen
+    \item Die Anmeldung wurde erfolgreich gespeichert.
+    \item Die Rückmeldung "Anmeldung wurde erfolgreich verschickt" wird von der Anwendung ausgegeben.
+\end{itemize}
+
+Kriterien, die darauf hinweisen, dass Aufgabe 2 erfolgreich abgeschlossen wurde, sind: 
+\begin{itemize}
+    \item Die Navigation zur Aufgabe wurde erfolgreich abgeschlossen
+    \item Es wurde über die Aufnahme des Kindes entschieden.
+    \item Die Anmeldung wurde erfolgreich gespeichert.
+\end{itemize}
+
+Kriterien, die darauf hinweisen, dass Aufgabe 3 erfolgreich abgeschlossen wurde, sind: 
+\begin{itemize}
+    \item Die Navigation zur Aufgabe wurde erfolgreich abgeschlossen
+    \item Es wurde über die Aufnahme des Kindes entschieden.
+    \item Die Anmeldung wurde erfolgreich gespeichert.
+\end{itemize}
+
+\subsection{Definition von Zufriedenstellung im Rahmen dieser Ausarbeitung }
+Die ISO 9241-110 definiert Effektivität wie folgt: Zufriedenstellung: "Das Ausmaß der Übereinstimmung der physischen, kognitiven und emotionalen Reaktionen des Benutzers, die aus der Benutzung eines Systems, eines Produkts oder einer Dienstleistung resultieren, mit den Benutzererfordernissen und Benutzererwartungen."\cite{ISO-9241-110} In Anlehnung an diese
+\begin{itemize}
+    \item Freiheit von langen Wartezeiten
+    \item Freiheit von Behinderungen (Beispiel: Nutzer kann ein Dialogfeld nicht ausfüllen, weil es zu klein ist)
+    \item Freiheit von unlösbaren Fehlern (Beispiel: Nutzer erhält Fehlermeldung und kann diese nicht beheben)
+    \item Freiheit von Eingabefehlern (Beispiel: Person wählt zu einer Postleitzahl einen nicht zugehörigen Ort aus)
+    \item Freiheit von Rauswürfen aus dem Prozess (Beispiel: Nutzer klickt versehentlich auf \textit{Abbrechen} und bricht somit unfreiwillig die Eingabeerfassung ab)
+    \item Freiheit von un-/missverständlichen Texten oder Eingabefeldern (Beispiel: Nutzer versteht das Eingabefeld \textit{Sorgerechtsgrund} nicht)
+\end{itemize}
+
+\subsection{Definition von Problemstellen im Rahmen dieser Ausarbeitung }
+Im Rahmen dieser Arbeit bezieht sich der Begriff \textit{Problemstelle} auf spezifische Elemente der 'Schüler Online'-Software, die bei ihrer Nutzung durch das Schulpersonal zu Defiziten in Bezug auf Effektivität und Zufriedenheit führen.
+
+\subsection{Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung }
+\cite{stangl} 
+Stangl beschreibt den Begriff Bedürfnis als "das Verlangen oder der Wunsch, einen empfundenen oder tatsächlichen Mangel Abhilfe zu schaffen."\cite{stangl} Dies wirft die Frage auf, was ein Mangel im Kontext einer Anmeldung an einer Schule für den Anwender bedeutet. Wenn man herkömmliche Anmeldungen mittels eines Papierformulars betrachtet, kann man hier argumentieren, dass mehrere Aspekte mangelhaft sind. Beispielsweise gibt es keine Validierung der Daten hinsichtlich Korrektheit oder Plausibilität.  Datenvalidierung könnte allerdings durch eine gute Kommunikation mit der abgebenden Schule abgesichert werden. Das Einlesen der Daten ist möglicherweise problematisch, da handschriftliches Ausfüllen unleserlich geschrieben sein kann. Eine Übertragung in verwendete Schulsoftware, wie \textit{SchILD-NRW} kann nur durch unkomfortables Abtippen erreicht werden.
+Eine auf diesen Argumenten basierende modellhafte Definition im Kontext dieser Arbeit kann also lauten: "Nutzerbedürfnisse ist das Verlangen oder der Wunsch, die Datenerfassung der Anmeldung weder unsicher, inkorrekt, unplausibel noch unkomfortabel zu vollziehen".
+
+\subsection{Typische Problemstellen und Nutzerbedürfnisse in aktuellen Webanwendungen}
+%Aktuelle Webanwendungen\footnote{Als Annahme wird hier getroffen, dass Anwendungen, die jünger als 10 Jahre sind als aktuell gelten}
+Im folgenden werden einige typische Probleme bei Webanwendungen gelistet und erläutert, die zu Defiziten der Effektivität und Zufriedenstellung führen können.
+
+\begin{itemize}
+    \item \textbf{Schlechte Navigationsstrukturen:} Wenn Nutzer Schwierigkeiten haben, sich auf einer Website zurechtzufinden, können sie ihre Ziele nicht effektiv erreichen. Eine klare, konsistente und intuitive Navigationsstruktur ist entscheidend.
+    \item \textbf{Nicht erfüllte Erwartungen:} Wenn das Design oder die Funktionalität der Anwendung nicht den Erwartungen der Nutzer entspricht, können diese ihre Ziele nicht effizient erreichen. Beispielsweise kann eine Schaltfläche, die aussieht, als würde sie eine bestimmte Aktion auslösen, tatsächlich eine ganz andere Aktion auslösen.
+    \item \textbf{Mangel an Feedback:} Nutzer müssen wissen, was passiert, wenn sie eine Aktion ausführen. Wenn eine Anwendung nicht angemessen auf Nutzereingaben reagiert, kann dies zu Frustration und Ineffektivität führen.
+    \item \textbf{Nicht zugängliches Design:} Webanwendungen sollten für alle Benutzer, einschließlich Menschen mit Behinderungen, nutzbar sein. Eine Anwendung, die nicht die Richtlinien für Barrierefreiheit erfüllt, kann für einige Nutzer ineffektiv sein.
+    \item \textbf{Schlechte Leistung:} Langsame Ladezeiten oder technische Probleme können die Effektivität stark beeinträchtigen, da sie Nutzer daran hindern, ihre Ziele in einer angemessenen Zeit zu erreichen.
+    \item \textbf{Komplizierte oder überladene Benutzeroberflächen:} Wenn eine Benutzeroberfläche zu viele Optionen, zu viel Text oder zu viele Bilder enthält, kann dies Benutzer verwirren und ihre Fähigkeit, ihre Ziele effektiv zu erreichen, beeinträchtigen.
+    \item \textbf{Mangel an Suchfunktion oder ineffektive Suchfunktionen:} Eine effektive Suche ist für viele Webanwendungen entscheidend. Wenn Nutzer nicht finden können, was sie suchen, können sie ihre Ziele nicht effektiv erreichen.
+\end{itemize}
 
 \subsection{Hawthorne Effekt}
 Der Hawthorne-Effekt besagt, dass Personen ihr Handeln verändern, weil sie wissen, dass sie unter Beobachtung stehen. Er kann bei Teilnehmenden an wissenschaftlichen Experimenten vorkommen, deren Verhalten beobachtet wird. So ist ihr Verhalten unnatürlich.

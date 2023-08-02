@@ -1,0 +1,284 @@
+In welchem Umfang besitzen Sie Vorerfahrungen mit Schüler Online 1.0? 	
+Keine Erfahrung					
+
+In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?	
+Keine Erfahrung		
+
+
+
+
+
+
+
+
+
+
+Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?	
+Nicht lesbar, nicht vollständig, nicht unterschrieben				
+
+
+
+
+
+
+
+
+Wer nutzt das System hauptsächlich an Ihrer Schule?	
+Schülerbüro, Verwaltung, Lehrer
+
+
+
+
+
+
+
+
+
+
+Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)?
+Welche Vorkenntnisse fehlen ggf.?	
+Schulungen bzgl der Schulverwaltung
+Man muss wissen was es für Bildungsgänge an der eigenen Schule gibt
+Vorkenntnisse bzgl. der Schullaufbahn (Qualifikationen, BIldungsgänge)
+
+
+
+
+
+
+
+
+Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.	
+Einschulungsdaten in OSA eintragen und das muss dann in Magellan eingetragen
+Es liegt ein langer Prozess von Bewerbung des Schülers bis hin zu abrufbaren Daten im Schuvlerwaltungsprogramm vor
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zu Beginn der Durchführung:					
+
+
+Studienteilnehmer ist durch viele menüpunkte gegangen aber hat sich dann für den Menüpunkt Anmeldung entschieden
+Der kleine Bildschirm sorgt dafür, dass die Suchparameter nicht erschienen sind, ein rauszoomen war nötig. 
+Auf Rückfrage hätte sich die Sekretärin für Abbruch der Verwendung oder Kontakt der Hotline entschieden. 		
+
+Welche Arbeitsschritte sind durchzuführen?		
+Woher bekomme ich die Daten? Papierform
+Ich gebe die Daten ein, in der hoffnung alle Daten zu haben
+Was passiert, wenn ich nicht alle daten habe, meine Hoffnung ist, dass die Daten schon vorgepflegt sind von den anderen Schulen				
+
+
+
+
+
+
+Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?
+Laptops, 
+Learning by doing, 
+kein Hexenwerk, 
+eine Kurzanleitung für den Einstieg	 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?		
+- Anforderung, dass alles einfach und simpel ist
+- Masken sollten erklärt sind
+- Alle daten sollten drin sind, die ich brauche
+- Dass Daten vorerfasst sind
+- Vorschule sollte erfasst werden, das ist sonst sehr aufwändig - für uns herauszufinden
+- Hundekläffen im hintergrund			
+
+
+
+
+
+
+Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)		
+Förderbedarf, 
+Männlich/weiblich (Schüler wissen in dem Alter nicht, was sie sind => Divers),
+Fahrkarten (Tickets),
+Wenn nicht volljährig sind Daten der Eltern wichtig
+"Alles was bei uns drauf steht, ist wichtig"
+Auf Bildungsgänge bewerben, halbes Jahr um Voraussetzungen zu sammeln (?)
+Wenige Schulkinder wissen hier genau, was welchen Bildungsgang sie wollen
+						
+Während der Durchführung:						
+Schüler-Tab
+"Was ist denn Id-Schlüssel?"				
+
+Bildungsgang-Tab		
+Diskussion, ob das jetzt das neue Schuljahr ist, oder das Schuljahr, welches der Schüler vorher besucht hat
+Einschulungstermin bedeutet, dass der Schüler angenommen wird?
+Es war nicht klar, wie der Status funktioniert -> erklärtexte wären hilfreich
+Es war nicht klar, wer diese Maske gerade ausfüllen soll
+Wir haben eine bestimmte Anzahl an Schulkindern pro Klasse (Bildungsgang) die wir aufnehmen können
+Eine Information über den Masernschutz fehlt noch
+Schüler wurde zunächst auf Warsteliste gesetzt
+Aufnahmestatus ist schwierig, die Lehrer entscheiden über den Status"	"Auto im Hintergrund?
+Unterbrechung durch Klopfen im hintergrund
+darf ich den hier überhaupt schon setzen? (?)
+
+Persönliche Daten
+Aussage: Sorgeberechtigte kommen auf dem nächsten Reiter
+Der Tab ist selbsterklärend 
+Hilfreich wäre eine Visualisierung, ob das schulkind volljährig ist, dann muss man nicht selber rechnen
+
+Sorgeberechtigte
+Warum springt die maske?
+warum sieht die anders aus
+Anschriften-Reiter wird übersehen
+wer sagt uns, dass die Daten hier richtig sind?
+Mir gefällt das hier so nicht (Nicht übersichtlich und unattraktiv.)
+Das ist nicht ausreichend
+Sollte genau so aussehen wie beim Schulkind
+Tel, Adresse, Mail, ggf. Beruf + dienstliche Tel, Herkunftsland der Sorgeberechtigten sind wichtig für die Statistik (unabhängig von herkunft des Schulkinds)
+
+Notfallkontakte
+Aber nur, wenn Sorgeberechtigte nicht gepflegt sind, (?)
+Im normallfall sind das dieselben Personen wie die Sorgeberechtigten
+
+Migrationshintergrund		
+Ergibt sich aus der staatsangehörigkeit
+Das hinterfragt der Klaus immer, ob ein Migrationshintergrund vorliegt
+Migrationshintergrund liegt nur vor, wenn Staatsangehörigkeit..." (Die Teilnehmerin fängt an zu spekulieren) - da müsste man das Gesetz kennen			
+
+Letzte Tätigkeit
+Letzte Tätigkeit ist kontrovers zu angestrebte Schulstufe
+Die korrekte Schule nicht gefunden, es wird alternativ eine Realschule ausgewählt
+Die Sekretärin hat die Checkbox "Schule nicht gefunden?" gesehen, aber nicht verstadnen
+Doch noch die checkbox verstanden und verwendet
+Suchfunktion funktioniert nicht gut, obwohl die Schule im System vorliegt. Es wurde zwar nach dem Ort gesucht, aber nicht die Schule gefunden.
+Der Hund unterbricht mal wieder und braucht aufmerksamkeit
+Schullaufbahn als Tabüberschrift
+Grundschulempfehlung kann nicht mehr abgewählt werden, die Sekretärin hatte diese Information nicht vorliegend, aber dennoch ausgefüllt. 
+Laute Geräusche im Hintergrund
+Eingaben nicht vollständig
+Die Sekretärin äußert zum wiederholten Male, dass Schulkinder auch diesen Dialog ausfüllen werden und Schwierigkeiten daran haben werden
+
+Qualifikationen
+Er zeigt nicht alle Abschlüsse an, da fehlen welche. Hauptschule fehlt bspw.
+
+Termine
+Termin, wofür?
+Man hat keine zeit hier 500 Leute einzuladen, ist für uns nicht machbar
+Nur bestimmte Bildungsangebote machen das an unserer Schule wir (als Sekretärin) wollen kein gespräch (lacht).
+
+Aufnahmeberatung
+Ach, das geht hier noch weiter (Sekretärin hatte nicht die versteckten Reiter gesehen, da weitere Tabs hinter einem > Symbol versteckt waren)
+Maximal für den Einschulungstag brauchen wir diese Felder
+Interpretation: Eins ist nur für uns sichtbar, das andere für schüler/betrieb. Hoffentlich!
+
+Zusammenfassung
+Muss die Zusammenfassung sein? 
+Auf die Frage inwieweit die Seite unnötig ist kommt die Antwort: Unnötig zu viele Infos in der zweiten Zeile
+wir fokussieren uns nur auf den Bildungsgang.
+Eigene bezeichnungen für die Bildungsgänge wären wünschenswert
+Klasse muss hier noch nicht auftauchen
+Die Kürzel müssen da nicht stehen, da kann keiner was mit anfangen
+
+Status
+Gibt's schüler, die noch keine mail haben?
+Interpretation der Seite: Die bekommen den Status der anmeldung mitgeteilt, was gut ist. 
+
+Liste Anmeldungen:
+Es ist gut zu sehen, wer das schulkind angelegt hat
+
+Update Dialog:
+Der Speichern-button wird nicht als global verstanden
+Es wird nicht erkannt, dass 
+Wenn man drüber nachdenkt, macht es sinn, dass der Betrieb nicht auswählbar ist
+Ein Zwischenspeichern ist gewünscht
+Tabs bei sorgeberechtigten-popup farblich schlecht, nicht in grautönen
+
+Abschluss wird geprüft und ggf. korrigiert, nur dass kann ohne weitere informationen gemacht werden
+ich würde mir wünschen, dass an dem tab steht, wo der fehler ist
+Übersicht der Anmeldungen gefällt, aber filter/Sortierung wurde nicht gefunden, Sortierung mit Sub-Sortierungen gewünscht
+anschrift/postfach unnötig
+die roten felder sind pflicht, oder? ist das irgendwo erklärt? die sind mir bisher nicht aufgefallen
+Der rote rahmen ist gut (bei Fehlern)
+Grundsätzlich relativ übersichtlich, bis auf farbliche absetzung
+für mich einfacher,
+masken alle relativ gleich
+es braucht zeit sich in eine andere Form (sorgeberchtigten vs andere tabs) hineinzudenken
+Ablauf mit anderen Produkten unklar
+Lehrer in die entscheidung mit einbeziehen, aber nicht zwangsläufig schreiberechte
+
+Nach der Durchführung:						
+Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?
+Wenn wir nichts in der Hand haben, was sollen wir dann ändern?
+Wir sind nicht Zuständigkeit für eine Aufnahmeentscheidung, nur die Aufnahme der Daten
+Der Abteilungsleiter trifft entscheidung, ob der Schüler aufgenommen wird.
+
+Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe? Gab es positive oder negative Erfahrungen?
+Das programm so ist ja nicht schwierig
+Abschlüsse besser erklären
+Wenn man das einmal verstanden hat, weiß man, worauf man achten soll
+Überschaubar
+Infos von den Schülern, welche Klasse/Schule besucht wurde, wird nicht benötigt
+
+Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?	
+Das war doch jetzt verständlich alles
+für uns ist das ja alles klar, als erfahrene Sekretärinnen
+
+Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?
+Bezeichnungen sollten besser sein (Bisherige Schullaufbahn bspw. anstatt Letzte Tätigkeit)
+Farblich besser hinterlegt, um es einfacher zu machen
+Übersicht simpler
+
+Wie verständlich waren die Rückmeldungen der Anwendung?		
+Manchmal wäre ne kleine erklärung daneben gut (vorbildung...)				
+
+Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
+Lesen
+Wissen über angebote der eigenen Schule, den normalen schulwerdegang
+
+Wie sehr entspricht die Umsetzung in der Software der Realität? 	
+Tatsächlich genau das gleich nur in einer anderen maske, 
+sieht nur anders aus ist, anders aufgebaut
+Anmeldezeiträume werden hoffentlich nciht mehr vergessen				
+
+Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
+Dokumente dazufügen, Zeugnis, Lebenslauf, masernschutz, damit die Lehrer eine Entscheidung treffen können
+
+Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
+Nach unserem ersten Eindruck nichts
+Mit dem neuen schild wird das ja sehr einfach
+						
+Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
+Ne, ich kann alles eintragen
+Farben, reiter oben in grün, wenn vollständig ausgefüllt			
+
+Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 
+Excel-Export (auch, damit Lehrer die Daten verwenden können) und um Sortierung/Filterung zu ermöglichen
+
+Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdrucken können?		
+Stammdaten (für Lehrer)
+Übersicht, wer aufgenommen wurde (Mit Telefonnummer)
+
+Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?		
+Zeugnis, lebenslauf, masernschutz werden die dann über mehrere Bewerbungen gespeichert? 
+Eigentlich nur für eine Anmeldung				

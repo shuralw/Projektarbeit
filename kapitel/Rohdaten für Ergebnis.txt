@@ -1,0 +1,278 @@
+Rohdaten für Ergebnis
+Intro: 
+
+Im Folgenden werden Stück für Stück zunächst die Ergebnisse des Interviews und der beobachtung gelistet. Einige Fragen aus dem Fragenkatalog wurden vor den drei Aufgaben gestellt. Während der Bearbeitung der Aufgaben wurde bei Verwirrungen oder Irritationen klärend gefragt, was die Problematiken konkret sind. Nach der Bearbeitung der Aufgaben wurden weitere Fragen aus dem Fragenkatalog gesteellt.
+
+
+
+
+
+
+
+
+
+>Welche (Teil-)Faktoren bestimmen das Abschließen einer Bewerbung, sodass sie diese nicht mehr bearbeiten müssen?
+
+
+
+
+
+
+
+
+
+>Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?	
+1 sagt, dass die Eltern sich mit dem Einschulungsjahr verrechnen oder die Schüler falsche Daten versehentlich und nicht böswillig angeben. 
+2 sagt sie können - Falsch ausgefüllt, fehlende Angaben haben, Nicht leserlich sein, Falsche Daten haben. Begriffe wie Konfession oder Schulformempfehlung sind für Schüler evtl. nicht verständlich. Schüler machen bewusst falsche Angaben, Sorgeberechtigungen, negativbescheinigung oder verpflichtend 2 Sorgeberechtigte, sensible Daten sind heikel.
+1 ist diesbezüglich kontrovers zu 2 da bei 1 versehentlich und bei 2 absichtlich.
+3 sagt dass die handschrift nicht lesbar sein kann, vor allem emails. 
+4 und 5 sagen, fehlender einträge, unleserliche Schrift und fehlender unterschriften sind blöd.
+
+Darüber hinaus wurde bei 3 und insbesondere bei 1  beobachtet, dass die Arbeit durch Telefonate unterbrochen werden kann. 
+
+\footnote{Negativbescheinigungen sind Bescheinigungen über das alleinge Sorgerecht}
+
+
+
+
+
+
+
+
+
+>Wer nutzt das System hauptsächlich an Ihrer Schule?
+Bei 1,2,3,4,5 nutzen die Software das Sekretariat. Ergänzend bei 3 und 5 noch die Verwaltung. Bei 5 zusätzlich noch die Lehrer, die über Aufnahmeentscheidungen bestimmen. Bei 3 gibt es mehrere Schulstandorte. 
+
+
+
+
+
+
+
+
+
+>(DAkkS) Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?
+1 sagt: Keine besonderen fachlichen oder technischen kenntnisse notwendi. Man muss lesen können, Wissen über das Schulsystem ist nicht notwendig.
+2 sagt: Man muss lesen und schreiben  nicht mal internetaffin sein. Man muss sehr gewillt sein es auzuprobieren	
+3 sagt: technisch n Rechner und internet. wir als Sekretärinnen würden damit klar kommen. Wenn man das einmal bedient hat weiß man wie das grundlegend funktioniert.   Kenntnisse zum Schulgesetz nicht unbedingt notwendig. Datenschutzsensibilität ist wichtig. 
+4 sagt: Kenntnisse mit MS Office, Grundwissen im Schulgesetz ist vorteilhaft, aber nicht voraussetzung. Man sollte sensibel bezüglich  des Datenschutz sein.
+5 sagt: Schulungen für die Fachlichkeit, also für die Schulverwaltung könnte ggf. fehlen. Man muss wissen, welche Bildungsangebote von der eigenen Schule angeboten werden.
+
+
+
+
+
+
+
+
+>Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.
+1 sagt: Es liegt ein Anmeldeformular vor. Alle Datenfelder auf dem Papierformular müssen ausgefüllt sein und bei wichtigen Sachen unterlagen eingereicht werden. Bei unleserlichem wird telefonisch nachgefragt
+2 sagt: Es steht zunächst die Frage im Raum: "Darf dieses Kind unsere Schule überhaupt besuchen?". Diese Entscheidung basiert auf der Schulempfehlung sowie Gesprächen im Voraus mit der Schulleitung. Eventuell sprechen die Eltern schlechtes deutsch, dann wird das Formular gemeinsam ausgefüllt. Mehrfachanmeldungen sollen tunlichst vermieden werden, kommen zwar vor aber fallen am Kennenlerntermin auf. Es gibt eine besondere Taktik der Schulen in der Region, mit der versucht wird das sicherzustellen (mittels Farbiger Formulare). 
+3 sagt: Es wurde schon vorher mit de Eltern telefoniert.  Das Kind muss  innerhalb des Schuleinzuggebietes leben. Eine Information für uns als Förderschule, dass das Kind autistisch ist, genügt uns oft schon als Eignungsentscheidung, allerdings braucht man für auch oft Gutachten.
+4 sagt: Eltern füllen mehrseitiges Anmeldeformular aus und ich pflege das ein. Selten kommt das Formular auch mal per E-Mail.
+5 sagt: Es gibt einen langen Prozess beginnend von der Bewerbung des Schülers bis hin zu abrufbaren Daten inm Schulverwaltungsprogramm vor
+
+
+============ Zu Beginn der Durchführung: ====================
+
+
+Hier ist bei mehreren Teilnehmern aufgefallen, dass die Navigation zur Aufgabe sich als schwierig erwies. 1 hatte beispielsweise auf eine leere Seite navigiert. Eine Unterscheidung des Sinn und Zwecks der Menüpunkte "Schüler:innen" und "Anmeldungen" konnte nicht von ihr genannt werden. Sie hatte zwar als Aufgabe eine Anmeldung zu erfassen, konnte aber mit dieser Informationslage nicht korrekt navigieren.
+Sowohl 1 als auch 4 mussten instruiert werden, wie sie die Aufgabe beginnen können. 1 wollte den falschen Prozess beginnen und 4 wusste nicht wo sie hin navigieren muss.
+5 hatte durch mehrere Menüpunkte navigiert, allerdings schlussendlich auf die korrekte Seite navigiert.
+
+
+
+
+>(DAkkS) Welche Arbeitsschritte sind durchzuführen?
+1 sagt: Schüler im System suchen, die Daten des Schülers erfassen. Anschließend muss dem Schüler noch eine Information übermittelt werden.
+3 sagt: Es muss geklärt werden, ob Rundgang durchgeführt wurde. Die daten müssen aufgenommen werden und das Gutachten für unsere Akten angefordert werden. Es muss ein kurzes Kennenlernen stattfinden Es muss entschieden werden in welche Klasse das Kind kommt. 
+4 sagt: . Eltern kommen ins Sekreteriat. Dann findet ein Gespräch statt. Dann werden die Daten angegeben und Unterlagen werden eingereicht. Eine Schülerakte wird angelegt.
+5 sagt: Dass die Daten zuvor in Papierform erfasst werden, dann alle Daten im System eingetragen werden.
+
+
+
+
+
+
+
+>(DAkkS) Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?
+1 sagt: Kopier- und Einfügefunktionalitäten um Daten aus anderen Programmen (wie E-Mail oder PDF-Reader) übertragen zu können.
+3 gibt an, dass Google Maps zur Adressrecherche verwendet wird.
+5 sagt Laptops und eine Kurzanleitung für den Einstig.
+
+
+
+
+
+
+
+
+>(DAkkS) Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
+
+
+
+
+
+
+
+
+
+>(DAkkS) Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)
+
+
+
+============ Während der Durchführung: ======================
+
+
+
+
+
+
+
+
+
+>Für jeden Tab / Seite: Welche Seiteninhalte sind unverständlich?
+
+
+
+============ Nach der Durchführung: ========================
+
+
+
+
+
+
+
+
+
+>Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein - was hat Sie daran gehindert?
+
+
+
+
+
+
+
+
+
+>Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?
+
+
+
+
+
+
+
+
+
+>Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?
+
+
+
+
+
+
+
+
+
+>Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?
+
+
+
+
+
+
+
+
+
+>Wie verständlich waren die Rückmeldungen der Anwendung?
+
+
+
+
+
+
+
+
+
+>Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
+
+
+
+
+
+
+
+
+
+>Wie sehr entspricht die Umsetzung in der Software der Realität? 
+
+
+
+
+
+
+
+
+
+>Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
+
+
+
+
+
+
+
+
+
+>Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
+
+
+
+
+
+
+
+
+
+>Wie sehr erleichtert Ihnen die Anwendung ihre Arbeit?
+
+
+
+
+
+
+
+
+
+>Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
+
+
+
+
+
+
+
+
+
+>Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 
+
+
+
+
+
+
+
+
+
+>Welche Dokumente würden Sie gerne im Prozess ausdrucken können?
+
+
+
+
+
+
+
+
+
+>Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?

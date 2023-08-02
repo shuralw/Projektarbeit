@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  31 JUL 2023 23:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  2 AUG 2023 22:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -684,7 +684,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count398
 \@quotereset=\count399
-No file ausarbeitung.aux.
+(ausarbeitung.aux)
 \openout1 = `ausarbeitung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -971,10 +971,10 @@ Package logreq Info: Writing requests to 'ausarbeitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15556 strings out of 478338
- 318394 string characters out of 2836700
- 1115366 words of memory out of 3000000
- 33758 multiletter control sequences out of 15000+600000
+ 15559 strings out of 478338
+ 318503 string characters out of 2836700
+ 1115582 words of memory out of 3000000
+ 33759 multiletter control sequences out of 15000+600000
  487143 words of font info for 60 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,8n,106p,10609b,2467s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -996,7 +996,7 @@ Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk
 440.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
 \ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
 dpi600\eccc1728.pk>
-Output written on ausarbeitung.pdf (34 pages, 774297 bytes).
+Output written on ausarbeitung.pdf (34 pages, 774624 bytes).
 PDF statistics:
  680 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

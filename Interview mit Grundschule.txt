@@ -5,30 +5,123 @@ Keine
 In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?	
 Keine	
 
+
+
+
+
+
+
+
+
 Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?	
 - Fehlende Einträge
 - Unleserliche Schrift
 - Fehlende Unterschriften	
 
+
+
+
+
+
+
+
+
+
+
 Wer nutzt das System hauptsächlich an Ihrer Schule?	
 - Sekretärin	
+
+
+
+
+
+
+
+
 
 Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?	
 - Kenntnisse mit MS-Office Programmen
 - Grundwissen im Schulgesetz vorteilhaft, aber keine Vorraussetzung
 - Datenschutz sensibilisierung sollte vorliegen	
 
+
+
+
+
+
+
+
+
+
 Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.	
 - Eltern füllen Papierbögen aus zur Anmeldung (6-7 Seiten mit Medienarbeit, Datenschutz, etc.)
 - Sekretärin pflegt dies ein
 - Selten kommt ein vorausgefüllter Bogen der Eltern per E-Mail	
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Zu Beginn der Durchführung:	Direkter Klick auf Anmeldung => neue anmeldung erstellen	
+
+
+
+
+
+
+Welche Arbeitsschritte sind durchzuführen?	
+- Eltern kommen ins Sekreteriat
+- Gespräch findet statt
+- Daten werden angegeben
+- Unterlagen werden eingereicht
+- Schülerakte wird angelegt
+- (Einladen der Eltern findet bei Onlinebewerbung später statt)	
+
+
+
 Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?	
 - Ergebnis: Schüler ist Angemeldet
 - Daten können herausgezogen werden falls benötigt	
+
+
+
+
+
+
+
+
+
 
 Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)	
 - Staatsangehörigkeit (Blick auf Pass)
@@ -145,13 +238,6 @@ Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterle
 - Sorgerechtsbescheide
 - Anmerkungen über Aktuelles (Kuraufenthalt)	
 
-Welche Arbeitsschritte sind durchzuführen?	
-- Eltern kommen ins Sekreteriat
-- Gespräch findet statt
-- Daten werden angegeben
-- Unterlagen werden eingereicht
-- Schülerakte wird angelegt
-- (Einladen der Eltern findet bei Onlinebewerbung später statt)	
 
 Was erhoffen Sie sich noch von der Anwendung?		
 - 

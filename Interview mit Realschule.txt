@@ -7,19 +7,46 @@ In welchem Umfang besitzen Sie Vorerfahrungen mit Schüler Online 1.0?
 In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?	
 - Keine
 
+
+
+
+
+
+
 Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?
 - Falsch ausgefüllt
-- Fehlende Nagaben
+- Fehlende Angaben
 - Nicht leserlich
 - Falsche Daten
-- Begriffe wie Konfession nicht verständlich, Schulformempfehlung unverständlich, bewusst falsche Angaben, Sorgeberchtigungen, negativbescheinigung oder verpflichtend 2 Sorgeberechtigte, sensible Daten
+- Begriffe wie Konfession nicht verständlich, Schulformempfehlung unverständlich, bewusst falsche Angaben, Sorgeberechtigungen, negativbescheinigung oder verpflichtend 2 Sorgeberechtigte, sensible Daten
+
+
+
 
 Wer nutzt das System hauptsächlich an Ihrer Schule?
-Nur das Sekretariat, beide übernehmen die gleichen Aufgaben
+Nur das Sekretariat, beide Sekretärinnen übernehmen die gleichen Aufgaben
+
+
+
+
+
+
+
+
+
 
 Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?	
 - Man muss lesen und schreiben können, nicht mal internetaffin sein.
 - Man muss sehr gewillt sein es auzuprobieren		
+
+
+
+
+
+
+
+
+
 
 Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.	
 - Es steht zunächst die Frage im Raum: "Darf dieses Kind unsere Schule überhaupt besuchen?". Diese Entscheidung basiert auf der Schulempfehlung sowie Gesprächen im Voraus mit der Schulleitung
@@ -31,12 +58,72 @@ Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewer
 - Pessimistische Haltung gegenüber Mehrfachanmeldungen bei der Software
 - Bewerbung an mehrere Schulen ist 'grauenvoll'
 
+
+
 Zu Beginn der Durchführung:	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(DAkkS) Welche Arbeitsschritte sind durchzuführen?
+Kann ich nicht beantworten.
+
+
+
+
+
+
+
+
 Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
 
-(DAkkS) Welche Arbeitsschritte sind durchzuführen?
+
+
+
+
+
+
+
+
+
+
 
 Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)	
 - HerkunftsSprachlicherUnterricht (HSU) muss angemeldet werden, bei Schulamt (Kreis Lippe) jedes Jahr neues Anmeldeformular, muss unterschrieben werden

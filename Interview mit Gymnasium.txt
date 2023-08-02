@@ -5,13 +5,34 @@ In welchem Umfang besitzen Sie Vorerfahrungen mit Schüler Online 1.0?
 In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?	
 - Keine
 
+
+
+
+
+
+
+
+
 Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?	
 - Daten nicht richtig in jedweder Software eingegeben => Eltern verrechnen sich bspw. mit Einschulungsjahr
 - Schüler geben falsche Daten an (Nicht aus böswilliger Absicht sondern versehentlich)
 - Getrennt lebende Eltern Erzieherdaten sind falsch
 
+
+
+
+
+
 Wer nutzt das System hauptsächlich an Ihrer Schule?	
 - Sekreteriat
+
+
+
+
+
+
+
+
 
 Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?	
 - Keine besonderen fachlichen oder technischen Kenntnisse notwendig
@@ -19,26 +40,75 @@ Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufg
 - Man muss lesen können - mehr nicht. Man wird Schritt für Schritt durch das Programm durchgeführt
 - Tiefgreifendes Wissen über das Schulsystem ist nicht notwendig
  
+
+
+
+
+
+
 Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewerbung eines Schülers" durchführen.
 - Es liegt ein Anmeldeformular vor 
     - alle Punkte müssen ausgefüllt werden (leserlich). 
     - Bei wichtigen sachen (z.B. Sprachenwahl) müssen Unterlagen eingereicht werden
     - Bei unleserlichen / fehlendem wird (insbesondere telefonisch) nachgefragt. 
 - Vor Corona fand alles vor Ort statt (mit Fristen), seit Corona immer mehr digital => Dies hat sich gut bewährt => Wird weiterhin übernommen => Dies bietet den Eltern Ruhe, sie haben die Daten dort zur Hand
+- Manche Eltern fangen zuhause an, laden sich das Anmeldeformular herunter und wollen die Bewerbung selber ausfüllen. Dies brechen sie aber teilweise ab und wollen es lieber persönlich machen, da sie entweder aufgeben oder doch lieber persönlich nur ihre Daten abgeben.
+
+
+
+
+
+
+
+
+
+
 
 Zu Beginn der Durchführung:	
 - Es gab hier eine Unterbrechung durch ein Telefonat
-- Es war zunächst unklar, wie man in das Formular zum Erfassen von Anmeldungen kommt. Die Sekretärin hatte einen Hauptmenüpunkt ausgewählt und wurde auf eine leere Seite geleitet. Sie hätte noch eine weitere Auswahl treffen müssen und auf einen Untermenüpunkt anschließend klicken müssen. Weiterhin konnte sie nicht differenzieren, wo der Unterschied zwischen den Menüpunkten "Schüler:innen" und "Anmeldungen" bestand. Sie hatte zwar als Aufgabe eine Anmeldung zu erfassen, konnte aber mit dieser Informationslage nicht korrekt navigieren.
-- Manche Eltern fangen zuhause an, laden sich das Anmeldeformular herunter und wollen die Bewerbung selber ausfüllen. Dies brechen sie aber teilweise ab und wollen es lieber persönlich machen, da sie entweder aufgeben oder doch lieber persönlich nur ihre Daten abgeben. 
+- Es war zunächst unklar, wie man in das Formular zum Erfassen von Anmeldungen kommt. Die Sekretärin hatte einen Hauptmenüpunkt ausgewählt und wurde auf eine leere Seite geleitet. Sie hätte noch eine weitere Auswahl treffen müssen und auf einen Untermenüpunkt anschließend klicken müssen. Weiterhin konnte sie nicht differenzieren, wo der Unterschied zwischen den Menüpunkten "Schüler:innen" und "Anmeldungen" bestand. Sie hatte zwar als Aufgabe eine Anmeldung zu erfassen, konnte aber mit dieser Informationslage nicht korrekt navigieren. 
 - Wenn die Eltern ihr Kind anmelden wollen werden sie tendenziell eher bei der aufnehmenden Schule als bei der abgebenden Schule nach Informationen zur Anmeldung suchen. 
 - Es gab in Folge einer weiteren Unterbrechung einen Hinweis der Sekretärin: Es wäre super, wenn auch Pausen im Vorgang möglich wären und die Daten nicht verfallen würden. Unterbrechungen können auch mal eine halbe Stunde oder Stunde andauern. Manchmal fängt man morgens mit einer Aufgabe an, aber kann erst mittags/nachmittags weitermachen.
+
+
+
+Welche Arbeitsschritte sind durchzuführen?	
+- Schüler suchen, Daten des Schülers und der Bewerbung erfassen und alles zugehörige.
+- Es muss dem Schüler noch eine Information anschließend übermittelt werden, das wurde aber von der Anmeldung genannt.	
+
+
+
+
 
 Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?	
 - Es ist grundsätzlich praktisch, wenn man direkt aus anderen Stellen Text kopieren kann. Aus E-Mails funktioniert das in der Regel super, Pdf nur teilweise. 
 - Es sollte von der Anwendung ein Einfügen der Daten unterstützt werden. 
-- Das Erfassen der Bewerbung sollte so aufgebaut sein wie die Dokumente der Schule oder vergleichbare Software (Schild), damit man beim übertragen von Daten aus einem schriftlichen Formular nicht blättern muss und beim Kopieren aus einer Software wie Schild die Daten in der gleicher Reihenfolge abgefragt werden, was zu weniger Verwirrung führen würde.
+
+
+
+
+
+
+
+
+
+
+
+
 
 Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?	
+
+
+
+
+
+
+
+
+
+
+
+
 
 Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein - z. B. zur Arbeitsteilung / Zusammenarbeit)
 - Wechsel von anderer Schule UND Wiederholung des Jahres müssen unterstützt werden
@@ -175,7 +245,9 @@ Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
 - Es kann jeder machen, die Begrifflichkeiten wären auch für Laien verständlich	
 
 Wie sehr entspricht die Umsetzung in der Software der Realität? 	
-- Genau wie mit Schild => entspricht der Realität. Keine Auffäligkeiten	
+
+- Das Erfassen der Bewerbung sollte so aufgebaut sein wie die Dokumente der Schule oder vergleichbare Software (Schild), damit man beim übertragen von Daten aus einem schriftlichen Formular nicht blättern muss und beim Kopieren aus einer Software wie Schild die Daten in der gleicher Reihenfolge abgefragt werden, was zu weniger Verwirrung führen würde.
+- Ansonsten inhaltlich genau wie mit Schild => entspricht der Realität. Keine Auffäligkeiten	
 
 Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?	
 Die Sekretärinnen gucken bei dem Papierformular nach, ob es irgendwo lücken gibt => Versuchen diese selber zu füllen und nehmen ansonsten Kontakt auf
@@ -199,7 +271,3 @@ Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdruc
 
 Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?
 Keine.	
-
-Welche Arbeitsschritte sind durchzuführen?	
-- Schüler suchen, Daten des Schülers und der Bewerbung erfassen und alles zugehörige.
-- Es muss dem Schüler noch eine Information anschließend übermittelt werden, das wurde aber von der Anmeldung genannt.	

@@ -28,7 +28,8 @@ Im Folgenden werden Stück für Stück zunächst die Ergebnisse des Interviews u
 3 sagt dass die handschrift nicht lesbar sein kann, vor allem emails. 
 4 und 5 sagen, fehlender einträge, unleserliche Schrift und fehlender unterschriften sind blöd.
 
-Darüber hinaus wurde bei 3 und insbesondere bei 1  beobachtet, dass die Arbeit durch Telefonate unterbrochen werden kann. 
+Darüber hinaus wurde bei 3 und insbesondere bei 1 beobachtet, dass die Arbeit durch Telefonate unterbrochen werden kann. Bei 3 kam öfters der Schulleiter ins Büro und fing Gespräche an. Bei 5 kam hatte der Hund öfters Aufmerksamkeit eingefordert und die Aufgabe etwas unterbrochen.
+1 gab an, dass außerhalb der Sommerferien auch oft Schüler die Tätigkeit unterbrechen wenn sie ins Sekretariat reinkommen.
 
 \footnote{Negativbescheinigungen sind Bescheinigungen über das alleinge Sorgerecht}
 
@@ -77,7 +78,7 @@ Bei 1,2,3,4,5 nutzen die Software das Sekretariat. Ergänzend bei 3 und 5 noch d
 
 
 Hier ist bei mehreren Teilnehmern aufgefallen, dass die Navigation zur Aufgabe sich als schwierig erwies. 1 hatte beispielsweise auf eine leere Seite navigiert. Eine Unterscheidung des Sinn und Zwecks der Menüpunkte "Schüler:innen" und "Anmeldungen" konnte nicht von ihr genannt werden. Sie hatte zwar als Aufgabe eine Anmeldung zu erfassen, konnte aber mit dieser Informationslage nicht korrekt navigieren.
-Sowohl 1 als auch 4 mussten instruiert werden, wie sie die Aufgabe beginnen können. 1 wollte den falschen Prozess beginnen und 4 wusste nicht wo sie hin navigieren muss.
+Sowohl 1 als auch 3 mussten instruiert werden, wie sie die Aufgabe beginnen können. 1 und 3 wollten den falschen Prozess beginnen.
 5 hatte durch mehrere Menüpunkte navigiert, allerdings schlussendlich auf die korrekte Seite navigiert.
 
 
@@ -85,6 +86,7 @@ Sowohl 1 als auch 4 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 >(DAkkS) Welche Arbeitsschritte sind durchzuführen?
 1 sagt: Schüler im System suchen, die Daten des Schülers erfassen. Anschließend muss dem Schüler noch eine Information übermittelt werden.
+2 sagt, dass es wichtig ist, dass der Schüler einmal vor Ort erscheint.
 3 sagt: Es muss geklärt werden, ob Rundgang durchgeführt wurde. Die daten müssen aufgenommen werden und das Gutachten für unsere Akten angefordert werden. Es muss ein kurzes Kennenlernen stattfinden Es muss entschieden werden in welche Klasse das Kind kommt. 
 4 sagt: . Eltern kommen ins Sekreteriat. Dann findet ein Gespräch statt. Dann werden die Daten angegeben und Unterlagen werden eingereicht. Eine Schülerakte wird angelegt.
 5 sagt: Dass die Daten zuvor in Papierform erfasst werden, dann alle Daten im System eingetragen werden.
@@ -108,7 +110,8 @@ Sowohl 1 als auch 4 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 >(DAkkS) Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
-
+4 sagt, dass der Schüler am Ende angemeldet ist und wenn nötig die Daten aus der Anwendung herangezogen werden können falls diese benötigt werden.
+5 sagt dass alle notwendigen Daten für die Bewerbung erfasst sein sollten, insbesondere die vorige Schule sollte erfasst werden, es wäre sehr aufwändig die herauszufinden.
 
 
 
@@ -118,6 +121,12 @@ Sowohl 1 als auch 4 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 >(DAkkS) Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)
+1 sagt dass Wechsel innerhalb  des Jahres und Stufenwiederholungen unterstützt werden müssen. Es gibt bei Flüchtlingskinder wo nicht alle Daten vorhanden sind. Langfristige beurlaubungen oder ähnliches wo unklar ist, in welche Klasse das Kind gehen soll. Ein Fallbeispiel: Kind ist in Therapie, nimmt nicht an schule teil, Eltern ziehen um und müssen es aufgrund der Schulpflicht trotzdem an der Schule anmelden. Diese Kinder werden in der Regel in der Klinik geschult (Abfrage der Unterichtsinhalte an Schule), sie lernen aber mit Personal der Klinik
+2 sagt dass Herkunftssprachlicher unterricht im Voraus beim Schulamt angemeldet werden muss. Hierfür gibt es jedes Jahr ein neues Formular welches unterschrieben werden muss.
+3 sagt dass es keine Schulstufen bei der Förderschule gibt.
+4 sagte die Staatsangehörigkeit und bestimmte Sorgerechtsfälle machen manche Anmeldung besonders.
+5 sagt Schüler mit Förderbedarf sind Sonderfälle. Auch sagt 5 dass Manche Schulkinder nicht wissen, ob sie männlich oder weiblich sind in dem Alter. Wenn Schüler nicht volljährig sind wird eine Unterschrift der Eltern benötigt. Und die Schüler achten teilweise nicht darauf, dass sie sich rechtzeitig bewerben müssen, sich deswegen deutlich zu spät bewerben und auch nicht die notwendigen Voraussetzungen teilweise besitzen. Wenige Schulkinder wissen bei 5 genau, was sie lernen wollen, geschweige denn welchen Bildungsgang sie besuchen wollen.
+
 
 
 
@@ -132,7 +141,9 @@ Sowohl 1 als auch 4 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 >Für jeden Tab / Seite: Welche Seiteninhalte sind unverständlich?
-
+<Schüler Tab:
+Für alle Studienteilnehmer war unklar, wofür das ID-Schlüssel Feld dient. 
+Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 ============ Nach der Durchführung: ========================

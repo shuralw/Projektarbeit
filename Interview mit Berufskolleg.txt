@@ -109,7 +109,7 @@ Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet
 - Masken sollten erklärt sind
 - Alle daten sollten drin sind, die ich brauche
 - Dass Daten vorerfasst sind
-- Vorschule sollte erfasst werden, das ist sonst sehr aufwändig - für uns herauszufinden
+- vorige Schule sollte erfasst werden, das ist sonst sehr aufwändig - für uns herauszufinden
 - Hundekläffen im hintergrund			
 
 
@@ -123,12 +123,38 @@ Männlich/weiblich (Schüler wissen in dem Alter nicht, was sie sind => Divers),
 Fahrkarten (Tickets),
 Wenn nicht volljährig sind Daten der Eltern wichtig
 "Alles was bei uns drauf steht, ist wichtig"
-Auf Bildungsgänge bewerben, halbes Jahr um Voraussetzungen zu sammeln (?)
-Wenige Schulkinder wissen hier genau, was welchen Bildungsgang sie wollen
-						
+Auf Bildungsgänge bewerben, halbes Jahr um Voraussetzungen zu sammeln
+Wenige Schulkinder wissen hier genau, welchen Bildungsgang sie wollen
+		
+
+
+
+
+
+
 Während der Durchführung:						
 Schüler-Tab
 "Was ist denn Id-Schlüssel?"				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bildungsgang-Tab		
 Diskussion, ob das jetzt das neue Schuljahr ist, oder das Schuljahr, welches der Schüler vorher besucht hat

@@ -116,14 +116,26 @@ Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem B
 - Langfristige Beurlaubung oder ähnliches, bei dem unklar ist, in welche Klasse das Kind gehen soll
     - Fallbeispiel: Kind ist in Therapie, nimmt nicht an schule teil, Eltern ziehen um und müssen es aufgrund der Schulpflicht trotzdem an der Schule anmelden
 - Diese Kinder werden in der Regel in der Klinik geschult (Abfrage der Unterichtsinhalte an Schule) mit Personal der Klinik
-- Es war unklar, ob der ID-Schlüssel angegeben werden muss, es wurde vermutet, dass das kein Pflichtfeld ist.
+
+
+
 
 Während der Durchführung:		
 
 Schüler Suche
+- Es war unklar, ob der ID-Schlüssel angegeben werden muss, es wurde vermutet, dass das kein Pflichtfeld ist.
 - Der Schüler-Tab wird als Schülersuche nach Namen interpretiert
 - Das Feld Schüler-Id-Schlüssel war unverständlich, die Sekretärin dachte laut: "Braucht man den? Wofür ist der da? Kann man den ignorieren?"
 - Die Sekretärin dachte laut: "Was bedeutet die Suche? Wo genau wird gesucht?" Laut ihr wäre hier ein Anhaltspunkt wichtig (Hinweistext)
+
+
+
+
+
+
+
+
+
 
 Bildungsgang
 - Hier gabe es zwischenzeitlich wieder eine Unterbrechung durch ein Telefonat

@@ -65,7 +65,7 @@ Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe "Bewer
 Zu Beginn der Durchführung:		
 
 
-
+- Ist initial zum Menüpunkt "Schulkindern" gewechselt, nicht zum Menüpunkt "Anmeldungen"
 
 
 
@@ -112,14 +112,45 @@ Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet
 
 
 Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)		
-- Einen Feste Sortierung, damit die Reihenfolge immer gleich bleibt	Bewerbung Nr1, Nr2... Ordner ausgedruckt, nach der Nummer sortiert, um die so abzuarbeiten (?)
-									
+- Einen Feste Sortierung, damit die Reihenfolge immer gleich bleibt	Bewerbung Nr1, Nr2... Ordner ausgedruckt, nach der Nummer sortiert, um die so im Büro schriftlich abzuarbeiten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Während der Durchführung:									
 - Es gibt die Primarstufe, Sek I, Sek II so nicht bei uns.
 - Ankreuzen, mit wem habe ich schon den Rundgang gemacht
 - Eine "Schulstufe" reicht mir. Und wir würden die dann gerne nach sortieren dann die Anmeldungen nach schulkindalter sortieren.
-- Ist initial zum Menüpunkt "Schulkindern" gewechselt, nicht zum Menüpunkt "Anmeldungen"
-- Sucht jetzt nach dem Kind => Suche war eigenartig	Unterschied zwischen Schulkind und Anmeldung			
+- Sucht jetzt nach dem Kind => Suche war eigenartig	
+- ID Schlüssel ist unklar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bildungsgang
 - Die Reihenfolge der Schuljahre ist nicht sinnvoll

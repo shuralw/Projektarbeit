@@ -127,8 +127,45 @@ Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem B
 - Staatsangehörigkeit (Blick auf Pass)
 - Sorgerechtsfälle (getrennte Eltern, etc.)	
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Während der Durchführung:		
 - Schüler Direkt suche, ob der Schüler schon vorhanden ist (wird immer so gemacht laut eigener Aussage)	 (?)
+- ID Schlüssel ist unklar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bildungsgang
 - Die Meldung zur vorzeitigen Schulaufnahme ist irritiert

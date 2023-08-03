@@ -84,7 +84,7 @@ Zu Beginn der Durchführung:
 
 
 (DAkkS) Welche Arbeitsschritte sind durchzuführen?
-Kann ich nicht beantworten.
+- Es wird großer Wert darauf gelegt, dass die Personen einmal vor Ort erscheinen
 
 
 
@@ -94,6 +94,7 @@ Kann ich nicht beantworten.
 
 
 Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?	
+
 
 
 
@@ -125,25 +126,59 @@ Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet
 
 
 
+
 Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)	
 - HerkunftsSprachlicherUnterricht (HSU) muss angemeldet werden, bei Schulamt (Kreis Lippe) jedes Jahr neues Anmeldeformular, muss unterschrieben werden
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Während der Durchführung:
 Schüler Tab
 Die Sekretärin behauptet, dass sie den ID-Schlüssel natürlich nicht wissen kann und sucht unmittelbar danach nach dem Schüler.
-- Die sind Ortsteile interessant
-- Es wird großer Wert darauf gelegt, dass die Personen vor Ort erscheinen
-- Schild hat veraltete Daten von Schulen
-- ISERV wird verwendet, das ist eine Software über die Schulen mit anderen Schulen, Kindern etc kommunizieren (auch Termine)
-- Es wurde festgestellt, dass das Klassen-Dropdown nicht lädt oder keine Einträge im System vorliegen, 
-- Es ist unklar, ob der Beschulungsbeginn selbst gepflegt werden muss, Frage: "Wie lange sind die Kinder dann bei uns?"
-- Datum kann auch per Tastatur eingegeben werden -> Falsches Datumsformat wurde eingetippt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bildungsgang
 - Der Sekretärin fehlt das Wort 'Neuaufnahme' aus Schild
 - Das Wort Warteliste bedeutet in Schild etwas anderes
 - Die angegebene Telfonnummer ist eine unsinnige - Man würde dann bei der anderen, mobilen Nummer anrufen.
+- Schild hat veraltete Daten von Schulen
+- Es wurde festgestellt, dass das Klassen-Dropdown nicht lädt oder keine Einträge im System vorliegen, 
+- Datum kann auch per Tastatur eingegeben werden -> Falsches Datumsformat wurde eingetippt
+- Es ist unklar, ob der Beschulungsbeginn selbst gepflegt werden muss, Frage: "Wie lange sind die Kinder dann bei uns?"
 
-Bildungsgang										
 Persönliche Daten										
+- Für uns sind Ortsteile interessant
+
 Sorgeberechtigte
 - Initial war die Sekretärin irritiert und hat sich gefragt, wieso dort keine Sorgeberechtigen hinterlegt sind. 
 - Im Feld anschrift wurde die Straße eingegeben.
@@ -252,6 +287,7 @@ Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben
 
 Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 	
 - Iserv und Schild			
+- ISERV wird verwendet, das ist eine Software über die Schulen mit anderen Schulen, Kindern etc kommunizieren (auch Termine)
 
 Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdrucken können?	
 - Für die Schülerakte ein Schülerstammblatt und jedes Jahr die Notenübersicht			

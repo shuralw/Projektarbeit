@@ -28,8 +28,11 @@ Im Folgenden werden Stück für Stück zunächst die Ergebnisse des Interviews u
 3 sagt dass die handschrift nicht lesbar sein kann, vor allem emails. 
 4 und 5 sagen, fehlender einträge, unleserliche Schrift und fehlender unterschriften sind blöd.
 
-Darüber hinaus wurde bei 3 und insbesondere bei 1 beobachtet, dass die Arbeit durch Telefonate unterbrochen werden kann. Bei 3 kam öfters der Schulleiter ins Büro und fing Gespräche an. Bei 5 kam hatte der Hund öfters Aufmerksamkeit eingefordert und die Aufgabe etwas unterbrochen.
-1 gab an, dass außerhalb der Sommerferien auch oft Schüler die Tätigkeit unterbrechen wenn sie ins Sekretariat reinkommen.
+Darüber hinaus wurde bei 3 und insbesondere bei 1 beobachtet, dass die Arbeit durch Telefonate unterbrochen werden kann. Bei 3 kam öfters der Schulleiter ins Büro und fing Gespräche an. Die Kollegin von 3 Büro telefoniert zwischenzeitlich immer mal wieder. Bei 5 kam hatte der Hund öfters Aufmerksamkeit eingefordert und die Aufgabe etwas unterbrochen. 
+1 gab an, dass außerhalb der Sommerferien auch oft Schüler die Tätigkeit unterbrechen wenn sie ins Sekretariat reinkommen. 3 sagte, außerhalb der Sommerferien gibt es viel mehr Unterbrechungen durch Telefonate.
+4 wurde ab und an ebenfalls durch ein Telefonat unterbrochen. Sie sagte diesbezüglich, dass Unterbrechungen häufig passieren.
+
+Bei 2, 3 und 5 kamen öfters Hintergrundgeräusche wie Straßengeräusche, Hundebellen, Telefonate oder Gespräche vor.
 
 \footnote{Negativbescheinigungen sind Bescheinigungen über das alleinge Sorgerecht}
 
@@ -141,9 +144,123 @@ Sowohl 1 als auch 3 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 >Für jeden Tab / Seite: Welche Seiteninhalte sind unverständlich?
-<Schüler Tab:
+<Tab "Schüler"
 Für alle Studienteilnehmer war unklar, wofür das ID-Schlüssel Feld dient. 
 Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
+
+
+
+
+
+
+
+
+
+<Tab "Bildungsgang" 
+Für 1 ist das Dropdown Feld Klasse unklar, da keine Daten vorhanden sind, es steht noch nicht fest welche Klassen es geben wird.
+1 hatte den Status "Warteliste" ausgewählt, um die Bewerbung als "In Bearbeitung" zu markieren.
+1 wusste nicht, warum in der Anwendung hinterlegt werden soll, dass eine Aufnahmeberatung stattfand.
+1 erwartet, dass Eltern nur eingeschränkt Informationen übermitteln können. Sie sollen beispielsweise daran gehindert werden, mehr als zwei Klassenkameraden irgendwo angeben zu können. 1 hatte die Klasse als Jahrgangsstufe interpretiert. Sie erwartet auch, dass die Anwendung aufzeigt, welche Felder den Eltern bzw. Schülern sichtbar gemacht werden. Damit Fehleingaben verhindert werden, sollten der Schulbeginn und -Ende zentral vorgegeben werden. Es war für 1 unklar, ob es sich um die zuletzt besuchte Schulgliederung oder um die Schulgliederung handelt, auf die sich der Schüler bewirbt.
+2 hätte den Begriff "Neuaufnahme" in der Auswahl für den Aufnahmestatus erwartet, da diese Terminologie auch bei "SchILD" verwendet wird. Warteliste bedeutet dort ebenfalls laut ihr etwas anderes. Die Sekretärin hat erkannt, dass die Telefonnummervorwahl nicht zum Ort passt. Sie würde jetzt in der Realität nochmal bei der anderen Telefonnummer  nachhaken. 
+2 erwartet, dass die Daten bezüglich der Schulen aktuell sein sollten. Bei "SchILD" sind sie es nicht.
+2 hatte beim Schulbeginn ein nicht unterstütztes Datumsformat verwendet. Sie konnte auch nicht erkennen, ob das Feld ausgefüllt werden muss. 2 hatte nicht verstanden, wie man den Beschulungsbeginn eintragen soll.
+3 hält die Sortierung der Schuljahre für nicht sinnvoll. 3 stellt fest, dass man mitunter keine medizinischen Informationen erfassen darf.
+4 wurde irritiert durch die Meldung, dass ein Antrag auf vorzeitige Einschulung stattfindet. Sie fand die Bildungsgangbezeichnungen verwirrend. Das Beschulungsende ist für sie nicht bekannt, also füllt sie es nicht aus.
+5 diskutiert mit Kollegin, wie das Schuljahr Feld zu interpretieren ist. Sie hatte eine andere Ansicht als die Kollegin, dass das Schuljahr das aktuelle ist und nicht das Schuljahr, welches der Schüler vorher besucht hat.
+Der Anmeldestatus war für 5 nicht gut interpretierbar und welche Mechanismen dahinter stecken.
+Bei 5 entscheiden die Lehrer über eine Aufnahme. 
+
+
+<Tab "Persönliche Daten"
+1 hatte intuitiv die Hausnummer mit der Straße in das Feld \textit{Straße} anstatt in das Feld \textit{Hausnummer} eingetragen.
+1 hat die E-Mail des Sorgeberechtigten in das E-Mail Feld des Schülers eingetragen.
+1 monierte, dass der Tab \textit{Persönliche Daten} vor dem \textit{Bildungsgang} Tab kommen sollte, so wie es in "SchILD" auch ist. 1 hätte erwartet, dass der Staat mit Deutschland vorausgefüllt wird. Sie findet es gut, dass der Ortsteil abgefragt wird, aber auch dass er kein Pflichtfeld ist. 
+1 erwartet einen klärenden Hinweis, dass bei Sek1 Schülern grundsätzlich die Telefonnummer der Sorgeberechtigten erwartet wird. Bei Sek2 hingegen grundsätzlich die des Schülers selbst.
+2 findet ebenfalls die Ortsteile interessant.
+Unbekannte Straßen werden von 3 mit Google Maps auf Existenz validiert. 
+3 fände es sinnvoll, wenn die Eltern angeben könnten, wann sie unter einer Telefonnummer erreichbar sind.
+3 fände es gut, wenn mehrere Telefonnummern für Notfälle erfasst werden können. Sie hatte allerdings noch nicht festgestellt, dass später ein Tab mit Notfallkontakten noch kommen wird. 
+5 fände eine Visualisierung hilfreich, die anzeigt, ob der Schüler volljährig ist.
+Bei 1 funktionierte die Suche nach der Postleitzahl-Ort Kombination zunächst nicht. Sie hatte die Stadt des Schülers eingetippt.
+
+<Tab "Sorgeberechtigte"
+1 hält es für wichtig, dasses einen Nachweis gibt, dass eine Person alleiniges Sorgerecht oder das beide Unterschriften vorhanden sind, damit sich nicht eine Person über die andere hinweg setzt.
+1 hätte eine Funktionalität zur Datenübernahme der Adressdaten aus den persönlichen Daten des Schülers erwartet.
+Für 1, 5 war unklar, wozu das Postfach dient.
+Der Sorgerechtigten Prozess wurde bei 1  ausversehen abgebrochen durch klick neben das Popup. Dies führt zu Unverständnis und macht die Nutzerin sauer. Die Nutzerin forderte im Allgemeinen, dass man Daten nicht verlieren können sollte, sei es durch danebenklick oder wenn man sich ausloggt.
+2 hatte intuitiv die Hausnummer mit der Straße in das Feld \textit{Straße} anstatt in das Feld \textit{Hausnummer} eingetragen.
+1,2,3,4, also alle bis auf 5 hatten versucht die Straße in das Feld "Adressart" einzugeben. 3 hatte auf Nachfrage als Begründung geSchILDert, dass man intuitiv die folgende Reihenfolge von Eingaben macht: Staat => Postleitzahl/Ort => Straße und sie das hier in der Form erwartet hätte.
+Der Erstellen Button wurde auf unterschiedliche Art und Weise interprertiert. 3 hatte den Button im Sinne von "Speichern" interpretiert, 4 hatte ihn interpretiert als dass dadurch ein weiterer Sorgeberechtigter angelegt werden kann. Dies lag für 4 am Plus-Symbol.
+5 findet die Erfassungsformular für die Sorgeberechtigten unattraktiv und unübersichtlich im Gegensatz zu den anderen Formularen.
+
+<Tab "Notfallkontakte"
+2 fände es gut, wenn man die Art der Telefonnummer (Im Sinne von Dienstlich, privat, mobil) für die Notfallkontakte hinterlegen könnte und mehrere Telefonnummern zu einer Person zuordnen könnte, da man vormittags in der Regel eher bei einer dienstlichen Nummer anrufen würde als bei der privaten Nummer. 
+2 konnte zwischenzeitlich nicht feststellen, wie man den Datensatz speichern kann, da das Autocomplete-Dropdown Feld den Speichern-Button versteckt hatte. Dieses Feld wurde nicht wahrgenommen als Feld, dass man benutzerdefiniert ausfüllen kann, sondern als Feld, wo man zwingend einen der Werte auswählen muss.
+3 wollte mehrere Nummern in ein Feld eintippen, was ihr nicht gelang. Ähnlich wie 2 forderte 3, dass Erreichbarkeitszeiträume eintragbar sein sollten.
+3 hatte darauf hingewiesen, dass man erfasst, welche Rolle der Notfallkontakt ist, damit man im Notfall beurteilen kann, ob man sensible Informationen weitergeben darf. Eine Rangfolge der Notfallkontakte hielt sie nicht für sinnvoll.
+3 hätte die Notfallkontakte zu einem früheren Zeitpunkt erwartet
+4 findet die Eingabe der Notfallkontakte unpraktisch, da sie dieselben Daten wie bei den Sorgeberechtigen eingibt. Bei SchILD werden die Daten automatisch übernommen. 
+
+<Tab "Migrationshintergrund"
+1 ist zufrieden mit dem Migrationshintergrund und sagt alles wichtige sei vorhanden. 
+1 war allerdings der Ansicht, dass die Maske angezeigt werden sollte, auch wenn der Radiobutton "Migrationshintergrund Liegt nicht vor" ausgewählt ist.
+5 hinterfragt die Auslegung, ab wann ein Migrationshintergrund vorliegt. Hier ist sie sich unsicher und spekuliert.
+
+
+
+<Tab "Letzte Tätigkeit"
+1 kritisiert die Reihenfolge. Nach Auffassung von ihr hätte die letzte Tätigkeit noch im Kontext der Bearbeitung der Schüler-Daten kommen sollen, da es sich um ergänzende Informationen zur Person handelt, nicht erst nach den Sorgeberechtigten und Notfallkontakten.
+Bei nicht gefundener Schule ist es unklar für 1 wie man weitergehen soll, es wird eine Checkbox überdeckt von der Suche.
+Laut 1 sollte in der Schulsuche die eigene Umgebung bevorzugt werden bezüglich der Sortierung (also erst diese einträge und dann der Rest von NRW/Deutschland). 1 lobt an dieser Stelle die Umsetzung der Lösung vom Programm "SchILD", hier werden kleinere Details für die Filterung herangezogen. 
+1 moniert, dass bei der letzten Schule keine unpassenden Schulen gelistet werden sollten. (Bei Bewerbungen für die Sekundarstufe 2 sollten bspw. keine Grundschulen gelistet werden.)
+Bei 1 wird die Checkbox unter der Schulsuche ignoriert und zunächst nicht verwendet. Sie sollte besser Sichtbar gemacht werden laut ihr. 5 hat zwar die analoge Checkbox "Schule nucht gefunden?" gesehen, aber zunächst nicht verstanden.
+1 gibt an dass die Daten für die letzte Tätigkeit häufig aus Zeugnissen und anderen Dokumenten gelesen werden, da die Kinder/Eltern die Informationen entweder gar nicht oder unpassend angeben. Die analoge Checkbox "Kindertageseinrichtung nicht in der Liste gefunden?" wird bei 3 nach zweimaliger Suchversuch verwendet und hierdurch eine manuelle Eingabe vorgenommen. Diese Checkbox hatte sie nach dem zuklappen direkt gefunden. 
+Für 3 ist die Seite sinnlos, da das Kind noch keinen Abschluss haben kann.
+3 ist irritiert, sie kann nicht unterscheiden ob die letzte Tätigkeit des Schülers oder des Sorgeberechtigen abgefragt wird. 
+Die Angestrebte Schulstufe wird von 3 verstanden als letzte Schulstufe (welche bei der Primarstufenameldung nicht existiert), da die Seite "Letzte Tätigkeit" heißt und es das unmittelbar erst Feld ist. Ähnlich erging es auch 5, sie monierte, dass das Feld "Angestrebte Schulstufe" und der Tab "Letzte Tätigkeit" sich widersprechen.
+3 wählt als letzte Schulstufe zunächst die Primarstufe aus, sagt dann, dass sie in Folge dessen keinen Kindergarten auswählen kann sondern nur Schulen und gibt an, dass sie einen Fehler gemacht hat, sie hat laut ihr "falsch herum gedacht".
+3 findet nicht den angegebenen Kindergarten wenn sie nach dem Ort sucht. 
+5 hatte eine Grundschulempfehlung ausgewählt, konnte dieser aber nicht wieder aus dem Feld Entfernen.
+
+<Tab "Qualifikationen"
+5 monierte, dass ein paar Schlulabschlüsse wie beispielsweise Hauptschulabschluss fehlen.
+
+<Tab "Termine"
+5 konnte nicht erkennen, wozu die Termine Seite dient. Sie hat auch gesagt, dass sie ohnehin keine Zeit haben würde, 500 Leute zu Terminen einzuladen. Sie sagte allerdings auch, dass einige Bildungsgangleitungen Gespräche vorher mit dem Schüler führen wollen.
+
+<Tab "Bemerkungen"
+2 hatte sich zunächst die Frage gestellt, wer die internen Notizen sehen kann. Die Felder "Interne Notiz" und "Bemerkung für Schüler*in" wurden von ihr mit der Aussage "Anmerkung ist unsere Meinung, Bemerkungen sind Fakten" definiert. Auch 4 war sich unsicher, welche Informationen dem Schüler zugänglich sind. Im Gegensatz zu 2 interpretierte 4 dass die "Interne Notiz" nur die Schule sieht und dass das "Bemerkung"-Feld auch das Kind sehen kann, aber unsicher, da der Infotext oben im Formular laut ihr etwas anderes besagt.
+Sensible Informationen wie 3 sie nannte wie bspw. Behinderungen dürfen gegebenenfalls nicht erfasst werden. Hier wäre es zwecks gesetzlicher Anforderungen erforderlich, dass der Anwender sich dem bewusst gemacht wird.
+5 war überrascht, dass dieser Tab auftauchte, da sie zuvor nicht erkannt hatte, wie weit fortgeschritten sie im Prozess war. Dieser Tab war zuvor aufgrund des overflow-Verhalten des Browsers verdeckt gewesen.
+1 gab an, dass der Tab früher hätte kommen sollen.
+
+<Tab "Zusammenfassung"
+Als 1 auf Speichern klickte trat eine Fehlermeldung auf (Die Fehlermeldung ist sehr unklar) => Hier sollte laut ihr ein Hinweis kommen, wo genau darauf hingewiesen wird, wo der fehler liegt und wie dieser behoben werden kann. Laut ihr sollte am besten der Fokus auf das Feld gesetzt werden, welches fehlerhaft ist.
+Bei 2 hat der Inhalt einige Sekunden zum laden gebraucht. Aus ihrer Sicht nimmt sie an, dass die angeblich versendete E-Mail einen kritischen Wortlaut haben wird, da in der E-Mail die Rede von "Angemeldet" aus ihrer Sicht ist und dies eine die Erwartungshaltung beim Schüler schürt, dass alles in trockenen Tüchern für seine Schulbewerbung ist.
+Die Sekretärin 2 benötigt noch eine Unterschrift von den Eltern für die Anmeldung. 2 ist sich unsicher, ob das Schuljahr korrekt erfasst wurde.
+3 interpretiert die Meldung der Zusammenfassungsseite als "Die Mutter wurde kontaktiert".
+4 nimmt die angezeigte Information, dass das Kind mit der Anmeldung eine "vorzeitige Einschulung" einreicht, als fehlerhaft wahr. FÜr sie ist auch unklar, ob sie nun laut ihr eine "Anmeldung" oder nur eine "Bewerbung" eingereicht hat. 
+4 gibt an, dass Daten noch fehlen wie Angaben über einen bestehenden Masernschutz oder eine Betreuung für bspw. die offene Ganztagsschule, was wichtig wäre.
+5 kritisiert den Informationsgehalt der Seite, für sie sind zu viele Informationen im Panel "Bildungsgang" vorhanden. Laut ihr kann keiner mit dem Bildungsgang-Kürzel etwas anfangen.
+
+
+<Update Dialog 
+1 sagt, dass man um die Validität der Daten sicherstellen zu können nochmal sämtliche Daten mit den Eltern gegenprüfen lassen müsste. 
+1 kann die Aufgabe 2 zunächst nicht beginnen, da sie in der Übersichtsliste das Stift-Icon nicht als Schaltfläche wahrnimmt. Sie hovert lediglich drüber.
+1 versteht den Button "Bewerbungsformular" zunächst nicht. Es wird so interpretiert, dass das nur für die Akte ist und deshalb nicht von nutzen ist.
+1 versteht nicht, warum man das gesperrte Checkbox "Unterlagen sind vollständig" nicht auswählen kann. 
+1 versteht zunächst nicht, wozu die Checkbox "Schüler exportiert" und die Exportfunktion dienen. "Anmeldung Exportieren" wird als Export an neue annehmende Schule interpretiert.
+1 versteht nicht, warum die blaue formatierten Texte "Dokumente" nicht angeklickt werden können.
+Laut 1 sollte die  Anwendung wenn man versucht zu speichern Warnungen anzeigen, wenn unlogische Daten vom Schüler / den Eltern eingetragen wurden wie diese drei Beispiele:
+Beispiel: Wenn eine Anmeldung an die Sekundarstufe I erfolgt und die letzte Jahrgangsstufe=3 ist
+Beispiel: Anmeldung an Sekundarfstufe II als Grundschüler
+Beispiel: Datumsangaben widersprechen sich
+2 und 5 hätten bei Fehlern einen Indikator erwartet, wo der Fehler vorliegt. Fehler wurden nur sporadisch markiert. Wenn sie mal markiert wurden, fand 5 den roten Rahmen um das betreffende Feld gut.
+2 hat keine Sorgen über die Korrektheit der Daten, da das "SchILD" Programm ihr bei einem Import sagen würde, ob falsche Daten vorliegen.
+5 versteht den Speichern Button nur als Speichern des einzelnen Tabs. 5 gibt an, dass man den Abschluss prüfen und ggf. korrigieren sollte.
+5 hatte Schwierigkeiten sich in die andere Formulararbeit bei den Sorgeberechtigten zurechtzufinden.
+
+
 
 
 ============ Nach der Durchführung: ========================
@@ -154,10 +271,12 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 
-
-
 >Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein - was hat Sie daran gehindert?
-
+1 gab an, dass sie erst beim zweiten Anlauf die Aufgaben erfolgreich abgeschlossen hat. Für sie war zwischenzeitlich unklar was noch eingegeben werden musste. Für sie wurde es unübersichtlich aufgrnud der Anordnung der Tab. Sie hätte noch Hilfeoptionen und ein Handbuch als praktisch empfunden. 
+1 möchte ungerne prüfen, welche Anmeldungen neu reingekommen sind. Sie findet, dass es Ziffern oder eine andere Hervorhebung geben sollte, dass eine neue unbearbeitete Anmeldung vorhanden ist.
+2,3,4 gaben an, dass sie die Aufgaben alle abschließen konnten.
+4 hat den Eindruck, dass sich Fragen über die Software im Laufe der Zeit von selbst klären, sobald sie etwas geübter ist. 5 ist zuversichtlich, dass sie mit etwas Übung genau weiß "worauf man achten soll".
+5 gab an, dass sie die Aufgabe nicht abschließen kann, ohne die Aufnahmeentscheidung der Abteilungsleiter, da ebenjene zuständig dafür sind.
 
 
 
@@ -167,9 +286,10 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?
-
-
-
+1 findet die Software besser und übersichtlicher als die alte Software. Sie bemängelte noch, dass die Felder direkt bei Validierungsproblemen markiert werden sollten, sodass man nicht beim Speichern erst auf die Seite zurückgehen muss.
+2 erwartet, dass man jetzt die Anmeldung in das "SchILD" Programm übertragen kann. 2 möchte "Standardinformationen", welche immer zu einer Bewerbung erfasst werden müssen, wie beispielsweise ob das Kind im Schuljahr fotografiert werden darf oder ob es ein Schwimmabzeichen hat, auf einfache Art und Weise hinterlegen können.
+2 findet die verwendeten Farben schön.
+3 fand die Umsetzung der Aufgaben "relativ intuitiv", 4 fand die Umsetzung der Aufgaben "nicht schwierig" und "überschaubar". Es gab allerdings Irritationen bei der letzten Tätigkeit. 
 
 
 
@@ -177,7 +297,7 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?
-
+3 fordert, dass Der Unterschied zwischen den Menüpunkten "Schüler:innen" und "Anmeldungen" klarer sein sollte. 4 hatte ein paar Fragen, aber keine zusätzlichen Probleme. 5 gab an, dass das alles verständlich war, sie aber auch als erfahrene Sekretärin sich besser auskennt als unerfahrene.
 
 
 
@@ -187,9 +307,10 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?
-
-
-
+1 fand dass keine Schwierigkeiten oder Verwirrungen gab, mit Ausnahme der zuvor genannten Verwirrung bzgl. der Menüpunkte, wie sie auch 3 erlebt hatte. 
+2 fand die Felder bezüglich des Exports im Update Prozess verwirrend. Auch gab sie an, dass der Speichern Button bei den Sorgeberechtigen oben, wie auch die anderen Speichern Buttons, hätte sein sollen.
+3 und 4 hatten keine Schwierigkeiten oder Verwirrungen.
+5 gab an, dass die Bezeichnungen anders hätten sein sollen, laut ihr sollte es "Bisherige Schullaufbahn" sein anstatt "Letzte Tätigkeit".
 
 
 
@@ -197,9 +318,11 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Wie verständlich waren die Rückmeldungen der Anwendung?
-
-
-
+Laut 1 wäre es hilfreich, wenn die Anwendung melden würde, ob ein Datensatz vollständig und korrekt ausgefüllt ist.
+1 fand es "ausbaufähig", es sollte mehr Feedback geben, mit konkreten Anweisungen.
+3 hat der Hinweis gefehlt, auf welchem Reiter ein Fehler vorliegt.
+4 fand die Rückmeldungen der Anwendungen verständlich bis auf den Hinweis zur "vorzeitigen Einschulung".
+5 fände es gut, wenn es kleine Erklärungen neben den Feldern geben würde.
 
 
 
@@ -207,7 +330,11 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
-
+1 gab an, dass die Aufgaben jeder erledigen kann, die Begrifflichkeiten waren auch für Laien verständlich.
+2 sagte, dass man nur eine Tastatur und Maus benötigt, man muss lesen und schreiben können und die Grundzüge des Schulgesetzes kennen sollte. Selbst Praktikanten könnten das laut 2 eingeben, es müsste dann aber geprüft werden.
+3 sagt man müsse der deutschen sprache mächtig sein, Lesefähigkeit reicht.
+4 sagt 	dass man Vorkenntnisse mit EDV haben sollte und einen kaufmännischer Beruf gelernt haben sollte. Das restliches Wissen kommt laut ihr aus dem Alltagsgeschäft.
+5 sagt, man müsse nur lesen können. MAn sollte auch üer die eigenen Bildungsgänge der Schule Bescheid wissen und den normalen Schulwerdegang kennen.
 
 
 
@@ -217,17 +344,26 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Wie sehr entspricht die Umsetzung in der Software der Realität? 
-
-
-
-
-
-
+1 fände es gut, wenn das Erfassen der Bewerbung so aufgebaut sei wie die Dokumente der Schule oder vergleichbare Software (SchILD), damit man beim übertragen von Daten aus einem schriftlichen Formular nicht blättern muss und beim Kopieren aus einer Software wie SchILD die Daten in der gleicher Reihenfolge abgefragt werden, was zu weniger Verwirrung führen würde. Ansonsten entspricht das Programm der Realität.
+Es entspricht laut 1,2 inhaltlich SchILD.
+2 sagt, dass die Notizen zu den neuen Schülern der fünften Klasse als Liste zusammenführbar sein sollten.
+2 findet es gut, dass die Kinder bzw. Eltern informiert werden über die Anmeldung.
+2 findet es super, dass es vier Arbeitsschritte in einem sind.
+2 fände es gut, wenn das Programm der abgebenden Schule mitteilt, dass der Schüler aufgenommen wurde.
+2 sieht Probleme in Bezug auf Mehrfachanmeldungen.
+3 gibt an, dass meistens die Eltern den Schüler anmelden. Sie fände es praktisch, wenn die Kommunen die Anmeldung vorbereiten würden.
+4 und 5 sagen das Programm entspricht der Realität. 5 erhofft sich, dass Anmeldezeiträume berücksichtigt werden.
 
 
 
 >Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
-
+1 sagt, dass wenn unwichtige Daten wie der Geburtsort fehlen und die Anmeldung abgeschlossen werden muss, im notfall ausgedacht.
+Wichtige Daten müssen laut 1 mit Urkunden ausgefüllt werden.
+2 validiert die Postleitzahlen und Orte händisch und berechnet händisch Kilometerangaben. Sie erhofft sich eine automatische Berechnung der Kilometerangaben. 
+Die Lehrer möchten die Daten der Schüler in Papier ausgedruckt erhalten, weshalb 2 das ausdrucken können möchte.
+Laut 3 würde das Programm nur ihre Excel Tabelle ersetzen. 
+4 gibt an dass sie nichts anders handhabe.
+5 fügt normalerweise noch Dokumente hinzu wie Zeugnisse, Lebensläufe, Masernschutz, damit die Lehrer über eine Aufnahme entscheiden können.
 
 
 
@@ -237,16 +373,21 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
+Da das Programm ein weiteres zu lernendes Programm wäre, würde das aus Sicht von 1 mehr Aufwand für sie bedeuten. Es wäre aus ihrer Sicht eine Dopplung zu SchILD. Es sollte aus Sicht von 1 die Möglichkeit geben eine E-Mail angeben zu können, damit sie in einem wählbaren Intervall Neuigkeiten der Anwendung erhalten könnte.
+2 moniert, dass noch weitere Informationen fehlen, die irgendwie erfasst werden müssen: Angaben zum Ipad müssen erfasst werden wie Angaben zum Mietvertrag oder bei den Kaufoptionen.
+Laut 2 muss die E-Mail stimmen und überprüft werden, die kann auch gerne mal falsch sein.
+2 möchte, dass Schulbuchbestellungen mit in die versandte E-Mail integriert werden sowie Materiallisten.
+2 merkt an, dass auch noch die bisherigen Noten einiger Fächer erfasst werden müssen
+2 sagt, dass eine Geburtsurkunde vorliegen muss und die Datenschutzerklärung der Schule vom Schüler/Elternteil gelesen + akzeptiert werden. Der Impfausweis muss vorgelegt werden aber nicht im Programm erfasst werden.
+3 sagt, dass es einfacher sein muss als ihre Excel-Tabelle und dass die Eltern sich am Prozess beteiligen müssten.
+4 gibt an, dass man sich umgewöhnen muss und ein daraus resultierender Zeitaufwand entstehen würde. Sie sagt, dass ein schnelles erlernen der Anwendung praktisch und angenehm wäre und ihr diese Hürde nehmen würde.
+Für 5 gilt: nichts hindert aktuell, die Software im Alltag einzusetzen. In Kombination mit der neuen "SchILD"-Software wird der Erfassungsprozess "sehr einfach"
 
 
 
 
 
-
-
-
-
->Wie sehr erleichtert Ihnen die Anwendung ihre Arbeit?
+removed: >Wie sehr erleichtert Ihnen die Anwendung ihre Arbeit?
 
 
 
@@ -257,9 +398,8 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
-
-
-
+1 erwartet die Filterung von Schulen so wie sie auch in SchILD implementiert ist.
+4 hätte gerne Reports oder ähnliches.
 
 
 
@@ -267,6 +407,9 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 
+Es sollte laut 1,2,3 eine Integration mit Schulverwaltungsprogrammen wie SchILD geben. 
+2 wünscht sich eine Verbindung zu ISERV.
+3,4 und 5 wollen einen Export nach Excel machen können.
 
 
 
@@ -277,13 +420,16 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 >Welche Dokumente würden Sie gerne im Prozess ausdrucken können?
-
-
-
-
-
-
-
-
+1 findet es gut, dass man das Anmeldeformular ausdrucken kann, um es ggf. zu archivieren.
+1 erwartet, dass man Formulare wie Schweigepflichtsentbindung, Einverständnis für PKW/Bulli Mitfahrten, Fotoerlaubnisse für die Website ausdrucken können sollte.
+2 will, dass man für die Schülerakte ein Schülerstammblatt und jedes Jahr die Notenübersicht ausdrucken können sollte.
+3 will Das Bewerbungsformular, Das Formular für Essensverpflegung, Infos zum Schülerspezialverkehr (bus), Einen Notfallkontaktbogen (bzgl. Medikamente, Telefonnummern, Krankenkasse, Hausarzt, Allergien, etc.), Ein Formular zur Fotoerlaubnis und diverse weitere Dokumente für jeden Schüler ausdrucken können.
+4  ein Schülerstammblatt (mit Laufbahn), Klassenlisten, Buskinder, eine Auflistung von Kindern mit Migrationshintergrund, eine Auflistung von Kindern mit Förderbedarf, Eine Liste mit Sortierung nach Nationalitäten, ein Formular über den Religionsunterricht, an dem der Schüler teilnehmen soll und ein Gesamtüberblick über die Kinder, die mit dem Bus fahren sowie deren bushaltestellen sollen wäre erleichternd.
+5 möchte Schülerstammdatenblätter und eine Übersicht, wer aufgenommen wurde, ausdrucken können.
 
 >Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?
+1 würde keine Dokumente hinterlegen wollen.
+2 will alle Dokumente die für die Anmeldung relevant waren hinterlegen können, insbesondere das Anmeldeformular.
+3 will nur das Anmeldeformular hinterlegen können.
+4 die digitalen Personalakten, Sorgerechtsbescheide und Anmerkungen über aktuelle Gegebenheiten wie Kuraufenthalte.
+5 möchte das Zeugnis, den Lebenslauf gerne hinterlegen können.               

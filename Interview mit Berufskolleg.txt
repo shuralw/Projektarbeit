@@ -168,10 +168,71 @@ Aufnahmestatus ist schwierig, die Lehrer entscheiden über den Status"	"Auto im 
 Unterbrechung durch Klopfen im hintergrund
 darf ich den hier überhaupt schon setzen? (?)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Persönliche Daten
 Aussage: Sorgeberechtigte kommen auf dem nächsten Reiter
 Der Tab ist selbsterklärend 
 Hilfreich wäre eine Visualisierung, ob das schulkind volljährig ist, dann muss man nicht selber rechnen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Sorgeberechtigte
 Warum springt die maske?
@@ -179,18 +240,66 @@ warum sieht die anders aus
 Anschriften-Reiter wird übersehen
 wer sagt uns, dass die Daten hier richtig sind?
 Mir gefällt das hier so nicht (Nicht übersichtlich und unattraktiv.)
+Wozu dient das Postfach?
 Das ist nicht ausreichend
 Sollte genau so aussehen wie beim Schulkind
 Tel, Adresse, Mail, ggf. Beruf + dienstliche Tel, Herkunftsland der Sorgeberechtigten sind wichtig für die Statistik (unabhängig von herkunft des Schulkinds)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Notfallkontakte
 Aber nur, wenn Sorgeberechtigte nicht gepflegt sind, (?)
 Im normallfall sind das dieselben Personen wie die Sorgeberechtigten
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Migrationshintergrund		
 Ergibt sich aus der staatsangehörigkeit
 Das hinterfragt der Klaus immer, ob ein Migrationshintergrund vorliegt
 Migrationshintergrund liegt nur vor, wenn Staatsangehörigkeit..." (Die Teilnehmerin fängt an zu spekulieren) - da müsste man das Gesetz kennen			
+
+
+
 
 Letzte Tätigkeit
 Letzte Tätigkeit ist kontrovers zu angestrebte Schulstufe
@@ -213,7 +322,7 @@ Termin, wofür?
 Man hat keine zeit hier 500 Leute einzuladen, ist für uns nicht machbar
 Nur bestimmte Bildungsangebote machen das an unserer Schule wir (als Sekretärin) wollen kein gespräch (lacht).
 
-Aufnahmeberatung
+Bemerkungen
 Ach, das geht hier noch weiter (Sekretärin hatte nicht die versteckten Reiter gesehen, da weitere Tabs hinter einem > Symbol versteckt waren)
 Maximal für den Einschulungstag brauchen wir diese Felder
 Interpretation: Eins ist nur für uns sichtbar, das andere für schüler/betrieb. Hoffentlich!
@@ -253,11 +362,27 @@ es braucht zeit sich in eine andere Form (sorgeberchtigten vs andere tabs) hinei
 Ablauf mit anderen Produkten unklar
 Lehrer in die entscheidung mit einbeziehen, aber nicht zwangsläufig schreiberechte
 
+
+
+
+
+
 Nach der Durchführung:						
 Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?
 Wenn wir nichts in der Hand haben, was sollen wir dann ändern?
 Wir sind nicht Zuständigkeit für eine Aufnahmeentscheidung, nur die Aufnahme der Daten
 Der Abteilungsleiter trifft entscheidung, ob der Schüler aufgenommen wird.
+
+
+
+
+
+
+
+
+
+
+
 
 Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe? Gab es positive oder negative Erfahrungen?
 Das programm so ist ja nicht schwierig
@@ -266,17 +391,45 @@ Wenn man das einmal verstanden hat, weiß man, worauf man achten soll
 Überschaubar
 Infos von den Schülern, welche Klasse/Schule besucht wurde, wird nicht benötigt
 
+
+
+
+
+
+
+
+
 Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?	
 Das war doch jetzt verständlich alles
 für uns ist das ja alles klar, als erfahrene Sekretärinnen
+(im gegensatz zu Anfängern)
 
 Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?
 Bezeichnungen sollten besser sein (Bisherige Schullaufbahn bspw. anstatt Letzte Tätigkeit)
-Farblich besser hinterlegt, um es einfacher zu machen
-Übersicht simpler
+Übersicht simpler (?)
+
+
+
+
+
+
+
+
+
+
+
 
 Wie verständlich waren die Rückmeldungen der Anwendung?		
 Manchmal wäre ne kleine erklärung daneben gut (vorbildung...)				
+
+
+
+
+
+
+
+
+
 
 Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
 Lesen
@@ -285,26 +438,77 @@ Wissen über angebote der eigenen Schule, den normalen schulwerdegang
 Wie sehr entspricht die Umsetzung in der Software der Realität? 	
 Tatsächlich genau das gleich nur in einer anderen maske, 
 sieht nur anders aus ist, anders aufgebaut
-Anmeldezeiträume werden hoffentlich nciht mehr vergessen				
+Anmeldezeiträume werden hoffentlich nciht mehr vergessen	
+
+
+
+
+
+
+
+
+
+
 
 Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
 Dokumente dazufügen, Zeugnis, Lebenslauf, masernschutz, damit die Lehrer eine Entscheidung treffen können
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
 Nach unserem ersten Eindruck nichts
-Mit dem neuen schild wird das ja sehr einfach
-						
+Mit dem neuen schild wird die Anmeldung ja sehr einfach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
 Ne, ich kann alles eintragen
 Farben, reiter oben in grün, wenn vollständig ausgefüllt			
 
+
+
+
+
 Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 
 Excel-Export (auch, damit Lehrer die Daten verwenden können) und um Sortierung/Filterung zu ermöglichen
+
+
+
 
 Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdrucken können?		
 Stammdaten (für Lehrer)
 Übersicht, wer aufgenommen wurde (Mit Telefonnummer)
 
 Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?		
-Zeugnis, lebenslauf, masernschutz werden die dann über mehrere Bewerbungen gespeichert? 
+Zeugnis, lebenslauf
 Eigentlich nur für eine Anmeldung				

@@ -172,10 +172,79 @@ Bildungsgang
 - Bildungsgangbezeichnung verwirrend/unbekannt
 - Beschulungsende wird leergelassen, weil noch nicht bekannt
  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Persönliche Daten	
 - Unsicherheit, ob Ziffer im Anmeldeformular bei der Telefonnummer eine 4 oder 9 ist => Lösung: vergleich, mit anderen ziffern, ansonsten gucken in Listen
 - Anmerkung, dass bei Telefonnummer mehr Möglichkeiten hilfreich wären, mit Anmerkung, wozu diese Nummer gehört	
 - Unterbechung durch Telefon => Unterbrechungen passieren nach eigener Aussage häufiger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Sorgeberechtigte	
 - Hier würde angerufen werden, um einen Nachweis für Sorgerecht zu erhalten
@@ -186,12 +255,61 @@ Sorgeberechtigte
  - Unterbrechung durch Telefon => unterbechungen sind im regulären Schulaltag häufiger als derzeit (es sind Ferien) 
  - Unterbechungen sind außerhalb der Ferien andauernd, so das es wenig sinn ergibt die arbeit auf später zu verschieben, da auch dort immer wieder unterbechungen passieren
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Notfallkontakte
 - Unpraktische Eingabe, da hier die vorherigen Daten erneut angegeben werden müssen 
  - Es wird ein Vergleich zu Schild gezogen, wo diese Daten automatisch übernommen werden
 - Kurze Irritierung, da nur ein Notfallkontakt angegeben werden konnte, jedoch schnell den Button für weitere gefunden
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Migrationshintergrund		
+
+
+
+
+
+
+
+
+
+
+Bemerkungen
+
+- Irritation, was das Schulkind bei den Bemerkungen sehen kann und was nicht
+- Erwartung: Interne Notiz sieht nur die Schule und das andere auch das Kind, aber unsicher, da Infotext oben etwas anderes besagt
+
 
 Letzte Tätigkeit		
 
@@ -203,8 +321,6 @@ Aufnahmeberatung
 - Annahme, dass man hier einen Termin erstellen kann, eine E-mail versenden oder Brief verschicken kann, wenn hypothetisch nicht am Anfang angegeben worden wäre, dass ein Gespräch bereits stattgefunden hat	
 
 Zusammenfassung
-- Irritation, was das Schulkind bei den Bemerkungen sehen kann und was nicht
-- Erwartung: Interne Notiz sieht nur die Schule und das andere auch das Kind, aber unsicher, da Infotext oben etwas anderes besagt
 - Information zur verfrühten Anmeldung wird als fehlerhaft wahrgenommen
 - Startcode wird interpretiert als Code für Anmeldung des Schülers (Hinweis wird danach gelesen und erklärt dies)
 - Unklar, ob dies bereits eine Anmeldung oder nur eine Bewerbung darstellt	
@@ -219,10 +335,29 @@ Zusammenfassung
 - unklar, was exportiert bedeutet/an wen
 - unklar, welche pflichtunterlagen fehlen
 
+
+
+
+
+
 Nach der Durchführung:		
 Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?	
 - Ja
 - Ich habe den Eindruck, dass sich einige Fragen irgendwann von selbst klären, wenn man etwas mit der Anwendung vertraut ist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?	
 - Positiv: Design ist intuitiv
@@ -230,13 +365,50 @@ Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positiv
  - Man kann jederzeit zurück gehen und Daten korrigieren
 - Negativ: Umgewöhnung	
 
+
+
+
+
+
+
+
+
+
+
 Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?	
 - Es gab ein paar Rückfragen, aber keine zusätzlichen Probleme	
 
+
+
+
 Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?		
+- Nein
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Wie verständlich waren die Rückmeldungen der Anwendung?	
-- Verständlich außer Fehlermeldung zu verfrühten Schulaufnahme	
+- Verständlich außer Fehlermeldung zur vorzeitigen Einschulung
+
+
+
+
+
+
+
+
+
+
 
 Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?	
 - Vorherige Arbeit mit EDV
@@ -245,20 +417,78 @@ Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
 
 Wie sehr entspricht die Umsetzung in der Software der Realität? 	
 - 
-Passt	
+Passt zur Realität.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?	
 - Nichts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?	
 - Umgewöhnung und der daraus resultierende Zeitaufwand
 - Schnelles Lernen wäre sehr praktisch und angenehm und könnte diese Hürde nehmen		
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?	 
 - Reports oder Ähnliches um die Daten aus dem Programm zu ziehen	
+
+
+
+
+
+
+
 
 Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 
 - Excel Schnittstelle
 - Kunden sollten daten aus Excel oder ähnlichem importieren können	
+
+
+
 
 Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdrucken können?	
 - Schülerstammblatt (mit Laufbahn)
@@ -268,13 +498,10 @@ Welche Dokumente würden Sie gerne im Prozess oder am Ende des Prozesses ausdruc
 - Förderkinder
 - Sortierung nach Nationalitäten
 - Religion (Teilnahme an entsprechendem Unterricht) 
-- Eine Anmerkung nebenbei: Ein Gesamtüberblick über alle Buskinder wäre erleichternd
+- Eine Anmerkung nebenbei: Ein Gesamtüberblick über alle Buskinder + deren bushaltestellen wäre erleichternd
 
 Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?	
 - Digitale Personalakten
 - Sorgerechtsbescheide
 - Anmerkungen über Aktuelles (Kuraufenthalt)	
 
-
-Was erhoffen Sie sich noch von der Anwendung?		
-- 

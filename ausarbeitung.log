@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  5 AUG 2023 14:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  5 AUG 2023 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -789,22 +789,22 @@ LaTeX Warning: Citation 'iso-9241-11' on page 2 undefined on input line 6.
 LaTeX Warning: Citation 'iso-9241-11' on page 2 undefined on input line 6.
 
 
-Overfull \hbox (81.71976pt too wide) in paragraph at lines 5--8
+Overfull \hbox (80.81303pt too wide) in paragraph at lines 5--8
 \T1/cmr/m/n/10.95 zeich-net das Aus-maÿ der Über-ein-stim-mung von tat-säch-li-
-chen und an-ge-streb-ten Ergebnissen."[].
+chen und an-ge-streb-ten Ergebnissen.^^R[].
  []
+
+
+LaTeX Warning: Citation 'ISO-9241-110' on page 2 undefined on input line 18.
 
 [2]
 
-LaTeX Warning: Citation 'ISO-9241-110' on page 3 undefined on input line 31.
+LaTeX Warning: Citation 'stangl' on page 3 undefined on input line 33.
 
 
-LaTeX Warning: Citation 'stangl' on page 3 undefined on input line 45.
+LaTeX Warning: Citation 'stangl' on page 3 undefined on input line 34.
 
-
-LaTeX Warning: Citation 'stangl' on page 3 undefined on input line 46.
-
-[3] [4]) (kapitel/materialmethode_v2.tex [5]
+[3]) (kapitel/materialmethode_v2.tex [4] [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -822,14 +822,83 @@ Overfull \hbox (10.88788pt too wide) in paragraph at lines 41--42
  []
 
 [8 <./abbildungen//konstellationenv3.png>] [9] [10])
-(kapitel/ergebnisse_generated.tex [11] [12] [13] [14] [15] [16] [17] [18]
-[19]) (kapitel/diskussion.tex [20] [21] [22] [23]
-Overfull \hbox (13.93791pt too wide) in paragraph at lines 80--82
-[]\T1/cmr/m/n/10.95 Bzgl. Up-da-te Die Änmel-dung wur-de ex-por-tiert"Checkbox 
-auf dem Rei-ter "Be-wer-bung"hätte
+(kapitel/ergebnisse_generated.tex [11] [12] [13] [14] [15]
+Overfull \hbox (0.29883pt too wide) in paragraph at lines 107--109
+\T1/cmr/m/n/10.95 Alle Stu-dien-teil-neh-mer hat-ten Schwie-rig-kei-ten zu ver-
+ste-hen, wo-für das Feld ^^RID-Schlüssel^^P
  []
 
-) (kapitel/anhang.tex [24]
+[16] [17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+) (kapitel/diskussion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 215--1
+
+ []
+
+[21] [22] [23]) (kapitel/anhang.tex [24]
 <./abbildungen//bildungsgang.png, id=108, 1251.17438pt x 603.0028pt>
 File: ./abbildungen//bildungsgang.png Graphic file (type png)
 <use ./abbildungen//bildungsgang.png>
@@ -852,7 +921,7 @@ File: ./abbildungen//sorgeberechtigter-person.png Graphic file (type png)
 Package pdftex.def Info: ./abbildungen//sorgeberechtigter-person.png  used on i
 nput line 29.
 (pdftex.def)             Requested size: 363.60754pt x 462.22574pt.
- [26 <./abbildungen//sorgeberechtigte-liste.png>]
+[26 <./abbildungen//sorgeberechtigte-liste.png>]
 Overfull \vbox (16.45842pt too high) has occurred while \output is active []
 
 
@@ -978,10 +1047,10 @@ Package logreq Info: Writing requests to 'ausarbeitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15568 strings out of 478338
- 318700 string characters out of 2836700
- 1116395 words of memory out of 3000000
- 33768 multiletter control sequences out of 15000+600000
+ 15533 strings out of 478338
+ 318178 string characters out of 2836700
+ 1115582 words of memory out of 3000000
+ 33733 multiletter control sequences out of 15000+600000
  487143 words of font info for 60 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,8n,106p,10609b,2467s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1003,9 +1072,9 @@ Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk
 440.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
 \ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
 dpi600\eccc1728.pk>
-Output written on ausarbeitung.pdf (45 pages, 815764 bytes).
+Output written on ausarbeitung.pdf (45 pages, 814593 bytes).
 PDF statistics:
- 747 PDF objects out of 1000 (max. 8388607)
+ 744 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

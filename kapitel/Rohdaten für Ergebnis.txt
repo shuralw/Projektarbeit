@@ -164,8 +164,8 @@ Für 1 ist das Dropdown Feld Klasse unklar, da keine Daten vorhanden sind, es st
 1 hatte den Status "Warteliste" ausgewählt, um die Bewerbung als "In Bearbeitung" zu markieren.
 1 wusste nicht, warum in der Anwendung hinterlegt werden soll, dass eine Aufnahmeberatung stattfand.
 1 erwartet, dass Eltern nur eingeschränkt Informationen übermitteln können. Sie sollen beispielsweise daran gehindert werden, mehr als zwei Klassenkameraden irgendwo angeben zu können. 1 hatte die Klasse als Jahrgangsstufe interpretiert. Sie erwartet auch, dass die Anwendung aufzeigt, welche Felder den Eltern bzw. Schülern sichtbar gemacht werden. Damit Fehleingaben verhindert werden, sollten der Schulbeginn und -Ende zentral vorgegeben werden. Es war für 1 unklar, ob es sich um die zuletzt besuchte Schulgliederung oder um die Schulgliederung handelt, auf die sich der Schüler bewirbt.
-2 hätte den Begriff "Neuaufnahme" in der Auswahl für den Aufnahmestatus erwartet, da diese Terminologie auch bei "SchILD" verwendet wird. Warteliste bedeutet dort ebenfalls laut ihr etwas anderes. Die Sekretärin hat erkannt, dass die Telefonnummervorwahl nicht zum Ort passt. Sie würde jetzt in der Realität nochmal bei der anderen Telefonnummer  nachhaken. 
-2 erwartet, dass die Daten bezüglich der Schulen aktuell sein sollten. Bei "SchILD" sind sie es nicht.
+2 hätte den Begriff "Neuaufnahme" in der Auswahl für den Aufnahmestatus erwartet, da diese Terminologie auch bei \textit{SchILD} verwendet wird. Warteliste bedeutet dort ebenfalls laut ihr etwas anderes. Die Sekretärin hat erkannt, dass die Telefonnummervorwahl nicht zum Ort passt. Sie würde jetzt in der Realität nochmal bei der anderen Telefonnummer  nachhaken. 
+2 erwartet, dass die Daten bezüglich der Schulen aktuell sein sollten. Bei \textit{SchILD} sind sie es nicht.
 2 hatte beim Schulbeginn ein nicht unterstütztes Datumsformat verwendet. Sie konnte auch nicht erkennen, ob das Feld ausgefüllt werden muss. 2 hatte nicht verstanden, wie man den Beschulungsbeginn eintragen soll.
 3 hält die Sortierung der Schuljahre für nicht sinnvoll. 3 stellt fest, dass man mitunter keine medizinischen Informationen erfassen darf.
 4 wurde irritiert durch die Meldung, dass ein Antrag auf vorzeitige Einschulung stattfindet. Sie fand die Bildungsgangbezeichnungen verwirrend. Das Beschulungsende ist für sie nicht bekannt, also füllt sie es nicht aus.
@@ -177,7 +177,7 @@ Bei 5 entscheiden die Lehrer über eine Aufnahme.
 <Probleme beim Tab "Persönliche Daten"
 1 hatte intuitiv die Hausnummer mit der Straße in das Feld \textit{Straße} anstatt in das Feld \textit{Hausnummer} eingetragen.
 1 hat die E-Mail des Sorgeberechtigten in das E-Mail Feld des Schülers eingetragen.
-1 monierte, dass der Tab \textit{Persönliche Daten} vor dem \textit{Bildungsgang} Tab kommen sollte, so wie es in "SchILD" auch ist. 1 hätte erwartet, dass der Staat mit Deutschland vorausgefüllt wird. Sie findet es gut, dass der Ortsteil abgefragt wird, aber auch dass er kein Pflichtfeld ist. 
+1 monierte, dass der Tab \textit{Persönliche Daten} vor dem \textit{Bildungsgang} Tab kommen sollte, so wie es in \textit{SchILD} auch ist. 1 hätte erwartet, dass der Staat mit Deutschland vorausgefüllt wird. Sie findet es gut, dass der Ortsteil abgefragt wird, aber auch dass er kein Pflichtfeld ist. 
 1 erwartet einen klärenden Hinweis, dass bei Sek1 Schülern grundsätzlich die Telefonnummer der Sorgeberechtigten erwartet wird. Bei Sek2 hingegen grundsätzlich die des Schülers selbst.
 2 findet ebenfalls die Ortsteile interessant.
 Unbekannte Straßen werden von 3 mit Google Maps auf Existenz validiert. 
@@ -192,7 +192,7 @@ Bei 1 funktionierte die Suche nach der Postleitzahl-Ort Kombination zunächst ni
 Für 1, 5 war unklar, wozu das Postfach dient.
 Der Sorgerechtigten Prozess wurde bei 1  ausversehen abgebrochen durch klick neben das Popup. Dies führt zu Unverständnis und macht die Nutzerin sauer. Die Nutzerin forderte im Allgemeinen, dass man Daten nicht verlieren können sollte, sei es durch danebenklick oder wenn man sich ausloggt.
 2 hatte intuitiv die Hausnummer mit der Straße in das Feld \textit{Straße} anstatt in das Feld \textit{Hausnummer} eingetragen.
-1,2,3,4, also alle bis auf 5 hatten versucht die Straße in das Feld "Adressart" einzugeben. 3 hatte auf Nachfrage als Begründung geSchILDert, dass man intuitiv die folgende Reihenfolge von Eingaben macht: Staat => Postleitzahl/Ort => Straße und sie das hier in der Form erwartet hätte.
+1,2,3,4, also alle bis auf 5 hatten versucht die Straße in das Feld "Adressart" einzugeben. 3 hatte auf Nachfrage als Begründung ge \textit{SchILD} ert, dass man intuitiv die folgende Reihenfolge von Eingaben macht: Staat => Postleitzahl/Ort => Straße und sie das hier in der Form erwartet hätte.
 Der Erstellen Button wurde auf unterschiedliche Art und Weise interprertiert. 3 hatte den Button im Sinne von "Speichern" interpretiert, 4 hatte ihn interpretiert als dass dadurch ein weiterer Sorgeberechtigter angelegt werden kann. Dies lag für 4 am Plus-Symbol.
 5 findet die Erfassungsformular für die Sorgeberechtigten unattraktiv und unübersichtlich im Gegensatz zu den anderen Formularen.
 
@@ -202,7 +202,7 @@ Der Erstellen Button wurde auf unterschiedliche Art und Weise interprertiert. 3 
 3 wollte mehrere Nummern in ein Feld eintippen, was ihr nicht gelang. Ähnlich wie 2 forderte 3, dass Erreichbarkeitszeiträume eintragbar sein sollten.
 3 hatte darauf hingewiesen, dass man erfasst, welche Rolle der Notfallkontakt ist, damit man im Notfall beurteilen kann, ob man sensible Informationen weitergeben darf. Eine Rangfolge der Notfallkontakte hielt sie nicht für sinnvoll.
 3 hätte die Notfallkontakte zu einem früheren Zeitpunkt erwartet
-4 findet die Eingabe der Notfallkontakte unpraktisch, da sie dieselben Daten wie bei den Sorgeberechtigen eingibt. Bei SchILD werden die Daten automatisch übernommen. 
+4 findet die Eingabe der Notfallkontakte unpraktisch, da sie dieselben Daten wie bei den Sorgeberechtigen eingibt. Bei \textit{SchILD} werden die Daten automatisch übernommen. 
 
 <Probleme beim Tab "Migrationshintergrund"
 1 ist zufrieden mit dem Migrationshintergrund und sagt alles wichtige sei vorhanden. 
@@ -214,7 +214,7 @@ Der Erstellen Button wurde auf unterschiedliche Art und Weise interprertiert. 3 
 <Probleme beim Tab "Letzte Tätigkeit"
 1 kritisiert die Reihenfolge. Nach Auffassung von ihr hätte die letzte Tätigkeit noch im Kontext der Bearbeitung der Schüler-Daten kommen sollen, da es sich um ergänzende Informationen zur Person handelt, nicht erst nach den Sorgeberechtigten und Notfallkontakten.
 Bei nicht gefundener Schule ist es unklar für 1 wie man weitergehen soll, es wird eine Checkbox überdeckt von der Suche.
-Laut 1 sollte in der Schulsuche die eigene Umgebung bevorzugt werden bezüglich der Sortierung (also erst diese einträge und dann der Rest von NRW/Deutschland). 1 lobt an dieser Stelle die Umsetzung der Lösung vom Programm "SchILD", hier werden kleinere Details für die Filterung herangezogen. 
+Laut 1 sollte in der Schulsuche die eigene Umgebung bevorzugt werden bezüglich der Sortierung (also erst diese einträge und dann der Rest von NRW/Deutschland). 1 lobt an dieser Stelle die Umsetzung der Lösung vom Programm  \textit{SchILD} , hier werden kleinere Details für die Filterung herangezogen. 
 1 moniert, dass bei der letzten Schule keine unpassenden Schulen gelistet werden sollten. (Bei Bewerbungen für die Sekundarstufe 2 sollten bspw. keine Grundschulen gelistet werden.)
 Bei 1 wird die Checkbox unter der Schulsuche ignoriert und zunächst nicht verwendet. Sie sollte besser Sichtbar gemacht werden laut ihr. 5 hat zwar die analoge Checkbox "Schule nucht gefunden?" gesehen, aber zunächst nicht verstanden.
 1 gibt an dass die Daten für die letzte Tätigkeit häufig aus Zeugnissen und anderen Dokumenten gelesen werden, da die Kinder/Eltern die Informationen entweder gar nicht oder unpassend angeben. Die analoge Checkbox "Kindertageseinrichtung nicht in der Liste gefunden?" wird bei 3 nach zweimaliger Suchversuch verwendet und hierdurch eine manuelle Eingabe vorgenommen. Diese Checkbox hatte sie nach dem zuklappen direkt gefunden. 
@@ -259,7 +259,7 @@ Beispiel: Wenn eine Anmeldung an die Sekundarstufe I erfolgt und die letzte Jahr
 Beispiel: Anmeldung an Sekundarfstufe II als Grundschüler
 Beispiel: Datumsangaben widersprechen sich
 2 und 5 hätten bei Fehlern einen Indikator erwartet, wo der Fehler vorliegt. Fehler wurden nur sporadisch markiert. Wenn sie mal markiert wurden, fand 5 den roten Rahmen um das betreffende Feld gut.
-2 hat keine Sorgen über die Korrektheit der Daten, da das "SchILD" Programm ihr bei einem Import sagen würde, ob falsche Daten vorliegen.
+2 hat keine Sorgen über die Korrektheit der Daten, da das \textit{SchILD} Programm ihr bei einem Import sagen würde, ob falsche Daten vorliegen.
 5 versteht den Speichern Button nur als Speichern des einzelnen Tabs. 5 gibt an, dass man den Abschluss prüfen und ggf. korrigieren sollte.
 5 hatte Schwierigkeiten sich in die andere Formulararbeit bei den Sorgeberechtigten zurechtzufinden.
 
@@ -290,7 +290,7 @@ Beispiel: Datumsangaben widersprechen sich
 
 >Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?
 1 findet die Software besser und übersichtlicher als die alte Software. Sie bemängelte noch, dass die Felder direkt bei Validierungsproblemen markiert werden sollten, sodass man nicht beim Speichern erst auf die Seite zurückgehen muss.
-2 erwartet, dass man jetzt die Anmeldung in das "SchILD" Programm übertragen kann. 2 möchte "Standardinformationen", welche immer zu einer Bewerbung erfasst werden müssen, wie beispielsweise ob das Kind im Schuljahr fotografiert werden darf oder ob es ein Schwimmabzeichen hat, auf einfache Art und Weise hinterlegen können.
+2 erwartet, dass man jetzt die Anmeldung in das \textit{SchILD} Programm übertragen kann. 2 möchte "Standardinformationen", welche immer zu einer Bewerbung erfasst werden müssen, wie beispielsweise ob das Kind im Schuljahr fotografiert werden darf oder ob es ein Schwimmabzeichen hat, auf einfache Art und Weise hinterlegen können.
 2 findet die verwendeten Farben schön.
 3 fand die Umsetzung der Aufgaben "relativ intuitiv", 4 fand die Umsetzung der Aufgaben "nicht schwierig" und "überschaubar". Es gab allerdings Irritationen bei der letzten Tätigkeit. 
 
@@ -347,8 +347,8 @@ Laut 1 wäre es hilfreich, wenn die Anwendung melden würde, ob ein Datensatz vo
 
 
 >Wie sehr entspricht die Umsetzung in der Software der Realität? 
-1 fände es gut, wenn das Erfassen der Bewerbung so aufgebaut sei wie die Dokumente der Schule oder vergleichbare Software (SchILD), damit man beim übertragen von Daten aus einem schriftlichen Formular nicht blättern muss und beim Kopieren aus einer Software wie SchILD die Daten in der gleicher Reihenfolge abgefragt werden, was zu weniger Verwirrung führen würde. Ansonsten entspricht das Programm der Realität.
-Es entspricht laut 1,2 inhaltlich SchILD.
+1 fände es gut, wenn das Erfassen der Bewerbung so aufgebaut sei wie die Dokumente der Schule oder vergleichbare Software ( \textit{SchILD} ), damit man beim übertragen von Daten aus einem schriftlichen Formular nicht blättern muss und beim Kopieren aus einer Software wie \textit{SchILD} die Daten in der gleicher Reihenfolge abgefragt werden, was zu weniger Verwirrung führen würde. Ansonsten entspricht das Programm der Realität.
+Es entspricht laut 1,2 inhaltlich  \textit{SchILD} .
 2 sagt, dass die Notizen zu den neuen Schülern der fünften Klasse als Liste zusammenführbar sein sollten.
 2 findet es gut, dass die Kinder bzw. Eltern informiert werden über die Anmeldung.
 2 findet es super, dass es vier Arbeitsschritte in einem sind.
@@ -376,7 +376,7 @@ Laut 3 würde das Programm nur ihre Excel Tabelle ersetzen.
 
 
 >Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
-Da das Programm ein weiteres zu lernendes Programm wäre, würde das aus Sicht von 1 mehr Aufwand für sie bedeuten. Es wäre aus ihrer Sicht eine Dopplung zu SchILD. Es sollte aus Sicht von 1 die Möglichkeit geben eine E-Mail angeben zu können, damit sie in einem wählbaren Intervall Neuigkeiten der Anwendung erhalten könnte.
+Da das Programm ein weiteres zu lernendes Programm wäre, würde das aus Sicht von 1 mehr Aufwand für sie bedeuten. Es wäre aus ihrer Sicht eine Dopplung zu  \textit{SchILD} . Es sollte aus Sicht von 1 die Möglichkeit geben eine E-Mail angeben zu können, damit sie in einem wählbaren Intervall Neuigkeiten der Anwendung erhalten könnte.
 2 moniert, dass noch weitere Informationen fehlen, die irgendwie erfasst werden müssen: Angaben zum Ipad müssen erfasst werden wie Angaben zum Mietvertrag oder bei den Kaufoptionen.
 Laut 2 muss die E-Mail stimmen und überprüft werden, die kann auch gerne mal falsch sein.
 2 möchte, dass Schulbuchbestellungen mit in die versandte E-Mail integriert werden sowie Materiallisten.
@@ -384,7 +384,7 @@ Laut 2 muss die E-Mail stimmen und überprüft werden, die kann auch gerne mal f
 2 sagt, dass eine Geburtsurkunde vorliegen muss und die Datenschutzerklärung der Schule vom Schüler/Elternteil gelesen + akzeptiert werden. Der Impfausweis muss vorgelegt werden aber nicht im Programm erfasst werden.
 3 sagt, dass es einfacher sein muss als ihre Excel-Tabelle und dass die Eltern sich am Prozess beteiligen müssten.
 4 gibt an, dass man sich umgewöhnen muss und ein daraus resultierender Zeitaufwand entstehen würde. Sie sagt, dass ein schnelles erlernen der Anwendung praktisch und angenehm wäre und ihr diese Hürde nehmen würde.
-Für 5 gilt: nichts hindert aktuell, die Software im Alltag einzusetzen. In Kombination mit der neuen "SchILD"-Software wird der Erfassungsprozess "sehr einfach"
+Für 5 gilt: nichts hindert aktuell, die Software im Alltag einzusetzen. In Kombination mit der neuen  \textit{SchILD} -Software wird der Erfassungsprozess "sehr einfach"
 
 
 
@@ -401,7 +401,7 @@ removed: >Wie sehr erleichtert Ihnen die Anwendung ihre Arbeit?
 
 
 >Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
-1 erwartet die Filterung von Schulen so wie sie auch in SchILD implementiert ist.
+1 erwartet die Filterung von Schulen so wie sie auch in \textit{SchILD} implementiert ist.
 4 hätte gerne Reports oder ähnliches.
 
 
@@ -410,7 +410,7 @@ removed: >Wie sehr erleichtert Ihnen die Anwendung ihre Arbeit?
 
 
 >Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 
-Es sollte laut 1,2,3 eine Integration mit Schulverwaltungsprogrammen wie SchILD geben. 
+Es sollte laut 1,2,3 eine Integration mit Schulverwaltungsprogrammen wie \textit{SchILD} geben. 
 2 wünscht sich eine Verbindung zu ISERV.
 3,4 und 5 wollen einen Export nach Excel machen können.
 

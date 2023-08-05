@@ -7,7 +7,7 @@ In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?
 - Seite war schon offen und angemeldet	
 - Nur bund-ID ist möglich, für unsere Eltern wäre das zu schwer. Man müsste das simplifizieren, ein Link zum Einloggen wäre gut ohne Bund-ID
 - Leichte Sprache ist sehr wichtig, sogar auf englisch
-- Export zu Excel und Schild wäre gut.
+- Export zu Excel und \textit{SchILD} wäre gut.
 - Einstellung "Ich probier mal lieber, als mir was anzuhören"
 - Aussage: "Die (Datensätze unter Anmeldungen) sind einfach so reingekommen" (Ihr ist zu Anfang aufgefallen, dass die Daten zu Aufgabe 2&3 vorliegen.)
 
@@ -25,7 +25,7 @@ Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Sch�
 
 Wer nutzt das System hauptsächlich an Ihrer Schule?
 - Das Sekretariat im Zusammenspiel mit Verwaltung, 
-- Trennung zwischen Lehrer und Schule Trennung Erfassen und Übernehmen in Schild (?)
+- Trennung zwischen Lehrer und Schule Trennung Erfassen und Übernehmen in \textit{SchILD} (?)
 - Es gibt mehrere Standorte	
 - Die Klasseneinteilung erfolgt nach Schulbesuchsjahren, dadurch unterschiedliche Altersklassen, daher auch keine Standortunterscheidung
 
@@ -103,7 +103,7 @@ Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwa
 
 Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?		
 - Am Ende werde ich drei Bewerbungen haben.
-- Eine Rangfolge in der Übersichtsliste wäre gut (durchnummerriert) wie eine laufende Nummer, die sich nicht ändert. Wäre fürs für abheften sinnvoll und dann später in Schild übertragen
+- Eine Rangfolge in der Übersichtsliste wäre gut (durchnummerriert) wie eine laufende Nummer, die sich nicht ändert. Wäre fürs für abheften sinnvoll und dann später in \textit{SchILD} übertragen
 
 
 
@@ -466,7 +466,7 @@ Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben
 
 
 Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 		
-- Excel und Schild
+- Excel und  \textit{SchILD} 
 
 
 

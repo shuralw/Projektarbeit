@@ -155,7 +155,7 @@ Bildungsgang
 - Die Schule gibt bei dem Schulbeginn/Ende immer genau die Daten an, das machen allerdings nicht alle Schulen so, was für Nachweise wichtig sein kann, unter anderem für Kindergeld und weitere informationen, wie lange das Kind an der Schule war
     - Es wäre das beste, wenn die Gesetzgebung den Schulbeginn/Ende vorgibt und es so für alle Schulen gleichmäßig ist
     - Es wäre hilfreich, wenn der Schulbeginn/Ende direkt unter dem Schuljahr ist und dann der Beschulungsbeginn/Ende dort individuell angegeben werden kann. Nach Klasse, Datum unklar ist, wie man weiter soll (klick auf weiter, Aufnahmestatus wird rot)
-- Die Auswahloptionen beim Aufnahmestatus-Dropdown sind gut. Es wurde "Angemeldet" ausgewählt, da das Wort eine Aufnahme suggerierte. Eine Übereinstimmung der Begrifflichkeiten mit Schild wäre besser
+- Die Auswahloptionen beim Aufnahmestatus-Dropdown sind gut. Es wurde "Angemeldet" ausgewählt, da das Wort eine Aufnahme suggerierte. Eine Übereinstimmung der Begrifflichkeiten mit \textit{SchILD} wäre besser
 - Eine Person weiß zunächst nicht, wozu die Uhrzeit dient, die andere Person erklärt, dass in der Oberstufe unterschiedliche Startuhrzeiten vorliegen. Sie fanden die Idee eine Uhrzeit mitzunotieren generell gut sobald das Feld interpretiert wurde. 
 - Es sollte eine Unterscheidung oder Markierung geben, welche Felder den Eltern sichtbar gemacht werden.
 - Die Schulgliederung wird interpretiert als die Schulgliederung, welche vorher besucht wurde, es war unklar was ausgewählt werden sollte
@@ -165,7 +165,7 @@ Bildungsgang
 Persönliche Daten
 - Intuitiv, die Hausnummer in das Feld "Straße", aber nicht in "Hausnummer" zunächst eingetragen
 - Die E-Mail des Sorgeberechtigten wurde in das Feld für die Schulkindmail eingetragen
-- Der Tab "Persönliche Daten" sollte vor dem Tab "Bildungsgang" erscheinen, da das auch so in Schild ist.
+- Der Tab "Persönliche Daten" sollte vor dem Tab "Bildungsgang" erscheinen, da das auch so in \textit{SchILD} ist.
 - Die Suche nach der Postleitzahl-Ort Kombination funktionierte zunächst nicht.
 - Die Eingabe eines Staates wird als unnötig erachtet, da es in der Umgebung keine ausländischen Wohnorte gibt. Es wäre sonst ein Vorausfüllen des Feldes mit "Deutschland" gut.
 - Die Angabe eines Ortsteiles ist gut, auch dass es keine Pflichtangabe ist
@@ -241,7 +241,7 @@ Letzte Tätigkeit
 - Nach Auffassung der Sekretärin hätte die letzte Tätigkeit noch im Kontext der Bearbeitung der Schüler-Daten kommen sollen, da es sich um ergänzende Informationen zur Person handelt, nicht erst nach den Sorgeberechtigten und Notfallkontakten
 - Bei nicht gefundener Schule ist es unklar wie man weiterehen soll, es wird eine Checkbox überdeckt von der Suche
 - In der Schulsuche sollte die eigene Umgebung bevorzugt werden bezüglich der Sortierung (also erst diese einträge und dann der Rest von NRW/Deutschland)
-- Die Schulen-Suchfunktion ist sehr speziell, hier ist die Suchfunktion von Schild gut, wo auch kleinere details zum Finden der Schule genutzt werden
+- Die Schulen-Suchfunktion ist sehr speziell, hier ist die Suchfunktion von \textit{SchILD} gut, wo auch kleinere details zum Finden der Schule genutzt werden
 - Bei dem Dropdown "Letze Schule" sollte nur realistische Auswahlmöglichkeiten angezeigt werden (Bei Bewerbungen für die Sekundarstufe 2 sollten bspw. keine Grundschulen gelistet werden.)
 - Die Checkbox unter der Schulsuche wird ignoriert und zunächst nicht verwendet.
     - Sie sollte besser Sichtbar gemacht werden.
@@ -356,8 +356,8 @@ Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
 
 Wie sehr entspricht die Umsetzung in der Software der Realität? 	
 
-- Das Erfassen der Bewerbung sollte so aufgebaut sein wie die Dokumente der Schule oder vergleichbare Software (Schild), damit man beim übertragen von Daten aus einem schriftlichen Formular nicht blättern muss und beim Kopieren aus einer Software wie Schild die Daten in der gleicher Reihenfolge abgefragt werden, was zu weniger Verwirrung führen würde.
-- Ansonsten inhaltlich genau wie mit Schild => entspricht der Realität. Keine Auffäligkeiten	
+- Das Erfassen der Bewerbung sollte so aufgebaut sein wie die Dokumente der Schule oder vergleichbare Software ( \textit{SchILD} ), damit man beim übertragen von Daten aus einem schriftlichen Formular nicht blättern muss und beim Kopieren aus einer Software wie \textit{SchILD} die Daten in der gleicher Reihenfolge abgefragt werden, was zu weniger Verwirrung führen würde.
+- Ansonsten inhaltlich genau wie mit \textit{SchILD} => entspricht der Realität. Keine Auffäligkeiten	
 
 
 
@@ -383,7 +383,7 @@ Die Sekretärinnen gucken bei dem Papierformular nach, ob es irgendwo lücken gi
 
 Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?	
 - Noch ein zusätzliches Programm => Mehr Aufwand 
-- Dopplung zu SCHILD 
+- Dopplung zu \textit{SchILD} 
 - Es sollte die Möglichkeit geben eine E-Mail anzugeben, wenn neue dinge (z.B. eine Anmeldung) vorhanden sind, womit dann in einem einstellbaren Intervall Neuigkeiten empfangen werden können.	
 		
 
@@ -399,7 +399,7 @@ Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetze
 
 
 Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
-Die Filterung der Schule wie in Schild, ansonsten alles bereits zuvor erwähnte.	
+Die Filterung der Schule wie in  \textit{SchILD} , ansonsten alles bereits zuvor erwähnte.	
 
 
 
@@ -408,7 +408,7 @@ Die Filterung der Schule wie in Schild, ansonsten alles bereits zuvor erwähnte.
 
 
 Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 	
-Schild	
+ \textit{SchILD} 	
 
 
 

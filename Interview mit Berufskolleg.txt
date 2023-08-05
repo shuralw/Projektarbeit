@@ -472,7 +472,7 @@ Dokumente dazufügen, Zeugnis, Lebenslauf, masernschutz, damit die Lehrer eine E
 
 Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
 Nach unserem ersten Eindruck nichts
-Mit dem neuen schild wird die Anmeldung ja sehr einfach
+Mit dem neuen \textit{SchILD} wird die Anmeldung ja sehr einfach
 
 
 

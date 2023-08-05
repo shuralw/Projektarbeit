@@ -168,10 +168,10 @@ Die Sekretärin behauptet, dass sie den ID-Schlüssel natürlich nicht wissen ka
 
 
 Bildungsgang
-- Der Sekretärin fehlt das Wort 'Neuaufnahme' aus Schild
-- Das Wort Warteliste bedeutet in Schild etwas anderes
+- Der Sekretärin fehlt das Wort 'Neuaufnahme' aus  \textit{SchILD} 
+- Das Wort Warteliste bedeutet in \textit{SchILD} etwas anderes
 - Die angegebene Telfonnummer ist eine unsinnige - Man würde dann bei der anderen, mobilen Nummer anrufen.
-- Schild hat veraltete Daten von Schulen
+- \textit{SchILD} hat veraltete Daten von Schulen
 - Es wurde festgestellt, dass das Klassen-Dropdown nicht lädt oder keine Einträge im System vorliegen, 
 - Datum kann auch per Tastatur eingegeben werden -> Falsches Datumsformat wurde eingetippt
 - Es ist unklar, ob der Beschulungsbeginn selbst gepflegt werden muss, Frage: "Wie lange sind die Kinder dann bei uns?"
@@ -347,7 +347,7 @@ Bewerbung-Tab 'Anmeldung wurde exportiert' unklar
 - Die Nachweise dürfen wir nicht schriftlich haben
 - Warn die Geburtsorte der Eltern hinterlegt? -> Nein
 - Speichern hat zu Fehler geführt -> Indikator an den Reitern wären gewünscht
-- Schild wird's mir nachher sagen, wenn was falsch war
+- \textit{SchILD} wird's mir nachher sagen, wenn was falsch war
 - Die meisten 5-Klässler, die sich bei uns bewerben, haben noch keine Email
 - Nachweis für alleiniges Sorgerecht verpflichtend
 
@@ -378,7 +378,7 @@ Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließe
 
 Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?	
 - Ich hab 2 mal gesagt, dass das gut ist
-- Es muss jetzt in Schild übertragbar sein
+- Es muss jetzt in \textit{SchILD} übertragbar sein
 - Iserv auch wichtig, sonst keine weiteren Schnittstellen
 - Bei den Notfallkontakten hätte ich weitere Informationen benötigt.
 - Die Standardinformationen, die ein Schüler einreichen muss, sollte in den Notizen erfassen vereinfacht werden (darf das Kind fotografiert werden, Sport, hat Schwimmabzeichen, etc)
@@ -423,7 +423,7 @@ Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
 - Selbst Praktikanten könnten das eingeben, es müsste dann aber geprüft werden
 
 Wie sehr entspricht die Umsetzung in der Software der Realität? 
-- Im Prinzip entspricht das 1 zu 1 der Eingabe in Schild
+- Im Prinzip entspricht das 1 zu 1 der Eingabe in  \textit{SchILD} 
 - Die Notizen der neuen 5er sollten in einer Liste zusammenführbar sein
 - Was mir sehr gut gefällt, ist dass die Kinder informiert werden
 - Das sind 4 Arbeitschritte in einem, was super ist
@@ -436,10 +436,10 @@ Wie sehr entspricht die Umsetzung in der Software der Realität?
 
 
 Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
-- Aussage: "Ich geb das direkt in Schild ein, ich gucke ob die Daten passen, sonst nichts"
+- Aussage: "Ich geb das direkt in \textit{SchILD} ein, ich gucke ob die Daten passen, sonst nichts"
 - Die Validierung der PLZ und Orte, Kilometerangabe automatisch ermitteln, Ortsteile aus PLZ-Ort ermitteln
  - Aktuell mache ich das mit Google Maps
-- In Schild eingeben, bei Fragen anrufen, Stammsatz ausgedruckt, in Akte ablegen. Die Lehrer präferieren die Daten in Papier, weswegen wir das ausdrucken
+- In \textit{SchILD} eingeben, bei Fragen anrufen, Stammsatz ausgedruckt, in Akte ablegen. Die Lehrer präferieren die Daten in Papier, weswegen wir das ausdrucken
 - Es wären weitere Daten notwendig einzugeben bei zwischenjährigen Wechsel: Welche Schulform davor besucht wurde und wie viele Jahre
 
 
@@ -461,7 +461,7 @@ Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetze
 
 
 Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
-- Schild  bietet mehr Auswahl bei den Notfallkontakten			
+- \textit{SchILD}  bietet mehr Auswahl bei den Notfallkontakten			
 
 
 
@@ -469,7 +469,7 @@ Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben
 
 
 Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen? 	
-- Iserv und Schild			
+- Iserv und  \textit{SchILD} 			
 - ISERV wird verwendet, das ist eine Software über die Schulen mit anderen Schulen, Kindern etc kommunizieren (auch Termine)
 
 

@@ -276,7 +276,7 @@ Sorgeberechtigte
 
 Notfallkontakte
 - Unpraktische Eingabe, da hier die vorherigen Daten erneut angegeben werden müssen 
- - Es wird ein Vergleich zu Schild gezogen, wo diese Daten automatisch übernommen werden
+ - Es wird ein Vergleich zu \textit{SchILD} gezogen, wo diese Daten automatisch übernommen werden
 - Kurze Irritierung, da nur ein Notfallkontakt angegeben werden konnte, jedoch schnell den Button für weitere gefunden
 	
 
@@ -361,7 +361,7 @@ Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließe
 
 Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?	
 - Positiv: Design ist intuitiv
-- Schritt zurück ist immer möglich bei falscher Eingabe (dies geht bei Schild nur mit Tastenkomib)
+- Schritt zurück ist immer möglich bei falscher Eingabe (dies geht bei \textit{SchILD} nur mit Tastenkomib)
  - Man kann jederzeit zurück gehen und Daten korrigieren
 - Negativ: Umgewöhnung	
 

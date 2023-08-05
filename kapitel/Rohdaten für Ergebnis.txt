@@ -3,7 +3,10 @@ Intro:
 
 Im Folgenden werden Stück für Stück zunächst die Ergebnisse des Interviews und der beobachtung gelistet. Einige Fragen aus dem Fragenkatalog wurden vor den drei Aufgaben gestellt. Während der Bearbeitung der Aufgaben wurde bei Verwirrungen oder Irritationen klärend gefragt, was die Problematiken konkret sind. Nach der Bearbeitung der Aufgaben wurden weitere Fragen aus dem Fragenkatalog gesteellt.
 
-
+So wird hier vorgegangen: 
+Zuerst werden die Fragen, welche vor der Durchführung der Aufgaben gestellt wurden zusammengefasst.
+Dann wird berichtet, was zu Beginn der Durchführung aufgefallen ist und ein paar Antworten zusammengefasst, die in diesem Zuge zu Beginn der Durchführung noch gestellt wurden.
+Danach wird zusammengefasst, welche Auffälligkeiten sich während der Bearbeitung der Aufgaben ergeben haben. Dies wird für zunächst für jeden Tab der im Rahmen der Aufgabe 1 bearbeitet wurde gemacht. Danach
 
 
 
@@ -55,7 +58,7 @@ Bei 1,2,3,4,5 nutzen die Software das Sekretariat. Ergänzend bei 3 und 5 noch d
 
 
 
->(DAkkS) Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?
+>Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?
 1 sagt: Keine besonderen fachlichen oder technischen kenntnisse notwendi. Man muss lesen können, Wissen über das Schulsystem ist nicht notwendig.
 2 sagt: Man muss lesen und schreiben  nicht mal internetaffin sein. Man muss sehr gewillt sein es auzuprobieren	
 3 sagt: technisch n Rechner und internet. wir als Sekretärinnen würden damit klar kommen. Wenn man das einmal bedient hat weiß man wie das grundlegend funktioniert.   Kenntnisse zum Schulgesetz nicht unbedingt notwendig. Datenschutzsensibilität ist wichtig. 
@@ -80,14 +83,14 @@ Bei 1,2,3,4,5 nutzen die Software das Sekretariat. Ergänzend bei 3 und 5 noch d
 ============ Zu Beginn der Durchführung: ====================
 
 
-Hier ist bei mehreren Teilnehmern aufgefallen, dass die Navigation zur Aufgabe sich als schwierig erwies. 1 hatte beispielsweise auf eine leere Seite navigiert. Eine Unterscheidung des Sinn und Zwecks der Menüpunkte "Schüler:innen" und "Anmeldungen" konnte nicht von ihr genannt werden. Sie hatte zwar als Aufgabe eine Anmeldung zu erfassen, konnte aber mit dieser Informationslage nicht korrekt navigieren.
+Zu Beginn der Durchführung bei mehreren Teilnehmern aufgefallen, dass die Navigation zur Aufgabe sich als schwierig erwies. 1 hatte beispielsweise auf eine leere Seite navigiert. Eine Unterscheidung des Sinn und Zwecks der Menüpunkte "Schüler:innen" und "Anmeldungen" konnte nicht von ihr genannt werden. Sie hatte zwar als Aufgabe eine Anmeldung zu erfassen, konnte aber mit dieser Informationslage nicht korrekt navigieren.
 Sowohl 1 als auch 3 mussten instruiert werden, wie sie die Aufgabe beginnen können. 1 und 3 wollten den falschen Prozess beginnen.
 5 hatte durch mehrere Menüpunkte navigiert, allerdings schlussendlich auf die korrekte Seite navigiert.
 
 
 
 
->(DAkkS) Welche Arbeitsschritte sind durchzuführen?
+>Welche Arbeitsschritte sind durchzuführen?
 1 sagt: Schüler im System suchen, die Daten des Schülers erfassen. Anschließend muss dem Schüler noch eine Information übermittelt werden.
 2 sagt, dass es wichtig ist, dass der Schüler einmal vor Ort erscheint.
 3 sagt: Es muss geklärt werden, ob Rundgang durchgeführt wurde. Die daten müssen aufgenommen werden und das Gutachten für unsere Akten angefordert werden. Es muss ein kurzes Kennenlernen stattfinden Es muss entschieden werden in welche Klasse das Kind kommt. 
@@ -100,7 +103,7 @@ Sowohl 1 als auch 3 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 
->(DAkkS) Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?
+>Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?
 1 sagt: Kopier- und Einfügefunktionalitäten um Daten aus anderen Programmen (wie E-Mail oder PDF-Reader) übertragen zu können.
 3 gibt an, dass Google Maps zur Adressrecherche verwendet wird.
 5 sagt Laptops und eine Kurzanleitung für den Einstig.
@@ -112,7 +115,7 @@ Sowohl 1 als auch 3 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 
->(DAkkS) Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
+>Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
 4 sagt, dass der Schüler am Ende angemeldet ist und wenn nötig die Daten aus der Anwendung herangezogen werden können falls diese benötigt werden.
 5 sagt dass alle notwendigen Daten für die Bewerbung erfasst sein sollten, insbesondere die vorige Schule sollte erfasst werden, es wäre sehr aufwändig die herauszufinden.
 
@@ -123,7 +126,7 @@ Sowohl 1 als auch 3 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 
->(DAkkS) Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)
+>Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)
 1 sagt dass Wechsel innerhalb  des Jahres und Stufenwiederholungen unterstützt werden müssen. Es gibt bei Flüchtlingskinder wo nicht alle Daten vorhanden sind. Langfristige beurlaubungen oder ähnliches wo unklar ist, in welche Klasse das Kind gehen soll. Ein Fallbeispiel: Kind ist in Therapie, nimmt nicht an schule teil, Eltern ziehen um und müssen es aufgrund der Schulpflicht trotzdem an der Schule anmelden. Diese Kinder werden in der Regel in der Klinik geschult (Abfrage der Unterichtsinhalte an Schule), sie lernen aber mit Personal der Klinik
 2 sagt dass Herkunftssprachlicher unterricht im Voraus beim Schulamt angemeldet werden muss. Hierfür gibt es jedes Jahr ein neues Formular welches unterschrieben werden muss.
 3 sagt dass es keine Schulstufen bei der Förderschule gibt.
@@ -144,7 +147,7 @@ Sowohl 1 als auch 3 mussten instruiert werden, wie sie die Aufgabe beginnen kön
 
 
 >Für jeden Tab / Seite: Welche Seiteninhalte sind unverständlich?
-<Tab "Schüler"
+<Probleme beim Tab "Schüler"
 Für alle Studienteilnehmer war unklar, wofür das ID-Schlüssel Feld dient. 
 Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
@@ -156,7 +159,7 @@ Der Sinn und Zweck der Schüler-Suche war nicht nachvollziehbar für 1.
 
 
 
-<Tab "Bildungsgang" 
+<Probleme beim Tab "Bildungsgang" 
 Für 1 ist das Dropdown Feld Klasse unklar, da keine Daten vorhanden sind, es steht noch nicht fest welche Klassen es geben wird.
 1 hatte den Status "Warteliste" ausgewählt, um die Bewerbung als "In Bearbeitung" zu markieren.
 1 wusste nicht, warum in der Anwendung hinterlegt werden soll, dass eine Aufnahmeberatung stattfand.
@@ -171,7 +174,7 @@ Der Anmeldestatus war für 5 nicht gut interpretierbar und welche Mechanismen da
 Bei 5 entscheiden die Lehrer über eine Aufnahme. 
 
 
-<Tab "Persönliche Daten"
+<Probleme beim Tab "Persönliche Daten"
 1 hatte intuitiv die Hausnummer mit der Straße in das Feld \textit{Straße} anstatt in das Feld \textit{Hausnummer} eingetragen.
 1 hat die E-Mail des Sorgeberechtigten in das E-Mail Feld des Schülers eingetragen.
 1 monierte, dass der Tab \textit{Persönliche Daten} vor dem \textit{Bildungsgang} Tab kommen sollte, so wie es in "SchILD" auch ist. 1 hätte erwartet, dass der Staat mit Deutschland vorausgefüllt wird. Sie findet es gut, dass der Ortsteil abgefragt wird, aber auch dass er kein Pflichtfeld ist. 
@@ -183,7 +186,7 @@ Unbekannte Straßen werden von 3 mit Google Maps auf Existenz validiert.
 5 fände eine Visualisierung hilfreich, die anzeigt, ob der Schüler volljährig ist.
 Bei 1 funktionierte die Suche nach der Postleitzahl-Ort Kombination zunächst nicht. Sie hatte die Stadt des Schülers eingetippt.
 
-<Tab "Sorgeberechtigte"
+<Probleme beim Tab "Sorgeberechtigte"
 1 hält es für wichtig, dasses einen Nachweis gibt, dass eine Person alleiniges Sorgerecht oder das beide Unterschriften vorhanden sind, damit sich nicht eine Person über die andere hinweg setzt.
 1 hätte eine Funktionalität zur Datenübernahme der Adressdaten aus den persönlichen Daten des Schülers erwartet.
 Für 1, 5 war unklar, wozu das Postfach dient.
@@ -193,7 +196,7 @@ Der Sorgerechtigten Prozess wurde bei 1  ausversehen abgebrochen durch klick neb
 Der Erstellen Button wurde auf unterschiedliche Art und Weise interprertiert. 3 hatte den Button im Sinne von "Speichern" interpretiert, 4 hatte ihn interpretiert als dass dadurch ein weiterer Sorgeberechtigter angelegt werden kann. Dies lag für 4 am Plus-Symbol.
 5 findet die Erfassungsformular für die Sorgeberechtigten unattraktiv und unübersichtlich im Gegensatz zu den anderen Formularen.
 
-<Tab "Notfallkontakte"
+<Probleme beim Tab "Notfallkontakte"
 2 fände es gut, wenn man die Art der Telefonnummer (Im Sinne von Dienstlich, privat, mobil) für die Notfallkontakte hinterlegen könnte und mehrere Telefonnummern zu einer Person zuordnen könnte, da man vormittags in der Regel eher bei einer dienstlichen Nummer anrufen würde als bei der privaten Nummer. 
 2 konnte zwischenzeitlich nicht feststellen, wie man den Datensatz speichern kann, da das Autocomplete-Dropdown Feld den Speichern-Button versteckt hatte. Dieses Feld wurde nicht wahrgenommen als Feld, dass man benutzerdefiniert ausfüllen kann, sondern als Feld, wo man zwingend einen der Werte auswählen muss.
 3 wollte mehrere Nummern in ein Feld eintippen, was ihr nicht gelang. Ähnlich wie 2 forderte 3, dass Erreichbarkeitszeiträume eintragbar sein sollten.
@@ -201,14 +204,14 @@ Der Erstellen Button wurde auf unterschiedliche Art und Weise interprertiert. 3 
 3 hätte die Notfallkontakte zu einem früheren Zeitpunkt erwartet
 4 findet die Eingabe der Notfallkontakte unpraktisch, da sie dieselben Daten wie bei den Sorgeberechtigen eingibt. Bei SchILD werden die Daten automatisch übernommen. 
 
-<Tab "Migrationshintergrund"
+<Probleme beim Tab "Migrationshintergrund"
 1 ist zufrieden mit dem Migrationshintergrund und sagt alles wichtige sei vorhanden. 
 1 war allerdings der Ansicht, dass die Maske angezeigt werden sollte, auch wenn der Radiobutton "Migrationshintergrund Liegt nicht vor" ausgewählt ist.
 5 hinterfragt die Auslegung, ab wann ein Migrationshintergrund vorliegt. Hier ist sie sich unsicher und spekuliert.
 
 
 
-<Tab "Letzte Tätigkeit"
+<Probleme beim Tab "Letzte Tätigkeit"
 1 kritisiert die Reihenfolge. Nach Auffassung von ihr hätte die letzte Tätigkeit noch im Kontext der Bearbeitung der Schüler-Daten kommen sollen, da es sich um ergänzende Informationen zur Person handelt, nicht erst nach den Sorgeberechtigten und Notfallkontakten.
 Bei nicht gefundener Schule ist es unklar für 1 wie man weitergehen soll, es wird eine Checkbox überdeckt von der Suche.
 Laut 1 sollte in der Schulsuche die eigene Umgebung bevorzugt werden bezüglich der Sortierung (also erst diese einträge und dann der Rest von NRW/Deutschland). 1 lobt an dieser Stelle die Umsetzung der Lösung vom Programm "SchILD", hier werden kleinere Details für die Filterung herangezogen. 
@@ -222,19 +225,19 @@ Die Angestrebte Schulstufe wird von 3 verstanden als letzte Schulstufe (welche b
 3 findet nicht den angegebenen Kindergarten wenn sie nach dem Ort sucht. 
 5 hatte eine Grundschulempfehlung ausgewählt, konnte dieser aber nicht wieder aus dem Feld Entfernen.
 
-<Tab "Qualifikationen"
+<Probleme beim Tab "Qualifikationen"
 5 monierte, dass ein paar Schlulabschlüsse wie beispielsweise Hauptschulabschluss fehlen.
 
-<Tab "Termine"
+<Probleme beim Tab "Termine"
 5 konnte nicht erkennen, wozu die Termine Seite dient. Sie hat auch gesagt, dass sie ohnehin keine Zeit haben würde, 500 Leute zu Terminen einzuladen. Sie sagte allerdings auch, dass einige Bildungsgangleitungen Gespräche vorher mit dem Schüler führen wollen.
 
-<Tab "Bemerkungen"
+<Probleme beim Tab "Bemerkungen"
 2 hatte sich zunächst die Frage gestellt, wer die internen Notizen sehen kann. Die Felder "Interne Notiz" und "Bemerkung für Schüler*in" wurden von ihr mit der Aussage "Anmerkung ist unsere Meinung, Bemerkungen sind Fakten" definiert. Auch 4 war sich unsicher, welche Informationen dem Schüler zugänglich sind. Im Gegensatz zu 2 interpretierte 4 dass die "Interne Notiz" nur die Schule sieht und dass das "Bemerkung"-Feld auch das Kind sehen kann, aber unsicher, da der Infotext oben im Formular laut ihr etwas anderes besagt.
 Sensible Informationen wie 3 sie nannte wie bspw. Behinderungen dürfen gegebenenfalls nicht erfasst werden. Hier wäre es zwecks gesetzlicher Anforderungen erforderlich, dass der Anwender sich dem bewusst gemacht wird.
 5 war überrascht, dass dieser Tab auftauchte, da sie zuvor nicht erkannt hatte, wie weit fortgeschritten sie im Prozess war. Dieser Tab war zuvor aufgrund des overflow-Verhalten des Browsers verdeckt gewesen.
 1 gab an, dass der Tab früher hätte kommen sollen.
 
-<Tab "Zusammenfassung"
+<Probleme beim Tab "Zusammenfassung"
 Als 1 auf Speichern klickte trat eine Fehlermeldung auf (Die Fehlermeldung ist sehr unklar) => Hier sollte laut ihr ein Hinweis kommen, wo genau darauf hingewiesen wird, wo der fehler liegt und wie dieser behoben werden kann. Laut ihr sollte am besten der Fokus auf das Feld gesetzt werden, welches fehlerhaft ist.
 Bei 2 hat der Inhalt einige Sekunden zum laden gebraucht. Aus ihrer Sicht nimmt sie an, dass die angeblich versendete E-Mail einen kritischen Wortlaut haben wird, da in der E-Mail die Rede von "Angemeldet" aus ihrer Sicht ist und dies eine die Erwartungshaltung beim Schüler schürt, dass alles in trockenen Tüchern für seine Schulbewerbung ist.
 Die Sekretärin 2 benötigt noch eine Unterschrift von den Eltern für die Anmeldung. 2 ist sich unsicher, ob das Schuljahr korrekt erfasst wurde.

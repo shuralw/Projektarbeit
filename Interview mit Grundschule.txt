@@ -168,7 +168,7 @@ Während der Durchführung:
 
 
 Bildungsgang
-- Die Meldung zur vorzeitigen Schulaufnahme ist irritiert
+- Die Meldung zur \textit{vorzeitigen Schulaufnahme} ist irritiert
 - Bildungsgangbezeichnung verwirrend/unbekannt
 - Beschulungsende wird leergelassen, weil noch nicht bekannt
  	
@@ -398,7 +398,7 @@ Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?
 
 
 Wie verständlich waren die Rückmeldungen der Anwendung?	
-- Verständlich außer Fehlermeldung zur vorzeitigen Einschulung
+- Verständlich außer Fehlermeldung zur \textit{vorzeitigen Einschulung}
 
 
 

@@ -168,7 +168,7 @@ Für 1 ist das Dropdown Feld Klasse unklar, da keine Daten vorhanden sind, es st
 2 erwartet, dass die Daten bezüglich der Schulen aktuell sein sollten. Bei \textit{SchILD} sind sie es nicht.
 2 hatte beim Schulbeginn ein nicht unterstütztes Datumsformat verwendet. Sie konnte auch nicht erkennen, ob das Feld ausgefüllt werden muss. 2 hatte nicht verstanden, wie man den Beschulungsbeginn eintragen soll.
 3 hält die Sortierung der Schuljahre für nicht sinnvoll. 3 stellt fest, dass man mitunter keine medizinischen Informationen erfassen darf.
-4 wurde irritiert durch die Meldung, dass ein Antrag auf vorzeitige Einschulung stattfindet. Sie fand die Bildungsgangbezeichnungen verwirrend. Das Beschulungsende ist für sie nicht bekannt, also füllt sie es nicht aus.
+4 wurde irritiert durch die Meldung, dass ein \textit{Antrag auf vorzeitige Einschulung} stattfindet. Sie fand die Bildungsgangbezeichnungen verwirrend. Das Beschulungsende ist für sie nicht bekannt, also füllt sie es nicht aus.
 5 diskutiert mit Kollegin, wie das Schuljahr Feld zu interpretieren ist. Sie hatte eine andere Ansicht als die Kollegin, dass das Schuljahr das aktuelle ist und nicht das Schuljahr, welches der Schüler vorher besucht hat.
 Der Anmeldestatus war für 5 nicht gut interpretierbar und welche Mechanismen dahinter stecken.
 Bei 5 entscheiden die Lehrer über eine Aufnahme. 
@@ -192,7 +192,7 @@ Bei 1 funktionierte die Suche nach der Postleitzahl-Ort Kombination zunächst ni
 Für 1, 5 war unklar, wozu das Postfach dient.
 Der Sorgerechtigten Prozess wurde bei 1  ausversehen abgebrochen durch klick neben das Popup. Dies führt zu Unverständnis und macht die Nutzerin sauer. Die Nutzerin forderte im Allgemeinen, dass man Daten nicht verlieren können sollte, sei es durch danebenklick oder wenn man sich ausloggt.
 2 hatte intuitiv die Hausnummer mit der Straße in das Feld \textit{Straße} anstatt in das Feld \textit{Hausnummer} eingetragen.
-1,2,3,4, also alle bis auf 5 hatten versucht die Straße in das Feld "Adressart" einzugeben. 3 hatte auf Nachfrage als Begründung ge \textit{SchILD} ert, dass man intuitiv die folgende Reihenfolge von Eingaben macht: Staat => Postleitzahl/Ort => Straße und sie das hier in der Form erwartet hätte.
+1,2,3,4, also alle bis auf 5 hatten versucht die Straße in das Feld "Adressart" einzugeben. 3 hatte auf Nachfrage als Begründung geschildert, dass man intuitiv die folgende Reihenfolge von Eingaben macht: Staat => Postleitzahl/Ort => Straße und sie das hier in der Form erwartet hätte.
 Der Erstellen Button wurde auf unterschiedliche Art und Weise interprertiert. 3 hatte den Button im Sinne von "Speichern" interpretiert, 4 hatte ihn interpretiert als dass dadurch ein weiterer Sorgeberechtigter angelegt werden kann. Dies lag für 4 am Plus-Symbol.
 5 findet die Erfassungsformular für die Sorgeberechtigten unattraktiv und unübersichtlich im Gegensatz zu den anderen Formularen.
 
@@ -242,7 +242,7 @@ Als 1 auf Speichern klickte trat eine Fehlermeldung auf (Die Fehlermeldung ist s
 Bei 2 hat der Inhalt einige Sekunden zum laden gebraucht. Aus ihrer Sicht nimmt sie an, dass die angeblich versendete E-Mail einen kritischen Wortlaut haben wird, da in der E-Mail die Rede von "Angemeldet" aus ihrer Sicht ist und dies eine die Erwartungshaltung beim Schüler schürt, dass alles in trockenen Tüchern für seine Schulbewerbung ist.
 Die Sekretärin 2 benötigt noch eine Unterschrift von den Eltern für die Anmeldung. 2 ist sich unsicher, ob das Schuljahr korrekt erfasst wurde.
 3 interpretiert die Meldung der Zusammenfassungsseite als "Die Mutter wurde kontaktiert".
-4 nimmt die angezeigte Information, dass das Kind mit der Anmeldung eine "vorzeitige Einschulung" einreicht, als fehlerhaft wahr. FÜr sie ist auch unklar, ob sie nun laut ihr eine "Anmeldung" oder nur eine "Bewerbung" eingereicht hat. 
+4 nimmt die angezeigte Information, dass das Kind mit der Anmeldung eine textit{vorzeitige Einschulung} einreicht, als fehlerhaft wahr. FÜr sie ist auch unklar, ob sie nun laut ihr eine "Anmeldung" oder nur eine "Bewerbung" eingereicht hat. 
 4 gibt an, dass Daten noch fehlen wie Angaben über einen bestehenden Masernschutz oder eine Betreuung für bspw. die offene Ganztagsschule, was wichtig wäre.
 5 kritisiert den Informationsgehalt der Seite, für sie sind zu viele Informationen im Panel "Bildungsgang" vorhanden. Laut ihr kann keiner mit dem Bildungsgang-Kürzel etwas anfangen.
 
@@ -324,7 +324,7 @@ Beispiel: Datumsangaben widersprechen sich
 Laut 1 wäre es hilfreich, wenn die Anwendung melden würde, ob ein Datensatz vollständig und korrekt ausgefüllt ist.
 1 fand es "ausbaufähig", es sollte mehr Feedback geben, mit konkreten Anweisungen.
 3 hat der Hinweis gefehlt, auf welchem Reiter ein Fehler vorliegt.
-4 fand die Rückmeldungen der Anwendungen verständlich bis auf den Hinweis zur "vorzeitigen Einschulung".
+4 fand die Rückmeldungen der Anwendungen verständlich bis auf den Hinweis zur "\textit{vorzeitigen Einschulung}".
 5 fände es gut, wenn es kleine Erklärungen neben den Feldern geben würde.
 
 

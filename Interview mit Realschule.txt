@@ -325,7 +325,7 @@ Ansonsten könnten wir das hier eingeben
 Bemerkungen 
 - Frage: "Wer kann die internen Notizen sehen?"
 - Das ist das, was ich bisher immer über die Excel Liste gemacht habe' bemerkung für Schulkind, 
-- Die Felder "Interne Notiz" und "Bemerkung für Schüler*in" wurden mit der Aussage "Anmerkung ist unsere Meinung, Bemerkung ist Fakt".  kommentiert.									
+- Die Felder "Interne Notiz" und "Bemerkung für Schüler*in" wurden mit der Aussage "Interne Notizen sind unsere Meinung, Bemerkung ist Fakt".  kommentiert.									
 
 Aufnahmeberatung										
 - Die Termine müssen nicht ausgefüllt werden, da es ja schon eine Aufnahmeberatung gab.

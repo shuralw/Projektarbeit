@@ -2,8 +2,8 @@
 \contentsline {section}{\numberline {1}Einleitung}{1}{}%
 \contentsline {section}{\numberline {2}Theoretischer Hintergrund}{3}{}%
 \contentsline {subsection}{\numberline {2.1}Definition von Effektivität im Rahmen dieser Ausarbeitung}{3}{}%
-\contentsline {subsection}{\numberline {2.2}Definition von Zufriedenstellung im Rahmen dieser Ausarbeitung}{4}{}%
-\contentsline {subsection}{\numberline {2.3}Definition von Problemstellen im Rahmen dieser Ausarbeitung}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Definition von Zufriedenstellung im Rahmen dieser Ausarbeitung}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Definition von Problemstellen im Rahmen dieser Ausarbeitung}{3}{}%
 \contentsline {subsection}{\numberline {2.4}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{4}{}%
 \contentsline {subsection}{\numberline {2.5}Typische Problemstellen in Webanwendungen}{4}{}%
 \contentsline {section}{\numberline {3}Material und Methode}{5}{}%
@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{10}{}%
 \contentsline {section}{\numberline {4}Ergebnisse}{11}{}%
 \contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{11}{}%
-\contentsline {subsection}{\numberline {4.2}Zu Beginn der Durchführung}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Zu Beginn der Durchführung}{13}{}%
 \contentsline {subsection}{\numberline {4.3}Während der Durchführung}{15}{}%
 \contentsline {subsection}{\numberline {4.4}Nach der Durchführung:}{19}{}%
 \contentsline {section}{\numberline {5}Diskussion}{24}{}%

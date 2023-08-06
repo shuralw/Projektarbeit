@@ -1,6 +1,3 @@
-\pagebreak
-\section{Ergebnisse}
-
 In diesem Kapitel werden die Ergebnisse des Fragebogens und der Beobachtungen bei den Studienteilnehmern beschrieben.
 
 Zunächst werden die Antworten auf die Fragen des Fragebogens und den Beobachtungen, welche vor der Durchführung der drei Aufgaben festgestellt wurden, behandelt. 
@@ -15,36 +12,35 @@ Referenzen zu den Aussagen der Sekretärinnen des Gymnasiums (1), der Realschule
 
 Die Geschwindigkeit reichte von hinreichend schnell, definiert als „Jede Seite und jeder Inhalt lädt innerhalb von unter einer Sekunde vollständig“, bis zu langsam, gekennzeichnet durch „Der initiale Seitenaufbau dauert länger als 20 Sekunden“. Trotz der schnelleren konsekutiven Seitenaufrufe, bedingt durch die Architektur der Software (Single Page Application – schnelles Rendering der Folgeseiten in weniger als einer Sekunde), wurden gelegentlich minimale Ladezeiten (weniger als drei Sekunden) bei Dropdown-Feldern und Listen festgestellt, wo zusätzliche Daten nachgeladen werden mussten.
 
-\subsection{Vor der Durchführung}
-\textbf{In welchem Umfang besitzen Sie Vorerfahrungen mit\textit{Schüler Online 1.0}?}\\
-Im Hinblick auf die ersten Vorerfahrungen mit der Anwendung \textit{Schüler Online} offenbarten sich signifikante Unterschiede zwischen den befragten Sekretärinnen unterschiedlicher Schultypen.
+Vor der Durchführung
+In welchem Umfang besitzen Sie Vorerfahrungen mitSchüler Online 1.0
+Im Hinblick auf die ersten Vorerfahrungen mit der Anwendung Schüler Online offenbarten sich signifikante Unterschiede zwischen den befragten Sekretärinnen unterschiedlicher Schultypen.
 
 Die Sekretärin des Gymnasiums (1) konnte aufgrund regelmäßiger Datenpflegeaktivitäten, die halbjährlich im Zuge von Schulwechseln zu den örtlichen Berufskollegs stattfanden, bereits praktische Erfahrung mit der Anwendung vorweisen. Zusätzlich berichtete sie von indirekten Erfahrungen, die sie durch einen kollegialen Austausch erwarb, in dessen Rahmen ein Kollege ein Praktikum in einem Berufskolleg absolviert hatte.
 
-Im Gegensatz dazu gaben die Sekretärinnen der Realschule (2), der Förderschule (3) und der Grundschule (4) an, keinerlei Vorerfahrungen mit\textit{Schüler Online 1.0} zu haben.
+Im Gegensatz dazu gaben die Sekretärinnen der Realschule (2), der Förderschule (3) und der Grundschule (4) an, keinerlei Vorerfahrungen mitSchüler Online 1.0 zu haben.
 
 
-\textbf{In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?}\\
+In welchem Umfang besitzen Sie Vorerfahrungen mit der neuen Software?
 Bezüglich der Vorerfahrungen mit der neuen Software berichteten die Sekretärinnen unterschiedlich. Die Sekretärin des Gymnasiums (1), der Realschule (2), der Grundschule (4) sowie die des Berufskollegs (5) gaben an, keinerlei vorherige Erfahrung mit dem System zu haben.
 
 Anders äußerte sich die Sekretärin der Förderschule (3). Sie hatte bereits einen ersten Blick auf das System geworfen, die Elternseite eingeschlossen. Sie gab an, dass sie sich bereits auf der Seite angemeldet und eingeloggt hatte.
 
-\textbf{Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?}\\
+Welche Probleme können bei herkömmlichen, nicht-digitalen Bewerbungen von Schülern auftreten?
 Die Sekretärin des Gymnasiums (1) stellte fest, dass sich Eltern beim Einschulungsjahr der Kinder oft verrechnen und dass Schüler gelegentlich versehentlich falsche Daten eingeben, ohne dabei jedoch böswillige Absichten zu haben.
 
-Demgegenüber äußerte die Sekretärin der Realschule (2) Bedenken hinsichtlich verschiedener Problembereiche: Falsch ausgefüllte oder fehlende Angaben sowie inkorrekte Daten wurden als häufige Fehlerquellen identifiziert. Darüber hinaus wies sie darauf hin, dass bestimmte Fachbegriffe wie \textit{Konfession} oder \textit{Schulformempfehlung} für Schüler möglicherweise nicht verständlich seien. Sie stellte fest, dass einige Schüler absichtlich falsche Angaben machen würden. Dies steht im Gegensatz zur Aussage der Gymnasiums-Sekretärin, die lediglich versehentliche Fehler thematisiert hatte. Die Sekretärin der Realschule verwies auch auf die Komplexität der Themen Sorgeberechtigung und Datenschutz.
+Demgegenüber äußerte die Sekretärin der Realschule (2) Bedenken hinsichtlich verschiedener Problembereiche: Falsch ausgefüllte oder fehlende Angaben sowie inkorrekte Daten wurden als häufige Fehlerquellen identifiziert. Darüber hinaus wies sie darauf hin, dass bestimmte Fachbegriffe wie Konfession oder Schulformempfehlung für Schüler möglicherweise nicht verständlich seien. Sie stellte fest, dass einige Schüler absichtlich falsche Angaben machen würden. Dies steht im Gegensatz zur Aussage der Gymnasiums-Sekretärin, die lediglich versehentliche Fehler thematisiert hatte. Die Sekretärin der Realschule verwies auch auf die Komplexität der Themen Sorgeberechtigung und Datenschutz.
 
 Alle Sekretärinnen unterstrichen die Problematik der Lesbarkeit, da die Formulare in der Regel handschriftlich ausgefüllt werden.
 
 Die Sekretärinnen der Grundschule (4) und des Berufskollegs (5) gaben an, dass unvollständige Einträge und fehlende Unterschriften ebenfalls zu den häufigsten Schwierigkeiten bei der Dateneingabe zählten.
 
 
-\textbf{Wer nutzt das System hauptsächlich an Ihrer Schule?}\\
+Wer nutzt das System hauptsächlich an Ihrer Schule?
 Die Sekretariate aller fünf Schulen (1, 2, 3, 4, 5) würden das System nutzen. Darüber hinaus verwendete bei den Sekretärinnen der Förderschule (3) und des Berufskollegs (5) auch die Verwaltung die Software. Zusätzlich zu Sekretariat und Verwaltung wurden bei der Sekretärin des Berufskollegs (5) die Lehrer einbezogen, die über Aufnahmeentscheidungen bestimmten. 
 
-% todo: \textbf{Welche (Teil-)Faktoren bestimmen das Abschließen einer Bewerbung, sodass sie diese nicht mehr bearbeiten müssen?}\\
 
-\textbf{Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe \glqq Bewerbung eines Schülers\grqq{} durchführen.}\\
+Beschreiben Sie die Ausgangssituation die vorliegt, bevor Sie die Aufgabe Bewerbung eines Schülers durchführen.
 Die Sekretärin des Gymnasiums (1) erklärte, dass ein Anmeldeformular vorliegen müsse. Alle Datenfelder auf dem Papierformular sollten ausgefüllt sein und wichtige Unterlagen eingereicht werden. Bei Unleserlichkeit würde telefonisch nachgefragt werden.
 
 Die Sekretärin der Realschule (2) schilderte, dass die Entscheidung über die Aufnahme eines Kindes auf der Schulempfehlung und vorausgehenden Gesprächen mit der Schulleitung basiere. Im Falle von Sprachbarrieren der Eltern würde das Formular gemeinsam ausgefüllt. Mehrfachanmeldungen müssen laut ihr vermieden werden und würden in der Regel bei Kennenlernterminen auffallen. Sie erklärte, dass die Schulen der Region eine spezielle Methode anwendeten, um dies sicherzustellen (mittels farbiger Formulare).
@@ -52,9 +48,8 @@ Die Sekretärin der Realschule (2) schilderte, dass die Entscheidung über die A
 Die Sekretärin der Förderschule (3) gab an, dass im Vorfeld mit den Eltern telefoniert würde. Das Kind müsse im Schuleinzugsgebiet leben. Eine Information über die Diagnose Autismus könnte laut ihr oft schon als Entscheidungsgrundlage für die Eignung des Kindes dienen, allerdings könnten in einigen Fällen auch Gutachten erforderlich sein.
 
 Die Sekretärin der Grundschule (4) berichtete, dass die Eltern ein mehrseitiges Anmeldeformular ausfüllen würden, welches sie dann digitalisiere. Gelegentlich würden die Formulare auch per E-Mail eingereicht.
-% Die Sekretärin des Berufskollegs (5) beschrieb den Prozess als umfangreich, beginnend mit der Bewerbung des Schülers bis hin zu abrufbaren Daten im Schulverwaltungsprogramm.
 
-\textbf{Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.?}\\
+Welche fachlichen und technischen Qualifikationen sind zur Bewältigung der Aufgabe erforderlich (Aufgabenbewältigung / Softwarenutzung)? Welche Vorkenntnisse fehlen ggf.
 Die Sekretärin des Gymnasiums (1) äußerte, dass zur Bewältigung der Aufgabe keine besonderen fachlichen oder technischen Kenntnisse erforderlich seien. Grundlegende Lesekompetenz sei ausreichend, spezifisches Wissen über das Schulsystem hingegen nicht notwendig.
 
 Ähnlich äußerte sich die Sekretärin der Realschule (2). Sie betonte, dass nicht einmal Internet-Affinität Voraussetzung sei, allerdings sollte man die Bereitschaft mitbringen, sich mit der Software auseinanderzusetzen und sie ausprobieren zu wollen.
@@ -66,17 +61,16 @@ Die Sekretärin der Grundschule (4) sprach die Vorteile von Kenntnissen im Umgan
 Die Sekretärin des Berufskollegs (5) betonte, dass möglicherweise Schulungen zur Vertiefung des fachlichen Wissens, insbesondere für die Schulverwaltung, fehlen könnten. Sie stellte auch heraus, dass ein Verständnis für die spezifischen Bildungsangebote der eigenen Schule wichtig sei.
 
 
-\subsection{Zu Beginn der Durchführung}
-Zu Beginn der Durchführung der Aufgaben mit der neuen Software zeigten sich bei mehreren Sekretärinnen Schwierigkeiten in der Navigation. Die Sekretärin des Gymnasiums (1) navigierte beispielsweise auf eine leere Seite und konnte den Sinn und Zweck der Menüpunkte \glqq Schüler:innen\grqq{} und \glqq Anmeldungen\grqq{} nicht korrekt differenzieren. Obwohl ihre Aufgabe darin bestand, eine Anmeldung zu erfassen, konnte sie aufgrund der bereitgestellten Informationen nicht richtig navigieren.
+Zu Beginn der Durchführung
+Zu Beginn der Durchführung der Aufgaben mit der neuen Software zeigten sich bei mehreren Sekretärinnen Schwierigkeiten in der Navigation. Die Sekretärin des Gymnasiums (1) navigierte beispielsweise auf eine leere Seite und konnte den Sinn und Zweck der Menüpunkte Schüler:innen und Anmeldungen nicht korrekt differenzieren. Obwohl ihre Aufgabe darin bestand, eine Anmeldung zu erfassen, konnte sie aufgrund der bereitgestellten Informationen nicht richtig navigieren.
 
 Sowohl die Sekretärin des Gymnasiums (1) als auch die der Förderschule (3) mussten dahingehend instruiert werden, wie sie die Aufgabe beginnen können. Beide waren anfangs dabei, einen inkorrekten Prozess zu starten.
 
 Die Sekretärin des Berufskollegs (5) navigierte durch mehrere Menüpunkte, konnte jedoch letztendlich auf die korrekte Seite gelangen. 
 
-\textbf{Welche Arbeitsschritte sind durchzuführen?}\\
+Welche Arbeitsschritte sind durchzuführen?
 Die Sekretärin des Gymnasiums (1) beschrieb den Prozess in drei Schritten: Zuerst müsse der Schüler im System gesucht werden, dann würden die Daten des Schülers erfasst. Anschließend müsse dem Schüler eine Information übermittelt werden.
 
-% Die Sekretärin der Realschule (2) betonte die Bedeutung der persönlichen Anwesenheit des Schülers an der Schule.
 Für die Sekretärin der Förderschule (3) umfasste der Prozess mehrere Schritte: Erst müsse geklärt werden, ob ein Rundgang durchgeführt wurde. Danach würden die Daten aufgenommen und das Gutachten für die Akten angefordert. Ein kurzes Kennenlernen und die Entscheidung, in welche Klasse das Kind käme, gehörten ebenso zu den Arbeitsschritten.
 
 Die Sekretärin der Grundschule (4) erläuterte, dass die Eltern zunächst ins Sekretariat kämen, wo ein Gespräch stattfände. Anschließend würden die Daten erfasst und Unterlagen eingereicht. Letztendlich würde eine Schülerakte angelegt.
@@ -84,19 +78,19 @@ Die Sekretärin der Grundschule (4) erläuterte, dass die Eltern zunächst ins S
 Die Sekretärin des Berufskollegs (5) führte aus, dass die Daten zuerst in Papierform erfasst und dann ins System eingetragen würden.
 
 
-\textbf{Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?}\\
+Welche Hilfsmittel sind erforderlich (für die Aufgabenbewältigung / zur Softwarenutzung)? Welche davon fehlen ggf., welche sind zusätzlich gewünscht?
 Für die Sekretärin des Gymnasiums (1) sind Kopier- und Einfügefunktionalitäten wichtig, um Daten aus anderen Programmen wie E-Mail oder PDF-Reader übertragen zu können.
 
 Die Sekretärin der Förderschule (3) nutzt Google Maps zur Adressrecherche als unterstützendes Hilfsmittel.
 
 Die Sekretärin des Berufskollegs (5) spricht den Bedarf an Laptops und einer Kurzanleitung für den Einstieg in die Softwarenutzung an.
 
-\textbf{Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?}\\
+Welche Ergebnisse / Teilergebnisse entstehen und wie werden diese ggf. verwertet / weitergeführt?
 Die Sekretärin der Grundschule (4) erklärt, dass am Ende des Prozesses der Schüler angemeldet ist. Die in der Anwendung erfassten Daten können bei Bedarf für weitere schulische Prozesse herangezogen werden.
 
 Die Sekretärin des Berufskollegs (5) stellt heraus, dass nach Abschluss des Prozesses alle notwendigen Daten für die Bewerbung des Schülers erfasst sein sollten. Sie betont insbesondere die Wichtigkeit der Erfassung der vorherigen Schule, da es sehr aufwändig wäre, diese Information nachträglich herauszufinden. Die erfassten Daten bilden somit eine wesentliche Grundlage für die weitere schulische Laufbahn und Verwaltungsprozesse des Schülers.
 
-\textbf{Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)}\\
+Welche wichtigen Sonderfälle müssen berücksichtigt werden? (bzw. fallen dem Benutzer spontan ein; z. B. zur Arbeitsteilung / Zusammenarbeit)
 Die Sekretärin des Gymnasiums (1) weist darauf hin, dass Wechsel innerhalb des Schuljahres und das Wiederholen von Stufen berücksichtigt werden müssen. Bei Flüchtlingskindern sind möglicherweise nicht alle erforderlichen Daten vorhanden. Sie stellt besondere Situationen heraus, wie langfristige Beurlaubungen oder Fälle, in denen unklar ist, in welche Klasse ein Kind gehen soll. Ein Beispiel wäre ein Kind, das eine Therapie macht und nicht am regulären Schulbetrieb teilnimmt, aber dennoch wegen der Schulpflicht an der Schule angemeldet werden muss. Solche Kinder werden oft in der Klinik unterrichtet.
 
 Die Sekretärin der Realschule (2) weist darauf hin, dass Unterricht in der Herkunftssprache im Voraus beim Schulamt angemeldet werden muss. Hierfür gibt es jährlich ein neues Formular, das unterschrieben werden muss.
@@ -108,124 +102,122 @@ Die Sekretärin der Grundschule (4) betont, dass besondere Fälle wie unterschie
 Die Sekretärin des Berufskollegs (5) identifiziert Schüler mit Förderbedarf als Sonderfälle. Sie merkt auch an, dass manche Schüler in ihrem Alter unsicher sind, ob sie sich als männlich oder weiblich identifizieren. Des Weiteren stellt sie fest, dass bei minderjährigen Schülern eine Unterschrift der Eltern erforderlich ist. Ein weiterer Sonderfall sind Schüler, die sich zu spät bewerben und möglicherweise nicht die notwendigen Voraussetzungen für bestimmte Bildungsgänge erfüllen. Sie stellt fest, dass wenige Schüler genau wissen, was sie lernen wollen oder welchen Bildungsgang sie besuchen möchten.
 
 
-\subsection{Während der Durchführung}
-%todo überleitungstext \textbf{Für jeden Tab / Seite: Welche Seiteninhalte sind unverständlich?}\\
+Während der Durchführung
 
-\textbf{\glqq Schüler\grqq{}-Tab}\\
-Alle Studienteilnehmer hatten Schwierigkeiten zu verstehen, wofür das \textit{ID-Schlüssel} gedacht ist.
+Schüler-Tab
+Alle Studienteilnehmer hatten Schwierigkeiten zu verstehen, wofür das ID-Schlüssel gedacht ist.
 
 Die Sekretärin des Gymnasiums (1) konnte den Zweck der Schülersuche-Funktion nicht nachvollziehen.
 
 
-\textbf{Anmerkungen zum Tab \glqq Bildungsgang\grqq{}}\\
-Für die Sekretärin des Gymnasiums (1) war das Dropdown-\textit{Klasse} unklar, da keine Daten vorhanden waren und noch nicht feststand, welche Klassen es geben würde. Sie wählte den Status \glqq Warteliste\grqq{}, um die Bewerbung als \glqq in Bearbeitung\grqq{} zu markieren und konnte nicht nachvollziehen, warum in der Anwendung vermerkt werden soll, dass eine Aufnahmeberatung stattgefunden hat.
+Anmerkungen zum Bildungsgang
+Für die Sekretärin des Gymnasiums (1) war das Dropdown-Klasse unklar, da keine Daten vorhanden waren und noch nicht feststand, welche Klassen es geben würde. Sie wählte den Status Warteliste, um die Bewerbung als in Bearbeitung zu markieren und konnte nicht nachvollziehen, warum in der Anwendung vermerkt werden soll, dass eine Aufnahmeberatung stattgefunden hat.
 
-Die Sekretärin der Realschule (2) hätte den Begriff \glqq Neuaufnahme\grqq{} in der Auswahl für den Aufnahmestatus erwartet, da diese Terminologie auch bei \textit{SchILD} verwendet wird. Sie hatte auch Schwierigkeiten, das \textit{Beschulungsbeginn}-Datum korrekt einzugeben.
+Die Sekretärin der Realschule (2) hätte den Begriff Neuaufnahme in der Auswahl für den Aufnahmestatus erwartet, da diese Terminologie auch bei SchILD verwendet wird. Sie hatte auch Schwierigkeiten, das Beschulungsbeginn-Datum korrekt einzugeben.
 
 Die Sekretärin der Förderschule (3) hielt die Sortierung der Schuljahre für nicht sinnvoll und stellte fest, dass man mitunter keine medizinischen Informationen erfassen darf.
 
-Die Sekretärin der Grundschule (4) war verwirrt durch die Meldung, dass ein \textit{Antrag auf vorzeitige Einschulung} stattfindet und fand die Bildungsgangbezeichnungen verwirrend.
+Die Sekretärin der Grundschule (4) war verwirrt durch die Meldung, dass ein Antrag auf vorzeitige Einschulung stattfindet und fand die Bildungsgangbezeichnungen verwirrend.
 
-Die Sekretärin der Berufsschule (5) hatte Diskussionen mit einer Kollegin, wie das \textit{Schuljahr} zu interpretieren ist. Sie hatte eine andere Meinung als die Kollegin, dass es sich dabei um das aktuelle Schuljahr handelt und nicht um das Schuljahr, das der Schüler zuvor besucht hat. Darüber hinaus war der Anmeldestatus für sie nicht klar interpretierbar.
+Die Sekretärin der Berufsschule (5) hatte Diskussionen mit einer Kollegin, wie das Schuljahr zu interpretieren ist. Sie hatte eine andere Meinung als die Kollegin, dass es sich dabei um das aktuelle Schuljahr handelt und nicht um das Schuljahr, das der Schüler zuvor besucht hat. Darüber hinaus war der Anmeldestatus für sie nicht klar interpretierbar.
 
-\textbf{Anmerkungen zum Tab \glqq Persönliche Daten\grqq{}}\\
-Die Sekretärin des Gymnasiums (1) trug die Hausnummer zunächst intuitiv zusammen mit der Straße ins Feld \textit{Straße} ein, anstatt ins \textit{Hausnummer}. Sie gab auch die E-Mail-Adresse des Sorgeberechtigten in das E-Mail-Feld des Schülers ein. Sie merkte an, dass sie es bevorzugen würde, wenn der Tab \glqq Persönliche Daten\grqq{} vor dem Tab \glqq Bildungsgang\grqq{} kommen würde, so wie es bei \glqq  \textit{SchILD} \grqq{} der Fall ist. Sie schlug auch vor, dass der Eintrag für \glqq Staat\grqq{} standardmäßig mit \glqq Deutschland\grqq{} vorbelegt sein sollte. Sie wünschte sich außerdem einen Hinweis, dass bei Sek1-Schülern grundsätzlich die Telefonnummer der Sorgeberechtigten und bei Sek2-Schülern die des Schülers erwartet wird.
+Anmerkungen zum Persönliche Daten
+Die Sekretärin des Gymnasiums (1) trug die Hausnummer zunächst intuitiv zusammen mit der Straße ins Feld Straße ein, anstatt ins Hausnummer. Sie gab auch die E-Mail-Adresse des Sorgeberechtigten in das E-Mail-Feld des Schülers ein. Sie merkte an, dass sie es bevorzugen würde, wenn der Persönliche Daten vor dem Bildungsgang kommen würde, so wie es bei  SchILD  der Fall ist. Sie schlug auch vor, dass der Eintrag für Staat standardmäßig mit Deutschland vorbelegt sein sollte. Sie wünschte sich außerdem einen Hinweis, dass bei Sek1-Schülern grundsätzlich die Telefonnummer der Sorgeberechtigten und bei Sek2-Schülern die des Schülers erwartet wird.
 
-% Die Sekretärin der Realschule (2) fand die Erfassung von Ortsteilen interessant.
 Die Sekretärin der Förderschule (3) überprüft unbekannte Straßen mithilfe von Google Maps auf ihre Existenz. Sie schlug vor, dass es sinnvoll wäre, wenn Eltern angeben könnten, zu welchen Zeiten sie telefonisch erreichbar sind. Sie fände es auch gut, wenn mehrere Telefonnummern für Notfälle erfasst werden könnten.
 
 Die Sekretärin der Berufsschule (5) wünschte sich eine Anzeige, die darauf hinweist, ob der Schüler volljährig ist. Sie hatte Schwierigkeiten mit der Suche nach der Postleitzahl-Ort-Kombination.
 
-\textbf{Anmerkungen zum Tab \glqq Sorgeberechtigte\grqq{}}\\
+Anmerkungen zum Sorgeberechtigte
 Die Sekretärin des Gymnasiums (1) hielt es für wichtig, einen Nachweis dafür zu haben, ob eine Person das alleinige Sorgerecht hat oder ob beide Unterschriften vorhanden sind, um zu verhindern, dass sich eine Person über die andere hinwegsetzt. Sie hätte erwartet, dass es eine Funktion zur Datenübernahme der Adressdaten aus den persönlichen Daten des Schülers gibt. Sie war auch unsicher über den Zweck des Postfachs. Sie war verärgert, als der Sorgerechtsprozess durch einen versehentlichen Klick neben das Popup abgebrochen wurde, und forderte, dass es nicht möglich sein sollte, Daten zu verlieren, sei es durch Danebenklicken oder Ausloggen.
 
-Die Sekretärin der Realschule (2) trug die Hausnummer auch intuitiv zusammen mit der Straße in das Feld \textit{Straße} ein.
+Die Sekretärin der Realschule (2) trug die Hausnummer auch intuitiv zusammen mit der Straße in das Feld Straße ein.
 
-Alle Sekretärinnen außer die Sekretärin des Berufskolleg (5) versuchten, die Straße in das Feld \textit{Adressart} einzugeben. Die Sekretärin der Förderschule (3) erklärte auf Nachfrage, dass sie intuitiv die folgende Eingabereihenfolge erwartet hätte: Staat => Postleitzahl/Ort => Straße.
+Alle Sekretärinnen außer die Sekretärin des Berufskolleg (5) versuchten, die Straße in das Feld Adressart einzugeben. Die Sekretärin der Förderschule (3) erklärte auf Nachfrage, dass sie intuitiv die folgende Eingabereihenfolge erwartet hätte: Staat => Postleitzahl/Ort => Straße.
 
-Der \textit{Erstellen}-Button wurde unterschiedlich interpretiert. Die Sekretärin der Förderschule (3) interpretierte ihn im Sinne von \textit{Speichern}, während die Sekretärin der Hauptschule (4) annahm, dass damit ein weiterer Sorgeberechtigter angelegt werden kann, was sie auf das Plus-Symbol zurückführte.
+Der Erstellen-Button wurde unterschiedlich interpretiert. Die Sekretärin der Förderschule (3) interpretierte ihn im Sinne von Speichern, während die Sekretärin der Hauptschule (4) annahm, dass damit ein weiterer Sorgeberechtigter angelegt werden kann, was sie auf das Plus-Symbol zurückführte.
 
 Die Sekretärin der Berufsschule (5) empfand das Erfassungsformular für die Sorgeberechtigten im Vergleich zu den anderen Formularen als unattraktiv und unübersichtlich.
 
-\textbf{Anmerkungen zum Tab \glqq Notfallkontakte\grqq{}}\\
+Anmerkungen zum Notfallkontakte
 Die Sekretärin der Realschule (2) schlug vor, dass es hilfreich wäre, die Art der Telefonnummer (im Sinne von dienstlich, privat, mobil) für die Notfallkontakte hinterlegen zu können und mehrere Telefonnummern einer Person zuzuordnen. Sie konnte zeitweise nicht erkennen, wie sie den Datensatz speichern kann, da das Autocomplete-Dropdown-Feld den Speichern-Button versteckte. Sie nahm dieses Feld nicht als ein Feld wahr, das man benutzerdefiniert ausfüllen kann, sondern als ein Feld, in dem man zwingend einen der vorgeschlagenen Werte auswählen muss.
 
 Die Sekretärin der Förderschule (3) versuchte, mehrere Nummern in ein Feld einzugeben, was ihr nicht gelang. Sie wies auch darauf hin, dass es wichtig sei, die Rolle des Notfallkontakts zu erfassen, um im Notfall beurteilen zu können, ob sensible Informationen weitergegeben werden dürfen. Eine Rangfolge der Notfallkontakte hielt sie nicht für sinnvoll. Sie hätte erwartet, die Notfallkontakte früher im Prozess zu sehen.
 
-Die Sekretärin der Hauptschule (4) empfand die Eingabe der Notfallkontakte als unpraktisch, da sie die gleichen Daten wie bei den Sorgeberechtigten eingeben musste. In \textit{SchILD} werden diese Daten automatisch übernommen.
+Die Sekretärin der Hauptschule (4) empfand die Eingabe der Notfallkontakte als unpraktisch, da sie die gleichen Daten wie bei den Sorgeberechtigten eingeben musste. In SchILD werden diese Daten automatisch übernommen.
 
-\textbf{Anmerkungen zum Tab \glqq Migrationshintergrund\grqq{}}\\
-Die Sekretärin des Gymnasiums (1) äußerte Zufriedenheit mit dem Abschnitt zum Migrationshintergrund und betonte, dass alle wichtigen Informationen vorhanden seien. Sie war jedoch der Meinung, dass das Eingabefeld angezeigt werden sollte, selbst wenn die Option \textit{Migrationshintergrund liegt nicht vor\grqq} ausgewählt ist.
+Anmerkungen zum Migrationshintergrund
+Die Sekretärin des Gymnasiums (1) äußerte Zufriedenheit mit dem Abschnitt zum Migrationshintergrund und betonte, dass alle wichtigen Informationen vorhanden seien. Sie war jedoch der Meinung, dass das Eingabefeld angezeigt werden sollte, selbst wenn die Option Migrationshintergrund liegt nicht vor\grqq ausgewählt ist.
 
-Die Sekretärin der Gesamtschule (5) stellte die Definition von \textit{Migrationshintergrund} in Frage. Sie war sich unsicher und spekulierte darüber, ab wann ein Migrationshintergrund vorliegt.
+Die Sekretärin der Gesamtschule (5) stellte die Definition von Migrationshintergrund in Frage. Sie war sich unsicher und spekulierte darüber, ab wann ein Migrationshintergrund vorliegt.
 
-\textbf{Anmerkungen zum Tab \glqq Letzte Tätigkeit\grqq{}}\\
-Die Sekretärin des Gymnasiums (1) kritisierte die Reihenfolge der Bereiche und schlug vor, dass die \textit{Letzte Tätigkeit} innerhalb des Abschnitts \textit{Schüler-Daten} erfasst werden sollte, da es sich hierbei um ergänzende Informationen zur Person handelt. Sie hatte Schwierigkeiten mit der Suche nach der letzten Schule, da die Suche eine Checkbox überdeckte und die Sortierung der Ergebnisse ihrer Meinung nach die lokale Umgebung bevorzugen sollte.
+Anmerkungen zum Letzte Tätigkeit
+Die Sekretärin des Gymnasiums (1) kritisierte die Reihenfolge der Bereiche und schlug vor, dass die Letzte Tätigkeit innerhalb des Abschnitts Schüler-Daten erfasst werden sollte, da es sich hierbei um ergänzende Informationen zur Person handelt. Sie hatte Schwierigkeiten mit der Suche nach der letzten Schule, da die Suche eine Checkbox überdeckte und die Sortierung der Ergebnisse ihrer Meinung nach die lokale Umgebung bevorzugen sollte.
 
-Die Sekretärin der Gemeinschaftsschule (3) hielt den Tab \textit{Letzte Tätigkeit} für überflüssig, da ein Kind, das sich für die Grundschule anmeldet, noch keinen Schulabschluss haben kann. Sie war verwirrt und konnte nicht unterscheiden, ob die letzte Tätigkeit des Schülers oder des Sorgeberechtigten erfragt wird. Die angestrebte Schulstufe wurde von ihr als letzte Schulstufe interpretiert.
+Die Sekretärin der Gemeinschaftsschule (3) hielt den Tab Letzte Tätigkeit für überflüssig, da ein Kind, das sich für die Grundschule anmeldet, noch keinen Schulabschluss haben kann. Sie war verwirrt und konnte nicht unterscheiden, ob die letzte Tätigkeit des Schülers oder des Sorgeberechtigten erfragt wird. Die angestrebte Schulstufe wurde von ihr als letzte Schulstufe interpretiert.
 
-Die Sekretärin der Gesamtschule (5) hatte Schwierigkeiten, eine einmal ausgewählte Grundschulempfehlung wieder zu entfernen. Sie wies auch darauf hin, dass sich das \textit{Angestrebtestufe} und mit dem Tab \textit{Letzte Tätigkeit} einander zu widersprechen scheinen.
+Die Sekretärin der Gesamtschule (5) hatte Schwierigkeiten, eine einmal ausgewählte Grundschulempfehlung wieder zu entfernen. Sie wies auch darauf hin, dass sich das Angestrebtestufe und mit dem Tab Letzte Tätigkeit einander zu widersprechen scheinen.
 
-\textbf{Anmerkungen zum Tab \glqq Qualifikationen\grqq{}}\\
+Anmerkungen zum Qualifikationen
 Die Sekretärin der Gesamtschule (5) stellte fest, dass in der Liste der Qualifikationen einige Schulabschlüsse, wie beispielsweise der Hauptschulabschluss, fehlten. Sie äußerte Kritik und regte eine Überarbeitung der Auswahlmöglichkeiten an.
 
-\textbf{Anmerkungen zum Tab \glqq Termine\grqq{}}\\
-Sekretärin 5 konnte den Zweck der Seite \textit{Termine} nicht erkennen. Sie gab an, dass sie ohnehin keine Zeit hätte, 500 Personen zu Terminen einzuladen. Sie merkte jedoch an, dass einige Bildungsgangleitungen vorab Gespräche mit den Schülern führen möchten.
+Anmerkungen zum Termine
+Sekretärin 5 konnte den Zweck der Seite Termine nicht erkennen. Sie gab an, dass sie ohnehin keine Zeit hätte, 500 Personen zu Terminen einzuladen. Sie merkte jedoch an, dass einige Bildungsgangleitungen vorab Gespräche mit den Schülern führen möchten.
 
-\textbf{Anmerkungen zum Tab \glqq Bemerkungen\grqq{}}\\
-Sekretärin 2 äußerte Unsicherheit darüber, wer Zugriff auf die internen Notizen hat. Sie definierte die Felder \textit{Interne} und \textit{Bemerkung für Schüler*in} als \glqq Interne Notizen sind unsere Meinung, Bemerkungen sind Fakten\grqq{}. Sekretärin 4 war sich ebenfalls unsicher, welche Informationen dem Schüler zugänglich sind. Im Gegensatz zu 2 interpretierte 4, dass die \textit{Interne Notiz} nur für die Schule sichtbar ist und das \textit{Bemerkung}-Feld auch vom Kind gesehen werden kann, fühlte sich aber durch den Infotext oben im Formular verwirrt.
+Anmerkungen zum Bemerkungen
+Sekretärin 2 äußerte Unsicherheit darüber, wer Zugriff auf die internen Notizen hat. Sie definierte die Felder Interne und Bemerkung für Schüler*in als Interne Notizen sind unsere Meinung, Bemerkungen sind Fakten. Sekretärin 4 war sich ebenfalls unsicher, welche Informationen dem Schüler zugänglich sind. Im Gegensatz zu 2 interpretierte 4, dass die Interne Notiz nur für die Schule sichtbar ist und das Bemerkung-Feld auch vom Kind gesehen werden kann, fühlte sich aber durch den Infotext oben im Formular verwirrt.
 
 Sekretärin 3 machte darauf aufmerksam, dass sensible Informationen, wie zum Beispiel Behinderungen, möglicherweise nicht erfasst werden dürfen. Sie betonte die Notwendigkeit einer Benutzerführung, die das Bewusstsein für gesetzliche Anforderungen stärkt.
 
 Sekretärin 5 war überrascht, dass dieser Tab erschien, da sie zuvor nicht bemerkt hatte, wie weit sie im Prozess fortgeschritten war.Dieser Tab wurde zuvor aufgrund des Overflow-Verhaltens des Browsers verdeckt.
 
-Sekretärin 1 gab an, dass sie den Tab \textit{Bemerkungen} an einer früheren Stelle im Prozess erwartet hätte.
+Sekretärin 1 gab an, dass sie den Tab Bemerkungen an einer früheren Stelle im Prozess erwartet hätte.
 
-\textbf{Anmerkungen zum Tab \glqq Zusammenfassung\grqq{}}\\
-Sekretärin 1 erlebte eine unklare Fehlermeldung beim Klick auf \textit{Speichern}. Sie wünscht sich klarere Anweisungen zur Fehlerbehebung und einen direkten Fokus auf das fehlerhafte Feld.
-Sekretärin 2 stellte eine Verzögerung beim Laden der Inhalte fest. Sie befürchtet, dass die per E-Mail gesendete Bestätigungsmeldung mit der Formulierung \textit{Angemeldet} falsche Erwartungen bei den Schülern wecken könnte. Sie war sich auch unsicher, ob das Schuljahr korrekt erfasst wurde und merkte an, dass noch eine Unterschrift von den Eltern für die Anmeldung erforderlich ist.
-Sekretärin 3 interpretierte die Meldung auf der Zusammenfassungsseite als \glqq Die Mutter wurde kontaktiert\grqq{}.
-Sekretärin 4 nahm an, dass die Anmeldung des Kindes als \textit{vorzeitige Einschulung} gekennzeichnet wurde, was sie als Fehler ansah. Sie war sich auch unsicher, ob sie nun eine \glqq Anmeldung Bewerbung\grqq{} eingereicht hat. Sie bemerkte, dass Informationen zu wichtigen Themen wie dem Nachweis des Masernschutzes oder der Betreuung für beispielsweise die offene Ganztagsschule fehlten.
-Sekretärin 5 kritisierte den Informationsgehalt der Seite. Ihrer Meinung nach sind zu viele Informationen im Panel \textit{Bildungsgang} enthalten, insbesondere das Kürzel des Bildungsgangs, das für sie schwer zu verstehen war.
+Anmerkungen zum Zusammenfassung
+Sekretärin 1 erlebte eine unklare Fehlermeldung beim Klick auf Speichern. Sie wünscht sich klarere Anweisungen zur Fehlerbehebung und einen direkten Fokus auf das fehlerhafte Feld.
+Sekretärin 2 stellte eine Verzögerung beim Laden der Inhalte fest. Sie befürchtet, dass die per E-Mail gesendete Bestätigungsmeldung mit der Formulierung Angemeldet falsche Erwartungen bei den Schülern wecken könnte. Sie war sich auch unsicher, ob das Schuljahr korrekt erfasst wurde und merkte an, dass noch eine Unterschrift von den Eltern für die Anmeldung erforderlich ist.
+Sekretärin 3 interpretierte die Meldung auf der Zusammenfassungsseite als Die Mutter wurde kontaktiert.
+Sekretärin 4 nahm an, dass die Anmeldung des Kindes als vorzeitige Einschulung gekennzeichnet wurde, was sie als Fehler ansah. Sie war sich auch unsicher, ob sie nun eine Anmeldung Bewerbung eingereicht hat. Sie bemerkte, dass Informationen zu wichtigen Themen wie dem Nachweis des Masernschutzes oder der Betreuung für beispielsweise die offene Ganztagsschule fehlten.
+Sekretärin 5 kritisierte den Informationsgehalt der Seite. Ihrer Meinung nach sind zu viele Informationen im Panel Bildungsgang enthalten, insbesondere das Kürzel des Bildungsgangs, das für sie schwer zu verstehen war.
 
-\subsection{Nach der Durchführung:}
+Nach der Durchführung:
 
-\textbf{Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein - was hat Sie daran gehindert?}\\
+Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein - was hat Sie daran gehindert?
 Sekretärin 1 gab an, dass sie die Aufgabe erst beim zweiten Anlauf erfolgreich abschließen konnte. Sie empfand die Aufgabe zwischendurch als unübersichtlich und hätte sich eine Hilfeoption oder ein Handbuch gewünscht. Sie bemerkte auch, dass sie ungern prüfen würde, welche Anmeldungen neu eingegangen sind und wünschte sich Ziffern oder eine andere Hervorhebung, die auf neue, unbearbeitete Anmeldungen hinweist.
 Sekretärinnen 2, 3 und 4 konnten die Aufgaben alle abschließen. Sekretärin 4 meinte, dass sich Fragen zur Software im Laufe der Zeit von selbst klären könnten, sobald sie etwas geübter ist.
 Sekretärin 5 konnte die Aufgabe nicht abschließen, da die Aufnahmeentscheidung in der Verantwortung der Abteilungsleiter liegt und sie somit auf diese angewiesen ist. Sie ist jedoch zuversichtlich, dass sie mit etwas Übung genau weiß, worauf sie achten muss.
 
-\textbf{Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?}\\
+Wie effektiv unterstützt die Webanwendung Sie bei der Aufgabe?  Gab es positive oder negative Erfahrungen?
 Sekretärin 1 schätzt die neue Software als besser und übersichtlicher ein als die vorherige. Sie bemängelt jedoch, dass Felder mit Validierungsproblemen erst bei der Speicherung markiert werden und nicht direkt, wenn das Problem auftritt.
 
-Sekretärin 2 hofft, dass die Bewerbungsdaten nun in das SchILD-Programm übertragen werden können. Sie würde gerne \glqq Standardinformationen\grqq{} , die stets zu einer Bewerbung erfasst werden müssen, einfach eingeben können. Beispiele hierfür sind, ob das Kind im Schuljahr fotografiert werden darf oder ob es ein Schwimmabzeichen hat. Sie findet die verwendeten Farben in der Anwendung ansprechend.
+Sekretärin 2 hofft, dass die Bewerbungsdaten nun in das SchILD-Programm übertragen werden können. Sie würde gerne Standardinformationen , die stets zu einer Bewerbung erfasst werden müssen, einfach eingeben können. Beispiele hierfür sind, ob das Kind im Schuljahr fotografiert werden darf oder ob es ein Schwimmabzeichen hat. Sie findet die verwendeten Farben in der Anwendung ansprechend.
 
-Sekretärin 3 bezeichnet die Umsetzung der Aufgaben als \glqq relativ intuitiv\grqq{} .
+Sekretärin 3 bezeichnet die Umsetzung der Aufgaben als relativ intuitiv .
 
-Sekretärin 4 fand die Umsetzung der Aufgaben \glqq nicht schwierig\grqq{}  und \glqq überschaubar\grqq{} , obwohl es bei der letzten Tätigkeit zu Irritationen kam.
+Sekretärin 4 fand die Umsetzung der Aufgaben nicht schwierig  und überschaubar , obwohl es bei der letzten Tätigkeit zu Irritationen kam.
 
-\textbf{Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?}\\
-Die Sekretärin einer Förderschule (3) äußerte den Bedarf, den Unterschied zwischen den Menüpunkten \textit{Schüler:innen} und \textit{Anmeldungen} klarer zu gestalten. Die Sekretärin einer Grundschule (4) verzeichnete zwar Fragen, gab jedoch keine weiteren Probleme an. Die Sekretärin eines Berufskollegs (5) bestätigte, dass die Aufgabenstellung für sie verständlich war, merkte jedoch an, dass ihre Erfahrung als Sekretärin möglicherweise dazu beigetragen hat.
+Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Sie sich mehr Unterstützung gewünscht hätten?
+Die Sekretärin einer Förderschule (3) äußerte den Bedarf, den Unterschied zwischen den Menüpunkten Schüler:innen und Anmeldungen klarer zu gestalten. Die Sekretärin einer Grundschule (4) verzeichnete zwar Fragen, gab jedoch keine weiteren Probleme an. Die Sekretärin eines Berufskollegs (5) bestätigte, dass die Aufgabenstellung für sie verständlich war, merkte jedoch an, dass ihre Erfahrung als Sekretärin möglicherweise dazu beigetragen hat.
 
-\textbf{Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?}\\
+Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?
 Die Sekretärin eines Gymnasiums (1) begegnete keinen besonderen Schwierigkeiten oder Verwirrungen, abgesehen von der bereits angesprochenen Unklarheit hinsichtlich der Menüpunkte, die auch die Sekretärin einer Förderschule (3) wahrgenommen hatte.
 
 Die Sekretärin einer Realschule (2) fand die Felder im Zusammenhang mit dem Export im Update-Prozess verwirrend. Außerdem bemängelte sie die Position des Speichern-Buttons bei den Sorgeberechtigten, welcher ihrer Meinung nach oben platziert hätte sein sollen, ähnlich wie die anderen Speichern-Buttons.
 
 Die Sekretärinnen einer Förderschule (3) und Grundschule (4) gaben an, keine Schwierigkeiten oder Verwirrungen gehabt zu haben.
 
-Die Sekretärin eines Berufskollegs (5) äußerte den Wunsch, die Bezeichnungen innerhalb der Software anzupassen. Ihrer Meinung nach sollte die Bezeichnung \textit{Letzte Tätigkeit}  durch \textit{Bisherige Schullaufbahn}  ersetzt werden.
+Die Sekretärin eines Berufskollegs (5) äußerte den Wunsch, die Bezeichnungen innerhalb der Software anzupassen. Ihrer Meinung nach sollte die Bezeichnung Letzte Tätigkeit  durch Bisherige Schullaufbahn  ersetzt werden.
 
-\textbf{Wie verständlich waren die Rückmeldungen der Anwendung?}\\
-Die Sekretärin eines Gymnasiums (1) äußerte, dass es nützlich wäre, wenn die Anwendung Rückmeldung darüber gibt, ob ein Datensatz vollständig und korrekt ausgefüllt ist. Zudem betrachtete sie die Rückmeldungen als \glqq ausbaufähig\grqq{}  und forderte mehr Feedback mit konkreten Anweisungen.
+Wie verständlich waren die Rückmeldungen der Anwendung?
+Die Sekretärin eines Gymnasiums (1) äußerte, dass es nützlich wäre, wenn die Anwendung Rückmeldung darüber gibt, ob ein Datensatz vollständig und korrekt ausgefüllt ist. Zudem betrachtete sie die Rückmeldungen als ausbaufähig  und forderte mehr Feedback mit konkreten Anweisungen.
 
 Die Sekretärin einer Förderschule (3) bemängelte das Fehlen eines Hinweises, auf welchem Reiter ein Fehler vorliegt.
 
-Die Sekretärin einer Grundschule (4) fand die Rückmeldungen der Anwendung bis auf den Hinweis zur \glqq vorzeitigen Einschulung\grqq{}  verständlich.
+Die Sekretärin einer Grundschule (4) fand die Rückmeldungen der Anwendung bis auf den Hinweis zur vorzeitigen Einschulung  verständlich.
 
 Die Sekretärin eines Berufskollegs (5) sprach den Wunsch aus, dass es neben den Feldern kleine Erklärungen geben sollte, um die Bedienung der Anwendung zu erleichtern.
 
-\textbf{Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?}\\
+Welche Fähigkeiten setzt die Anwendung Ihrer Einschätzung nach voraus?
 Die Sekretärin eines Gymnasiums (1) war der Ansicht, dass die Aufgaben von jedem erledigt werden könnten, da die Begrifflichkeiten auch für Laien verständlich seien.
 
 Die Sekretärin einer Realschule (2) betonte, dass grundlegende Fertigkeiten wie Lesen und Schreiben sowie die Bedienung einer Tastatur und Maus ausreichend seien. Sie fügte hinzu, dass ein Grundverständnis des Schulgesetzes vorteilhaft wäre. Ihrer Meinung nach könnten sogar Praktikanten die Aufgaben erledigen, allerdings sollte eine Überprüfung erfolgen.
@@ -236,8 +228,8 @@ Die Sekretärin einer Grundschule (4) betonte, dass Vorkenntnisse in der EDV und
 
 Die Sekretärin eines Berufskollegs (5) äußerte, dass Lesefähigkeit eine zentrale Voraussetzung darstellt. Darüber hinaus sollten die Nutzer über die eigenen Bildungsgänge der Schule Bescheid wissen und den normalen Schulwerdegang kennen.
 
-\textbf{Wie sehr entspricht die Umsetzung in der Software der Realität?}\\
-Die Sekretärin eines Gymnasiums (1) schlug vor, die Erfassung der Bewerbung analog zu den Dokumenten der Schule oder vergleichbaren Software (wie \textit{SchILD}) zu gestalten, um eine effizientere Datenübertragung zu ermöglichen. Sie fand jedoch, dass das Programm insgesamt der Realität entspricht. Sowohl sie (1) als auch die Sekretärin einer Realschule (2) bestätigten, dass die Software inhaltlich \textit{SchILD}  entspricht.
+Wie sehr entspricht die Umsetzung in der Software der Realität?
+Die Sekretärin eines Gymnasiums (1) schlug vor, die Erfassung der Bewerbung analog zu den Dokumenten der Schule oder vergleichbaren Software (wie SchILD) zu gestalten, um eine effizientere Datenübertragung zu ermöglichen. Sie fand jedoch, dass das Programm insgesamt der Realität entspricht. Sowohl sie (1) als auch die Sekretärin einer Realschule (2) bestätigten, dass die Software inhaltlich SchILD  entspricht.
 
 Die Sekretärin einer Realschule (2) bemerkte, dass die Notizen zu den neuen Schülern der fünften Klasse in einer Liste zusammengeführt werden sollten. Sie bewertete es positiv, dass die Kinder bzw. Eltern über die Anmeldung informiert werden und dass es vier Arbeitsschritte in einem sind. Sie regte an, dass das Programm der abgebenden Schule mitteilen sollte, dass der Schüler aufgenommen wurde, und wies auf mögliche Probleme bei Mehrfachanmeldungen hin.
 
@@ -245,7 +237,7 @@ Die Sekretärin einer Förderschule (3) bemerkte, dass in der Regel die Eltern d
 
 Die Sekretärinnen einer Grundschule (4) und eines Berufskollegs (5) waren der Meinung, dass das Programm der Realität entspricht. Die Sekretärin eines Berufskollegs (5) hoffte jedoch, dass Anmeldezeiträume berücksichtigt werden würden.
 
-\textbf{Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?}\\
+Was handhaben Sie in Ihrem Arbeitsalltag bei nicht-digitalen Bewerbungen gewöhnlicherweise anders als in der Anwendung?
 Die Sekretärin eines Gymnasiums (1) berichtete, dass bei fehlenden unwichtigen Daten wie dem Geburtsort im Notfall improvisiert werde, während wichtige Daten stets mit Urkunden ausgefüllt werden müssten.
 
 Die Sekretärin einer Realschule (2) gab an, dass sie Postleitzahlen und Orte manuell validiere und Kilometerangaben händisch berechne. Sie äußerte den Wunsch nach einer automatischen Berechnung dieser Angaben. Zudem teilte sie mit, dass die Lehrkräfte die Daten der Schülerinnen und Schüler ausgedruckt erhalten möchten, weshalb sie die Möglichkeit zum Ausdruck in der Anwendung vermisste.
@@ -256,8 +248,8 @@ Die Sekretärin einer Grundschule (4) erklärte, dass sie in ihrem Arbeitsalltag
 
 Die Sekretärin eines Berufskollegs (5) fügte hinzu, dass sie normalerweise noch Dokumente wie Zeugnisse, Lebensläufe und Nachweise über den Masernschutz hinzufüge, um den Lehrkräften eine Entscheidung über die Aufnahme zu ermöglichen.
 
-\textbf{Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?}\\
-Die Gymnasiumssekretärin (1) äußerte Bedenken hinsichtlich des zusätzlichen Aufwands, der durch das Erlernen einer weiteren Software entstehen würde. Sie betrachtete die Anwendung als eine Art Dopplung zu \textit{SchILD} und wünschte sich die Möglichkeit, eine E-Mail-Adresse angeben zu können, um in einem wählbaren Intervall Neuigkeiten über die Anwendung zu erhalten.
+Was würde Sie noch daran hindern die Software in Ihrem Arbeitsalltag einzusetzen?
+Die Gymnasiumssekretärin (1) äußerte Bedenken hinsichtlich des zusätzlichen Aufwands, der durch das Erlernen einer weiteren Software entstehen würde. Sie betrachtete die Anwendung als eine Art Dopplung zu SchILD und wünschte sich die Möglichkeit, eine E-Mail-Adresse angeben zu können, um in einem wählbaren Intervall Neuigkeiten über die Anwendung zu erhalten.
 
 Die Realschulsekretärin (2) gab an, dass noch weitere, derzeit nicht erfasste Informationen benötigt würden, darunter Angaben zu iPad-Mietverträgen und Kaufoptionen. Sie merkte zudem an, dass die E-Mail-Adresse korrekt sein und überprüft werden müsse. Die Integration von Schulbuchbestellungen und Materiallisten in die versendete E-Mail wäre aus ihrer Sicht ebenso wünschenswert, wie die Erfassung von Noten ausgewählter Fächer. Des Weiteren merkte sie an, dass eine Geburtsurkunde vorliegen müsse und die Datenschutzerklärung der Schule vom Schüler bzw. Elternteil gelesen und akzeptiert werden sollte.
 
@@ -265,23 +257,22 @@ Die Förderschulsekretärin (3) betonte, dass die Anwendung einfacher zu bediene
 
 Die Grundschulsekretärin (4) nannte die notwendige Umstellung und den damit verbundenen Zeitaufwand als Hürden. Eine schnelle Erlernbarkeit der Anwendung würde diesen Aufwand aus ihrer Sicht jedoch reduzieren.
 
-Für die Berufskollegssekretärin (5) gab es keine Hindernisse für den Einsatz der Software im Alltag. Sie war der Ansicht, dass der Erfassungsprozess in Kombination mit der neuen \textit{SchILD}-Software \glqq sehr einfach\grqq{}  sein würde.
+Für die Berufskollegssekretärin (5) gab es keine Hindernisse für den Einsatz der Software im Alltag. Sie war der Ansicht, dass der Erfassungsprozess in Kombination mit der neuen SchILD-Software sehr einfach  sein würde.
 
-%\textbf{Wie sehr erleichtert Ihnen die Anwendung ihre Arbeit?}\\
 
-\textbf{Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?}\\
-Die Gymnasiumssekretärin (1) vermisst eine Funktion, die sie aus der \textit{SchILD}-Software kennt - die Filterung von Schulen.
+Gibt es Funktionen, die Sie in ähnlichen bzw. anderen Anwendungen genutzt haben, die Sie hier vermissen?
+Die Gymnasiumssekretärin (1) vermisst eine Funktion, die sie aus der SchILD-Software kennt - die Filterung von Schulen.
 
 Die Grundschulsekretärin (4) würde sich eine Funktion wünschen, mit der sie Berichte oder ähnliches erstellen kann.
 
 Die anderen befragten Sekretärinnen (2, 3, und 5) haben keine fehlenden Funktionen aus ähnlichen oder anderen Anwendungen erwähnt.
 
-\textbf{Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen?}\\
-Alle Sekretärinnen (1,2,3) sprachen sich einstimmig für eine Integration mit Schulverwaltungsprogrammen wie \textit{SchILD} aus. Des Weiteren betonte die Sekretärin der Realschule (2) die Wichtigkeit einer Verbindung zu ISERV.
+Welche Software sollte man aus Ihrer Sicht in Schüler Online integrieren bzw. eine Schnittstelle schaffen?
+Alle Sekretärinnen (1,2,3) sprachen sich einstimmig für eine Integration mit Schulverwaltungsprogrammen wie SchILD aus. Des Weiteren betonte die Sekretärin der Realschule (2) die Wichtigkeit einer Verbindung zu ISERV.
 
 Ein weiterer Punkt, der von den Sekretärinnen der Förderschule, der Grundschule und des Berufskollegs (3,4,5) hervorgehoben wurde, ist die Möglichkeit, einen Export nach Excel durchführen zu können.
 
-\textbf{Welche Dokumente würden Sie gerne im Prozess ausdrucken können?}\\
+Welche Dokumente würden Sie gerne im Prozess ausdrucken können?
 Die Sekretärin des Gymnasiums (1) lobte die Möglichkeit, das Anmeldeformular ausdrucken zu können für Archivierungszwecke. Sie wünschte jedoch zusätzlich die Druckfunktionalität für Formulare wie Schweigepflichtsentbindungen, Einverständniserklärungen für PKW/Bulli Mitfahrten und Fotoerlaubnisse für die Website.
 
 Die Realschulsekretärin (2) stellte die Forderung auf, ein Schülerstammblatt sowie jährliche Notenübersichten drucken zu können für die Schülerakte.
@@ -292,7 +283,7 @@ Die Sekretärin der Grundschule (4) hätte gerne die Option, verschiedene Listen
 
 Die Sekretärin des Berufskollegs (5) wünschte sich die Druckfähigkeit für Schülerstammdatenblätter und eine Übersicht über die aufgenommenen Schülerinnen und Schüler.
 
-\textbf{Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?}\\
+Welche Dokumente würden Sie gerne einscannen wollen und beim Datensatz hinterlegen?
 Die Sekretärin des Gymnasiums (1) äußerte keinen Bedarf an der Funktion, Dokumente zu scannen und im System zu hinterlegen.
 
 Im Gegensatz dazu wünschte sich die Realschulsekretärin (2) die Möglichkeit, alle für die Anmeldung relevanten Dokumente, insbesondere das Anmeldeformular, digitalisieren und speichern zu können.

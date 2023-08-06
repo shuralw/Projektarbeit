@@ -17,6 +17,24 @@
 \endgroup
 
 \datalist[entry]{none/global//global/global}
+  \entry{ISO-9241-110}{report}{}
+    \field{labeltitlesource}{title}
+    \field{title}{Ergonomie der Mensch-System-Interaktion – Teil 110:
+  Interaktionsprinzipien (ISO 9241-110:2020); Deutsche Fassung EN ISO
+  9241-110:2020}
+    \field{volume}{2020}
+    \list{location}{1}{%
+      {Geneva, CH}%
+    }
+    \list{institution}{1}{%
+      {Technisches Komitee ISO/TC 159 Ergonomics in Zusammenarbeit mit dem
+  Technischen Komitee CEN/TC 122 Ergonomie}%
+    }
+    \field{type}{Standard}
+    \field{month}{03}
+    \field{year}{2020}
+  \endentry
+
   \entry{Kruse_2015}{book}{}
     \name{author}{1}{}{%
       {{hash=KJ}{%

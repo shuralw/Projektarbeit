@@ -22,51 +22,49 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: ausarbeitung-blx.bib
 Database file #2: literatur/literatur.bib
-Warning--I didn't find a database entry for "ISO-9241-110"
-Warning--I didn't find a database entry for "iso-9241-11"
-Warning--I didn't find a database entry for "stangl"
+Warning--I didn't find a database entry for "stangl-beduerfnis"
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 3 entries,
+You've used 4 entries,
             6399 wiz_defined-function locations,
-            1218 strings with 9254 characters,
-and the built_in function-call counts, 8569 in all, are:
-= -- 554
-> -- 194
-< -- 78
-+ -- 191
-- -- 51
-* -- 301
-:= -- 821
+            1222 strings with 9519 characters,
+and the built_in function-call counts, 14144 in all, are:
+= -- 1048
+> -- 322
+< -- 206
++ -- 311
+- -- 53
+* -- 384
+:= -- 979
 add.period$ -- 0
-call.type$ -- 3
-change.case$ -- 61
-chr.to.int$ -- 42
-cite$ -- 4
-duplicate$ -- 850
-empty$ -- 832
-format.name$ -- 46
-if$ -- 1925
+call.type$ -- 4
+change.case$ -- 181
+chr.to.int$ -- 48
+cite$ -- 6
+duplicate$ -- 1433
+empty$ -- 1330
+format.name$ -- 48
+if$ -- 3332
 int.to.chr$ -- 0
-int.to.str$ -- 5
+int.to.str$ -- 8
 missing$ -- 0
-newline$ -- 51
-num.names$ -- 95
-pop$ -- 707
+newline$ -- 66
+num.names$ -- 216
+pop$ -- 1020
 preamble$ -- 1
-purify$ -- 64
+purify$ -- 184
 quote$ -- 0
-skip$ -- 441
+skip$ -- 854
 stack$ -- 0
-substring$ -- 740
-swap$ -- 207
-text.length$ -- 47
+substring$ -- 1334
+swap$ -- 409
+text.length$ -- 58
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 90
+type$ -- 119
 warning$ -- 0
-while$ -- 118
+while$ -- 126
 width$ -- 0
-write$ -- 49
-(There were 3 warnings)
+write$ -- 63
+(There was 1 warning)

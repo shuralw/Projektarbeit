@@ -1,50 +1,49 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{1}{}%
-\contentsline {section}{\numberline {2}Theoretischer Hintergrund}{3}{}%
-\contentsline {subsection}{\numberline {2.1}Definition von Effektivität im Rahmen dieser Ausarbeitung}{3}{}%
+\contentsline {section}{\numberline {2}Theoretischer Hintergrund}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Definition von Effektivität im Rahmen dieser Ausarbeitung}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Definition von Zufriedenstellung im Rahmen dieser Ausarbeitung}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Definition von Problemstellen im Rahmen dieser Ausarbeitung}{3}{}%
-\contentsline {subsection}{\numberline {2.4}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{4}{}%
-\contentsline {subsection}{\numberline {2.5}Typische Problemstellen in Webanwendungen}{4}{}%
-\contentsline {section}{\numberline {3}Material und Methode}{5}{}%
-\contentsline {subsection}{\numberline {3.1}Teilnehmerauswahl}{5}{}%
-\contentsline {subsection}{\numberline {3.2}Durchführung der Beobachtungen und Interviews}{5}{}%
-\contentsline {subsection}{\numberline {3.3}Erstellung des Fragebogens}{6}{}%
-\contentsline {subsection}{\numberline {3.4}Entwicklung von Aufgaben und Szenarien}{6}{}%
-\contentsline {subsection}{\numberline {3.5}Bereitstellung des Fragebogens}{8}{}%
-\contentsline {subsection}{\numberline {3.6}Rollenverteilung während der Studie}{8}{}%
-\contentsline {subsection}{\numberline {3.7}Durchführung der Studie}{8}{}%
-\contentsline {subsection}{\numberline {3.8}Nachbereitung und Auswertung der Studie}{9}{}%
-\contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{10}{}%
-\contentsline {section}{\numberline {4}Ergebnisse}{11}{}%
-\contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{11}{}%
-\contentsline {subsection}{\numberline {4.2}Zu Beginn der Durchführung}{13}{}%
-\contentsline {subsection}{\numberline {4.3}Während der Durchführung}{15}{}%
-\contentsline {subsection}{\numberline {4.4}Nach der Durchführung:}{19}{}%
-\contentsline {section}{\numberline {5}Diskussion}{24}{}%
-\contentsline {subsection}{\numberline {5.1}Hawthorne Effekt}{24}{}%
-\contentsline {subsection}{\numberline {5.2}ggf. Soziale Erwünschtheit}{24}{}%
-\contentsline {subsection}{\numberline {5.3}DECIDE Ansatz}{25}{}%
-\contentsline {subsection}{\numberline {5.4}Beobachtung}{25}{}%
-\contentsline {subsection}{\numberline {5.5}Hawthorne Effekt}{25}{}%
-\contentsline {subsection}{\numberline {5.6}Loud Thinking}{25}{}%
-\contentsline {subsection}{\numberline {5.7}Feldtest / Labortest}{25}{}%
-\contentsline {section}{\numberline {6}Anhang}{28}{}%
-\contentsline {subsection}{\numberline {6.1}bildungsgang}{29}{}%
-\contentsline {subsection}{\numberline {6.2}sorgeberechtigte-liste}{30}{}%
-\contentsline {subsection}{\numberline {6.3}sorgeberechtigter-person}{31}{}%
-\contentsline {subsection}{\numberline {6.4}sorgeberechtigter-anschrift}{32}{}%
-\contentsline {subsection}{\numberline {6.5}sorgeberechtigter-kontakt}{33}{}%
-\contentsline {subsection}{\numberline {6.6}notfallkontakt-daten}{34}{}%
-\contentsline {subsection}{\numberline {6.7}notfallkontakt-liste}{35}{}%
-\contentsline {subsection}{\numberline {6.8}migrationshintergrund-liegtvor}{36}{}%
-\contentsline {subsection}{\numberline {6.9}migrationshintergrund-liegtnichtvor}{37}{}%
-\contentsline {subsection}{\numberline {6.10}qualifikation}{38}{}%
-\contentsline {subsection}{\numberline {6.11}letztetaetigkeit}{39}{}%
-\contentsline {subsection}{\numberline {6.12}aufnahmeberatung}{40}{}%
-\contentsline {subsection}{\numberline {6.13}bemerkungen}{41}{}%
-\contentsline {subsection}{\numberline {6.14}zusammenfassung}{42}{}%
-\contentsline {subsection}{\numberline {6.15}bestaetigung}{43}{}%
-\contentsline {subsection}{\numberline {6.16}update-bewerbung}{44}{}%
-\contentsline {section}{\numberline {7}Literatur}{45}{}%
+\contentsline {subsection}{\numberline {2.4}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{3}{}%
+\contentsline {section}{\numberline {3}Material und Methode}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Teilnehmerauswahl}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Durchführung der Beobachtungen und Interviews}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Erstellung des Fragebogens}{5}{}%
+\contentsline {subsection}{\numberline {3.4}Entwicklung von Aufgaben und Szenarien}{5}{}%
+\contentsline {subsection}{\numberline {3.5}Bereitstellung des Fragebogens}{6}{}%
+\contentsline {subsection}{\numberline {3.6}Rollenverteilung während der Studie}{7}{}%
+\contentsline {subsection}{\numberline {3.7}Durchführung der Studie}{7}{}%
+\contentsline {subsection}{\numberline {3.8}Nachbereitung und Auswertung der Studie}{8}{}%
+\contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{8}{}%
+\contentsline {section}{\numberline {4}Ergebnisse}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Zu Beginn der Durchführung}{11}{}%
+\contentsline {subsection}{\numberline {4.3}Während der Durchführung}{13}{}%
+\contentsline {subsection}{\numberline {4.4}Nach der Durchführung:}{16}{}%
+\contentsline {section}{\numberline {5}Diskussion}{21}{}%
+\contentsline {subsection}{\numberline {5.1}Hawthorne Effekt}{22}{}%
+\contentsline {subsection}{\numberline {5.2}ggf. Soziale Erwünschtheit}{22}{}%
+\contentsline {subsection}{\numberline {5.3}DECIDE Ansatz}{22}{}%
+\contentsline {subsection}{\numberline {5.4}Beobachtung}{22}{}%
+\contentsline {subsection}{\numberline {5.5}Hawthorne Effekt}{22}{}%
+\contentsline {subsection}{\numberline {5.6}Loud Thinking}{22}{}%
+\contentsline {subsection}{\numberline {5.7}Feldtest / Labortest}{22}{}%
+\contentsline {section}{\numberline {6}Anhang}{25}{}%
+\contentsline {subsection}{\numberline {6.1}bildungsgang}{26}{}%
+\contentsline {subsection}{\numberline {6.2}sorgeberechtigte-liste}{27}{}%
+\contentsline {subsection}{\numberline {6.3}sorgeberechtigter-person}{28}{}%
+\contentsline {subsection}{\numberline {6.4}sorgeberechtigter-anschrift}{29}{}%
+\contentsline {subsection}{\numberline {6.5}sorgeberechtigter-kontakt}{30}{}%
+\contentsline {subsection}{\numberline {6.6}notfallkontakt-daten}{31}{}%
+\contentsline {subsection}{\numberline {6.7}notfallkontakt-liste}{32}{}%
+\contentsline {subsection}{\numberline {6.8}migrationshintergrund-liegtvor}{33}{}%
+\contentsline {subsection}{\numberline {6.9}migrationshintergrund-liegtnichtvor}{34}{}%
+\contentsline {subsection}{\numberline {6.10}qualifikation}{35}{}%
+\contentsline {subsection}{\numberline {6.11}letztetaetigkeit}{36}{}%
+\contentsline {subsection}{\numberline {6.12}aufnahmeberatung}{37}{}%
+\contentsline {subsection}{\numberline {6.13}bemerkungen}{38}{}%
+\contentsline {subsection}{\numberline {6.14}zusammenfassung}{39}{}%
+\contentsline {subsection}{\numberline {6.15}bestaetigung}{40}{}%
+\contentsline {subsection}{\numberline {6.16}update-bewerbung}{41}{}%
+\contentsline {section}{\numberline {7}Literatur}{42}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 20:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,20 +734,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (ausarbeitung.aux)
 \openout1 = `ausarbeitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
@@ -777,8 +777,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ausarbeitung.bbl' found.
  (ausarbeitung.bbl)
-Package biblatex Info: Reference section=0 on input line 49.
-Package biblatex Info: Reference segment=0 on input line 49.
+Package biblatex Info: Reference section=0 on input line 48.
+Package biblatex Info: Reference segment=0 on input line 48.
 
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -824,7 +824,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \headheight=17.0pt
 * \headsep=20.40001pt
 * \topskip=11.0pt
-* \footskip=47.6pt
+* \footskip=28.45274pt
 * \marginparwidth=59.7508pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
@@ -842,12 +842,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 {C:/Users/lukas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
-2.
+1.
 
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (11.92545pt too wide) in paragraph at lines 75--80
+Overfull \hbox (11.92545pt too wide) in paragraph at lines 74--79
 \T1/cmr/m/n/10 stimm-ten Richt-li-ni-en ent-spre-chen müs-sen. Dies gilt im Be-
 son-de-ren für Ab-schluss-ar-bei-ten (Bachelor-
  []
@@ -1023,13 +1023,13 @@ Overfull \vbox (12.6868pt too high) has occurred while \output is active []
 
 
 [36 <./abbildungen//update-bewerbung.png>])
-Overfull \hbox (16.68117pt too wide) in paragraph at lines 99--99
+Overfull \hbox (16.68117pt too wide) in paragraph at lines 98--98
 []\T1/cmr/m/n/10.95 ``Ergonomie der Mensch-System-Interaktion ^^U Teil 110: In-
 ter-ak-ti-ons-prin-zi-pi-en (ISO 9241-110:2020);
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
-8.
+7.
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1049,10 +1049,10 @@ Package logreq Info: Writing requests to 'ausarbeitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16219 strings out of 478338
- 329608 string characters out of 2836700
- 1135575 words of memory out of 3000000
- 34406 multiletter control sequences out of 15000+600000
+ 16221 strings out of 478338
+ 329630 string characters out of 2836700
+ 1135624 words of memory out of 3000000
+ 34408 multiletter control sequences out of 15000+600000
  488546 words of font info for 62 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,12n,106p,10609b,2467s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1076,7 +1076,7 @@ Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk
 dpi600\ecbi2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
 en/ec/dpi600\ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\eccc1728.pk>
-Output written on ausarbeitung.pdf (41 pages, 863963 bytes).
+Output written on ausarbeitung.pdf (41 pages, 864608 bytes).
 PDF statistics:
  776 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

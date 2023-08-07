@@ -35,6 +35,13 @@
     \field{year}{2020}
   \endentry
 
+  \entry{stangl-beduerfnis}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{http://lexikon.stangl.eu/13476/beduerfnis}}
+    \field{note}{Accessed: 2023-08-06}
+    \field{title}{Stangl: Bedürfnis}
+  \endentry
+
   \entry{Kruse_2015}{book}{}
     \name{author}{1}{}{%
       {{hash=KJ}{%

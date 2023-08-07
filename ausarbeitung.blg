@@ -22,49 +22,47 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: ausarbeitung-blx.bib
 Database file #2: literatur/literatur.bib
-Warning--I didn't find a database entry for "stangl-beduerfnis"
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 4 entries,
+You've used 5 entries,
             6399 wiz_defined-function locations,
-            1222 strings with 9519 characters,
-and the built_in function-call counts, 14144 in all, are:
-= -- 1048
+            1225 strings with 9604 characters,
+and the built_in function-call counts, 15539 in all, are:
+= -- 1082
 > -- 322
-< -- 206
-+ -- 311
+< -- 215
++ -- 312
 - -- 53
-* -- 384
-:= -- 979
+* -- 427
+:= -- 1001
 add.period$ -- 0
-call.type$ -- 4
-change.case$ -- 181
+call.type$ -- 5
+change.case$ -- 183
 chr.to.int$ -- 48
-cite$ -- 6
-duplicate$ -- 1433
-empty$ -- 1330
+cite$ -- 8
+duplicate$ -- 1635
+empty$ -- 1570
 format.name$ -- 48
-if$ -- 3332
+if$ -- 3661
 int.to.chr$ -- 0
-int.to.str$ -- 8
+int.to.str$ -- 9
 missing$ -- 0
-newline$ -- 66
+newline$ -- 73
 num.names$ -- 216
-pop$ -- 1020
+pop$ -- 1341
 preamble$ -- 1
-purify$ -- 184
+purify$ -- 186
 quote$ -- 0
-skip$ -- 854
+skip$ -- 917
 stack$ -- 0
-substring$ -- 1334
-swap$ -- 409
-text.length$ -- 58
+substring$ -- 1340
+swap$ -- 469
+text.length$ -- 67
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 119
+type$ -- 153
 warning$ -- 0
-while$ -- 126
+while$ -- 127
 width$ -- 0
-write$ -- 63
-(There was 1 warning)
+write$ -- 69

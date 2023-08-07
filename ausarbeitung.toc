@@ -21,30 +21,28 @@
 \contentsline {subsection}{\numberline {4.3}Während der Durchführung}{10}{}%
 \contentsline {subsection}{\numberline {4.4}Nach der Durchführung:}{13}{}%
 \contentsline {section}{\numberline {5}Diskussion}{16}{}%
-\contentsline {subsection}{\numberline {5.1}Hawthorne Effekt}{17}{}%
-\contentsline {subsection}{\numberline {5.2}ggf. Soziale Erwünschtheit}{17}{}%
-\contentsline {subsection}{\numberline {5.3}DECIDE Ansatz}{17}{}%
-\contentsline {subsection}{\numberline {5.4}Beobachtung}{17}{}%
-\contentsline {subsection}{\numberline {5.5}Hawthorne Effekt}{17}{}%
-\contentsline {subsection}{\numberline {5.6}Loud Thinking}{17}{}%
-\contentsline {subsection}{\numberline {5.7}Feldtest / Labortest}{17}{}%
-\contentsline {section}{\numberline {6}Anhang}{20}{}%
-\contentsline {subsection}{\numberline {6.1}bildungsgang}{20}{}%
-\contentsline {subsection}{\numberline {6.2}bildungsgang}{21}{}%
-\contentsline {subsection}{\numberline {6.3}sorgeberechtigte-liste}{22}{}%
-\contentsline {subsection}{\numberline {6.4}sorgeberechtigter-person}{23}{}%
-\contentsline {subsection}{\numberline {6.5}sorgeberechtigter-anschrift}{24}{}%
-\contentsline {subsection}{\numberline {6.6}sorgeberechtigter-kontakt}{25}{}%
-\contentsline {subsection}{\numberline {6.7}notfallkontakt-daten}{26}{}%
-\contentsline {subsection}{\numberline {6.8}notfallkontakt-liste}{27}{}%
-\contentsline {subsection}{\numberline {6.9}migrationshintergrund-liegtvor}{28}{}%
-\contentsline {subsection}{\numberline {6.10}migrationshintergrund-liegtnichtvor}{29}{}%
-\contentsline {subsection}{\numberline {6.11}qualifikation}{30}{}%
-\contentsline {subsection}{\numberline {6.12}letztetaetigkeit}{31}{}%
-\contentsline {subsection}{\numberline {6.13}aufnahmeberatung}{32}{}%
-\contentsline {subsection}{\numberline {6.14}bemerkungen}{33}{}%
-\contentsline {subsection}{\numberline {6.15}zusammenfassung}{34}{}%
-\contentsline {subsection}{\numberline {6.16}bestaetigung}{35}{}%
-\contentsline {subsection}{\numberline {6.17}update-bewerbung}{36}{}%
-\contentsline {section}{\numberline {7}Literatur}{37}{}%
+\contentsline {subsection}{\numberline {5.1}Zusammenfassung}{16}{}%
+\contentsline {subsection}{\numberline {5.2}Kritische Analyse}{17}{}%
+\contentsline {subsection}{\numberline {5.3}Interpretation der Erfordernisse}{17}{}%
+\contentsline {subsection}{\numberline {5.4}Fazit}{18}{}%
+\contentsline {subsection}{\numberline {5.5}Ausblick}{18}{}%
+\contentsline {section}{\numberline {6}Anhang}{19}{}%
+\contentsline {subsection}{\numberline {6.1}bildungsgang}{19}{}%
+\contentsline {subsection}{\numberline {6.2}bildungsgang}{20}{}%
+\contentsline {subsection}{\numberline {6.3}sorgeberechtigte-liste}{21}{}%
+\contentsline {subsection}{\numberline {6.4}sorgeberechtigter-person}{22}{}%
+\contentsline {subsection}{\numberline {6.5}sorgeberechtigter-anschrift}{23}{}%
+\contentsline {subsection}{\numberline {6.6}sorgeberechtigter-kontakt}{24}{}%
+\contentsline {subsection}{\numberline {6.7}notfallkontakt-daten}{25}{}%
+\contentsline {subsection}{\numberline {6.8}notfallkontakt-liste}{26}{}%
+\contentsline {subsection}{\numberline {6.9}migrationshintergrund-liegtvor}{27}{}%
+\contentsline {subsection}{\numberline {6.10}migrationshintergrund-liegtnichtvor}{28}{}%
+\contentsline {subsection}{\numberline {6.11}qualifikation}{29}{}%
+\contentsline {subsection}{\numberline {6.12}letztetaetigkeit}{30}{}%
+\contentsline {subsection}{\numberline {6.13}aufnahmeberatung}{31}{}%
+\contentsline {subsection}{\numberline {6.14}bemerkungen}{32}{}%
+\contentsline {subsection}{\numberline {6.15}zusammenfassung}{33}{}%
+\contentsline {subsection}{\numberline {6.16}bestaetigung}{34}{}%
+\contentsline {subsection}{\numberline {6.17}update-bewerbung}{35}{}%
+\contentsline {section}{\numberline {7}Literatur}{36}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

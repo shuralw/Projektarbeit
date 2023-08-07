@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 21:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -847,11 +847,6 @@ LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (11.92545pt too wide) in paragraph at lines 75--80
-\T1/cmr/m/n/10 stimm-ten Richt-li-ni-en ent-spre-chen müs-sen. Dies gilt im Be-
-son-de-ren für Ab-schluss-ar-bei-ten (Bachelor-
- []
-
 (ausarbeitung.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 4.
@@ -1050,13 +1045,13 @@ Overfull \vbox (12.6868pt too high) has occurred while \output is active []
 
 
 [37 <./abbildungen//update-bewerbung.png>])
-Overfull \hbox (16.68117pt too wide) in paragraph at lines 103--103
+Overfull \hbox (16.68117pt too wide) in paragraph at lines 99--99
 []\T1/cmr/m/n/10.95 ``Ergonomie der Mensch-System-Interaktion ^^U Teil 110: In-
 ter-ak-ti-ons-prin-zi-pi-en (ISO 9241-110:2020);
  []
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-02.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
+8.
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1103,9 +1098,9 @@ Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk
 dpi600\ecbi2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
 en/ec/dpi600\ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\eccc1728.pk>
-Output written on ausarbeitung.pdf (43 pages, 872146 bytes).
+Output written on ausarbeitung.pdf (43 pages, 861806 bytes).
 PDF statistics:
- 804 PDF objects out of 1000 (max. 8388607)
+ 774 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -23,7 +23,7 @@
 \contentsline {section}{\numberline {5}Diskussion}{16}{}%
 \contentsline {subsection}{\numberline {5.1}Zusammenfassung}{16}{}%
 \contentsline {subsection}{\numberline {5.2}Kritische Analyse}{17}{}%
-\contentsline {subsection}{\numberline {5.3}Interpretation der Erfordernisse}{17}{}%
+\contentsline {subsection}{\numberline {5.3}Interpretation der Ergebnisse}{17}{}%
 \contentsline {subsection}{\numberline {5.4}Fazit}{18}{}%
 \contentsline {subsection}{\numberline {5.5}Ausblick}{18}{}%
 \contentsline {section}{\numberline {6}Anhang}{19}{}%

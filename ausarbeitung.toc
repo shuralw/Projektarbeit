@@ -7,22 +7,22 @@
 \contentsline {subsection}{\numberline {2.4}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{2}{}%
 \contentsline {section}{\numberline {3}Material und Methode}{3}{}%
 \contentsline {subsection}{\numberline {3.1}Teilnehmerauswahl}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Durchführung der Beobachtungen und Interviews}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Umgebungsbedingungen der Beobachtungen und Interviews}{3}{}%
 \contentsline {subsection}{\numberline {3.3}Erstellung des Fragebogens}{4}{}%
 \contentsline {subsection}{\numberline {3.4}Entwicklung von Aufgaben und Szenarien}{4}{}%
-\contentsline {subsection}{\numberline {3.5}Bereitstellung des Fragebogens}{5}{}%
+\contentsline {subsection}{\numberline {3.5}Bereitstellung des Fragebogens}{6}{}%
 \contentsline {subsection}{\numberline {3.6}Rollenverteilung während der Studie}{6}{}%
 \contentsline {subsection}{\numberline {3.7}Durchführung der Studie}{6}{}%
 \contentsline {subsection}{\numberline {3.8}Nachbereitung und Auswertung der Studie}{7}{}%
 \contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{7}{}%
-\contentsline {section}{\numberline {4}Ergebnisse}{7}{}%
+\contentsline {section}{\numberline {4}Ergebnisse}{8}{}%
 \contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{8}{}%
 \contentsline {subsection}{\numberline {4.2}Zu Beginn der Durchführung}{9}{}%
 \contentsline {subsection}{\numberline {4.3}Während der Durchführung}{10}{}%
 \contentsline {subsection}{\numberline {4.4}Nach der Durchführung:}{13}{}%
 \contentsline {section}{\numberline {5}Diskussion}{16}{}%
-\contentsline {subsection}{\numberline {5.1}Hawthorne Effekt}{16}{}%
-\contentsline {subsection}{\numberline {5.2}ggf. Soziale Erwünschtheit}{16}{}%
+\contentsline {subsection}{\numberline {5.1}Hawthorne Effekt}{17}{}%
+\contentsline {subsection}{\numberline {5.2}ggf. Soziale Erwünschtheit}{17}{}%
 \contentsline {subsection}{\numberline {5.3}DECIDE Ansatz}{17}{}%
 \contentsline {subsection}{\numberline {5.4}Beobachtung}{17}{}%
 \contentsline {subsection}{\numberline {5.5}Hawthorne Effekt}{17}{}%

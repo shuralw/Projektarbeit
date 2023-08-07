@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 21:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -893,14 +893,14 @@ r Su-che nach der Postleitzahl-Ort-Kombination.
  []
 
 [11] [12] [13] [14] [15]) (kapitel/diskussionv2.tex [16] [17])
-(kapitel/anhang.tex
-<./abbildungen//bildungsgang.png, id=90, 1251.17438pt x 603.0028pt>
+(kapitel/anhang.tex [18]
+<./abbildungen//bildungsgang.png, id=93, 1251.17438pt x 603.0028pt>
 File: ./abbildungen//bildungsgang.png Graphic file (type png)
 <use ./abbildungen//bildungsgang.png>
 Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 9.
 
 (pdftex.def)             Requested size: 1251.17134pt x 603.00133pt.
- [18] [19 <./abbildungen//bildungsgang.png>]
+ [19 <./abbildungen//bildungsgang.png>]
 File: ./abbildungen//bildungsgang.png Graphic file (type png)
 <use ./abbildungen//bildungsgang.png>
 Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 20
@@ -1082,9 +1082,9 @@ Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk
 dpi600\ecbi2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
 en/ec/dpi600\ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\eccc1728.pk>
-Output written on ausarbeitung.pdf (40 pages, 866787 bytes).
+Output written on ausarbeitung.pdf (40 pages, 867666 bytes).
 PDF statistics:
- 789 PDF objects out of 1000 (max. 8388607)
+ 791 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

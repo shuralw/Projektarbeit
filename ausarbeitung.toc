@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {3.7}Durchführung der Studie}{6}{}%
 \contentsline {subsection}{\numberline {3.8}Nachbereitung und Auswertung der Studie}{7}{}%
 \contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{7}{}%
-\contentsline {section}{\numberline {4}Ergebnisse}{7}{}%
+\contentsline {section}{\numberline {4}Ergebnisse}{8}{}%
 \contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{8}{}%
 \contentsline {subsection}{\numberline {4.2}Unmittelbar vor der Durchführung}{9}{}%
 \contentsline {subsection}{\numberline {4.3}Während der Durchführung}{10}{}%

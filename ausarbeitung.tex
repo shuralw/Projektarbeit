@@ -46,6 +46,7 @@
 \date{\today}
 
 \begin{document}
+\pagenumbering{gobble} % Keine Seitenzahlen bis hier
 
 \makeatletter
 \begin{titlepage}
@@ -81,13 +82,17 @@ Daher ist es ratsam, sich möglichst frühzeitig mit den inhaltlichen und formal
 \vfill
 \tableofcontents
 \pagebreak
+\input{kapitel/gender-hinweis}
+\pagebreak
 
+\pagenumbering{arabic} % Beginnt die Seitennummerierung ab hier mit arabischen Zahlen
 \setcounter{page}{1}
 \input{kapitel/einleitung}
 \input{kapitel/theorie}
 \input{kapitel/materialmethode_v2}
 \input{kapitel/ergebnisse_generated}
 \input{kapitel/diskussionv2}
+\input{kapitel/eigenstaendigkeitserklaerung}
 \input{kapitel/anhang}
 
 %\appendix

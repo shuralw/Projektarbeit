@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{7}{}%
 \contentsline {section}{\numberline {4}Ergebnisse}{7}{}%
 \contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{8}{}%
-\contentsline {subsection}{\numberline {4.2}Zu Beginn der Durchführung}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Unmittelbar vor der Durchführung}{9}{}%
 \contentsline {subsection}{\numberline {4.3}Während der Durchführung}{10}{}%
 \contentsline {subsection}{\numberline {4.4}Nach der Durchführung:}{13}{}%
 \contentsline {section}{\numberline {5}Diskussion}{16}{}%

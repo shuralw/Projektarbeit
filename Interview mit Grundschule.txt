@@ -169,7 +169,7 @@ Während der Durchführung:
 
 Bildungsgang
 - Die Meldung zur \textit{vorzeitigen Schulaufnahme} ist irritiert
-- Bildungsgangbezeichnung verwirrend/unbekannt
+- Werte des DropdownsBildungsgang verwirrend/unbekannt
 - Beschulungsende wird leergelassen, weil noch nicht bekannt
  	
 
@@ -383,6 +383,7 @@ Haben Sie sämtliche Inhalte der Aufgabe verstanden? Gab es Stellen, an denen Si
 
 Gab es Schwierigkeiten oder Verwirrungen bei der Aufgabe? Wenn ja, welche?		
 - Nein
+
 
 
 

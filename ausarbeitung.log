@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  7 AUG 2023 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -864,12 +864,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `ausarbeitung.toc'.
 
  [4] (kapitel/einleitung.tex) (kapitel/theorie.tex
-[1] [2]) (kapitel/materialmethode_v2.tex
+[1]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 4.
+(Font)              <9> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4.
- [3]
+(Font)              <5> on input line 21.
+ [2]) (kapitel/materialmethode_v2.tex [3]
 <./abbildungen//einordnung-der-aufgaben-in-kontext.png, id=39, 964.60374pt x 63
 3.36626pt>
 File: ./abbildungen//einordnung-der-aufgaben-in-kontext.png Graphic file (type 
@@ -886,15 +886,21 @@ Package pdftex.def Info: ./abbildungen//konstellationenv3.png  used on input li
 ne 44.
 (pdftex.def)             Requested size: 469.47049pt x 341.59824pt.
  [5 <./abbildungen//konstellationenv3.png>] [6])
-(kapitel/ergebnisse_generated.tex [7] [8] [9] [10] [11] [12] [13] [14] [15])
-(kapitel/diskussion.tex [16] [17] [18]) (kapitel/anhang.tex
-<./abbildungen//bildungsgang.png, id=93, 1251.17438pt x 603.0028pt>
+(kapitel/ergebnisse_generated.tex [7] [8] [9] [10]
+Overfull \hbox (10.52052pt too wide) in paragraph at lines 98--99
+\T1/cmr/m/n/10.95 voll-jäh-rig ist. Sie hat-te zu-dem Schwie-rig-kei-ten mit de
+r Su-che nach der Postleitzahl-Ort-Kombination. 
+ []
+
+[11] [12] [13] [14] [15]) (kapitel/diskussion.tex [16] [17] [18] [19])
+(kapitel/anhang.tex
+<./abbildungen//bildungsgang.png, id=96, 1251.17438pt x 603.0028pt>
 File: ./abbildungen//bildungsgang.png Graphic file (type png)
 <use ./abbildungen//bildungsgang.png>
 Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 9.
 
 (pdftex.def)             Requested size: 1251.17134pt x 603.00133pt.
- [19] [20 <./abbildungen//bildungsgang.png>]
+ [20 <./abbildungen//bildungsgang.png>]
 File: ./abbildungen//bildungsgang.png Graphic file (type png)
 <use ./abbildungen//bildungsgang.png>
 Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 20
@@ -1076,9 +1082,9 @@ Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk
 dpi600\ecbi2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
 en/ec/dpi600\ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\eccc1728.pk>
-Output written on ausarbeitung.pdf (41 pages, 864737 bytes).
+Output written on ausarbeitung.pdf (41 pages, 868358 bytes).
 PDF statistics:
- 776 PDF objects out of 1000 (max. 8388607)
+ 787 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

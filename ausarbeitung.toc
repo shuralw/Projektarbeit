@@ -1,10 +1,11 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{1}{}%
 \contentsline {section}{\numberline {2}Theoretischer Hintergrund}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Definition von Effektivität im Rahmen dieser Ausarbeitung}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Definition von Zufriedenstellung im Rahmen dieser Ausarbeitung}{2}{}%
-\contentsline {subsection}{\numberline {2.3}Definition von Problemstellen im Rahmen dieser Ausarbeitung}{2}{}%
-\contentsline {subsection}{\numberline {2.4}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Die Webanwendung \textit {Schüler Online}}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Definition von Effektivität im Rahmen dieser Ausarbeitung}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Definition von Zufriedenstellung im Rahmen dieser Ausarbeitung}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Definition von Problemstellen im Rahmen dieser Ausarbeitung}{2}{}%
+\contentsline {subsection}{\numberline {2.5}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{2}{}%
 \contentsline {section}{\numberline {3}Material und Methode}{3}{}%
 \contentsline {subsection}{\numberline {3.1}Teilnehmerauswahl}{3}{}%
 \contentsline {subsection}{\numberline {3.2}Umgebungsbedingungen der Beobachtungen und Interviews}{3}{}%

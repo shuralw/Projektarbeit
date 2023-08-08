@@ -8,8 +8,10 @@
 
 \usepackage[ngerman]{babel} % Einstellungen für den deutschen Sprachraum, neue deutsche Rechtschreibung
 \ifPDFTeX
-  \usepackage[utf8]{inputenc} % Umlaute erkennen. Als Option in \glqq [] \glqq  die vom Editor verwendete Zeichencodierung auswählen
-  \usepackage[T1]{fontenc}
+	\usepackage[utf8]{inputenc} % Umlaute erkennen. Als Option in \glqq [] \glqq  die vom Editor verwendete Zeichencodierung auswählen
+	\usepackage[T1]{fontenc}
+	\defineshorthand{"<}{\glqq}
+	\defineshorthand{">}{\grqq{}}
 \fi
 
 % Für kompakter Aufzählungen

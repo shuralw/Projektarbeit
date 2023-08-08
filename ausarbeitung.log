@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  8 AUG 2023 19:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  8 AUG 2023 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -625,7 +625,7 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@chunks=\count398
 \LT@p@ftn=\toks20
 )
-Class scrartcl Info: longtable captions redefined on input line 27.
+Class scrartcl Info: longtable captions redefined on input line 29.
  (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen143
@@ -729,7 +729,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              `\addtokomafont' for the page style elements need
 (scrartcl)              explicite user intervention to work.
 (scrartcl)              Nevertheless, using requested
-(scrartcl)              package `fancyhdr' on input line 41.
+(scrartcl)              package `fancyhdr' on input line 43.
 
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
@@ -773,20 +773,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (ausarbeitung.aux)
 \openout1 = `ausarbeitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
@@ -816,8 +816,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ausarbeitung.bbl' found.
  (ausarbeitung.bbl)
-Package biblatex Info: Reference section=0 on input line 52.
-Package biblatex Info: Reference segment=0 on input line 52.
+Package biblatex Info: Reference section=0 on input line 54.
+Package biblatex Info: Reference segment=0 on input line 54.
 
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -881,7 +881,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 {C:/Users/lukas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
-6.
+8.
 
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -922,8 +922,15 @@ ne 44.
 (pdftex.def)             Requested size: 469.47049pt x 341.59824pt.
  [5 <./abbildungen//konstellationenv3.png>] [6])
 (kapitel/ergebnisse_generated.tex [7] [8] [9] [10] [11] [12] [13] [14] [15])
-(kapitel/diskussionv2.tex [16] [17] [18])
-(kapitel/eigenstaendigkeitserklaerung.tex [19]
+(kapitel/diskussionv2.tex [16]
+
+LaTeX Warning: Citation 'Norman' on page 17 undefined on input line 33.
+
+[17]
+
+LaTeX Warning: Citation 'Cooper' on page 18 undefined on input line 39.
+
+[18]) (kapitel/eigenstaendigkeitserklaerung.tex [19]
 <./abbildungen//eigenstaendigkeitserklaerung.png, id=100, 2961.56438pt x 1727.7
 0468pt>
 File: ./abbildungen//eigenstaendigkeitserklaerung.png Graphic file (type png)
@@ -931,7 +938,8 @@ File: ./abbildungen//eigenstaendigkeitserklaerung.png Graphic file (type png)
 Package pdftex.def Info: ./abbildungen//eigenstaendigkeitserklaerung.png  used 
 on input line 17.
 (pdftex.def)             Requested size: 2961.55719pt x 1727.70049pt.
-) (kapitel/anhang.tex [20 <./abbildungen//eigenstaendigkeitserklaerung.png>]
+) (kapitel/anhang.tex
+[20 <./abbildungen//eigenstaendigkeitserklaerung.png>]
 <./abbildungen//bewerbungsformular1.png, id=105, 789.70032pt x 1094.58937pt>
 File: ./abbildungen//bewerbungsformular1.png Graphic file (type png)
 <use ./abbildungen//bewerbungsformular1.png>
@@ -1069,13 +1077,13 @@ Overfull \vbox (12.6868pt too high) has occurred while \output is active []
 
 
 [39 <./abbildungen//update-bewerbung.png>])
-Overfull \hbox (16.68117pt too wide) in paragraph at lines 134--134
+Overfull \hbox (16.68117pt too wide) in paragraph at lines 136--136
 []\T1/cmr/m/n/10.95 ``Ergonomie der Mensch-System-Interaktion ^^U Teil 110: In-
 ter-ak-ti-ons-prin-zi-pi-en (ISO 9241-110:2020);
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-33.
+35.
 (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1095,10 +1103,10 @@ Package logreq Info: Writing requests to 'ausarbeitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16437 strings out of 478338
- 334167 string characters out of 2836700
- 1142328 words of memory out of 3000000
- 34609 multiletter control sequences out of 15000+600000
+ 16450 strings out of 478338
+ 334332 string characters out of 2836700
+ 1142364 words of memory out of 3000000
+ 34622 multiletter control sequences out of 15000+600000
  489372 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,12n,106p,10609b,2467s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1123,9 +1131,9 @@ dpi600\ecrm1440.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
 en/ec/dpi600\ecbi2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/l
 jfour/jknappen/ec/dpi600\eccc1728.pk>
-Output written on ausarbeitung.pdf (45 pages, 5337230 bytes).
+Output written on ausarbeitung.pdf (45 pages, 5340358 bytes).
 PDF statistics:
- 834 PDF objects out of 1000 (max. 8388607)
+ 835 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

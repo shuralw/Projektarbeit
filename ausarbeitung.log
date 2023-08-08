@@ -1,32 +1,36 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.5)  8 AUG 2023 14:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.17)  8 AUG 2023 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ausarbeitung
-(./ausarbeitung.tex
-LaTeX2e <2022-06-01> patch level 4
-L3 programming layer <2022-07-01>
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrartcl.cls
+**./ausarbeitung.tex
+(ausarbeitung.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04>
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cl
+s
 Document Class: scrartcl 2022/07/04 v3.37 KOMA-Script document class (article)
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrkbase.sty
+
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.st
+y
 Package: scrkbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrbase.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
 Package: scrbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
 Package: scrlfile 2022/07/04 v3.37 KOMA-Script package (file load hooks)
 
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
 Package: scrlfile-hook 2022/07/04 v3.37 KOMA-Script package (using LaTeX hooks)
 
 
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlogo.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2022/07/04 v3.37 KOMA-Script package (logo)
-)))
-(c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+))) (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
@@ -34,7 +38,8 @@ Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line
  368.
 ))
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/tocbasic.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
+y
 Package: tocbasic 2022/07/04 v3.37 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip47
 \scr@dte@tocline@numbox=\box51
@@ -119,11 +124,14 @@ Class scrartcl Warning: deprecated option `enabledeprecatedfontcommands'.
 
 Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
 ine 2319.
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt
+.clo
 File: scrsize11pt.clo 2022/07/04 v3.37 KOMA-Script font size class option (11pt
 )
 )
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/typearea.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.st
+y
 Package: typearea 2022/07/04 v3.37 KOMA-Script package (type area)
 \ta@bcor=\skip48
 \ta@div=\count185
@@ -212,42 +220,51 @@ Class scrartcl Info: Using old \@makefntext due to compatibility level
 (scrartcl)           less than 3.22 on input line 6275.
 Class scrartcl Info: Redefining `\numberline' on input line 6288.
 \bibindent=\dimen138
-)
-(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+) (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2022/06/26 3.77 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen139
-\l@unhyphenated=\language87
+\l@unhyphenated=\language79
 
-(c:/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
 
-(c:/texlive/2022/texmf-dist/tex/generic/babel-german/ngerman.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ld
+f
 Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
 phy)
 
-(c:/texlive/2022/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.l
+df
 Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
 aphy)
 Package babel Info: Making " an active character on input line 122.
 )))
-(c:/texlive/2022/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel
+-ngerman.tex
 Package babel Info: Importing font and identification data for ngerman
 (babel)             from babel-de.ini. Reported on input line 11.
 )
-(c:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(c:/texlive/2022/texmf-dist/tex/latex/paralist/paralist.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/paralist\paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip63
 \plpartopsep=\skip64
@@ -255,44 +272,45 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plparsep=\skip66
 \pl@lab=\toks19
 )
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2022/07/02 v3.18a programmable bibliographies (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
-(c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count196
 )
-(c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(c:/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-(c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.sty
+)) (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count197
 
-(c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.def
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -349,15 +367,15 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip74
 \blx@bcfin=\read3
 \blx@bcfout=\write3
-\blx@langwohyphens=\language88
+\blx@langwohyphens=\language80
 \c@mincomprange=\count307
 \c@maxcomprange=\count308
 \c@mincompwidth=\count309
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2022/07/02 v3.18a biblatex localization (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
@@ -448,15 +466,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2022/07/02 v3.18a biblatex compatibility (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-bibtex.def
-File: blx-bibtex.def 2022/07/02 v3.18a biblatex compatibility (PK/MW)
-
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 
 Package biblatex Warning: Using fall-back BibTeX(8) backend:
 (biblatex)                functionality may be reduced/unavailable.
@@ -464,8 +481,8 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2022/07/02 v3.18a biblatex compatibility (PK/MW)
+ (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 \c@textcitecount=\count378
 \c@textcitetotal=\count379
 \c@textcitemaxnames=\count380
@@ -483,36 +500,40 @@ File: biblatex.def 2022/07/02 v3.18a biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
 File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2022/07/02 v3.18a biblatex bibliography style (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-co
+mp.bbx
+File: numeric-comp.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2022/07/02 v3.18a biblatex bibliography style (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2022/07/02 v3.18a biblatex bibliography style (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count387
 \c@bbx:relatedtotal=\count388
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
 File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2022/07/02 v3.18a biblatex citation style (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-co
+mp.cbx
+File: numeric-comp.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
 \c@cbx@tempcnta=\count389
 \c@cbx@tempcntb=\count390
 \c@cbx@tempcntc=\count391
@@ -536,119 +557,165 @@ Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
-(c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-07-01 L3 programming layer (loader) 
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-07-04 L3 programming layer (loader) 
 
-(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count393
 \l__pdf_internal_box=\box53
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2022-07-01 L3 programming layer (loader) 
+(biblatex)             2022-07-04 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-(c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
 Package: xparse 2022-06-22 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2022/07/02 v3.18a expl3 case changing code for biblatex
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 
 ))
-(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen140
 \Gin@req@width=\dimen141
+) (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip89
+\LTright=\skip90
+\LTpre=\skip91
+\LTpost=\skip92
+\LTchunksize=\count394
+\LTcapwidth=\dimen142
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count395
+\LT@rows=\count396
+\c@LT@tables=\count397
+\c@LT@chunks=\count398
+\LT@p@ftn=\toks20
 )
-(c:/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Class scrartcl Info: longtable captions redefined on input line 27.
+ (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen143
+\lightrulewidth=\dimen144
+\cmidrulewidth=\dimen145
+\belowrulesep=\dimen146
+\belowbottomsep=\dimen147
+\aboverulesep=\dimen148
+\abovetopsep=\dimen149
+\cmidrulesep=\dimen150
+\cmidrulekern=\dimen151
+\defaultaddspace=\dimen152
+\@cmidla=\count399
+\@cmidlb=\count400
+\@aboverulesep=\dimen153
+\@belowrulesep=\dimen154
+\@thisruleclass=\count401
+\@lastruleclass=\count402
+\@thisrulewidth=\dimen155
+)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 
-(c:/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-))
-(c:/texlive/2022/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
-
-(c:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+)))
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks20
-\XKV@tempa@toks=\toks21
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
 )
-\XKV@depth=\count394
+\XKV@depth=\count403
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(c:/texlive/2022/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(c:/texlive/2022/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(c:/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty
-Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box54
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box59
 )
-\tc@llx=\dimen142
-\tc@lly=\dimen143
-\tc@urx=\dimen144
-\tc@ury=\dimen145
+\tc@llx=\dimen156
+\tc@lly=\dimen157
+\tc@urx=\dimen158
+\tc@ury=\dimen159
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(c:/texlive/2022/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen146
-\adjbox@Height=\dimen147
-\adjbox@Depth=\dimen148
-\adjbox@Totalheight=\dimen149
-\adjbox@pwidth=\dimen150
-\adjbox@pheight=\dimen151
-\adjbox@pdepth=\dimen152
-\adjbox@ptotalheight=\dimen153
+\adjbox@Width=\dimen160
+\adjbox@Height=\dimen161
+\adjbox@Depth=\dimen162
+\adjbox@Totalheight=\dimen163
+\adjbox@pwidth=\dimen164
+\adjbox@pheight=\dimen165
+\adjbox@pdepth=\dimen166
+\adjbox@ptotalheight=\dimen167
 
-(c:/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count395
-)
-(c:/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count404
+) (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box55
-\sift@deathcycles=\count396
-\@vwid@loff=\dimen154
-\@vwid@roff=\dimen155
-))
-(c:/texlive/2022/texmf-dist/tex/latex/float/float.sty
+\@vwid@box=\box60
+\sift@deathcycles=\count405
+\@vwid@loff=\dimen168
+\@vwid@roff=\dimen169
+)) (C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count397
-\float@exts=\toks22
-\float@box=\box56
-\@float@everytoks=\toks23
-\@floatcapt=\box57
+\c@float@type=\count406
+\float@exts=\toks23
+\float@box=\box61
+\@float@everytoks=\toks24
+\@floatcapt=\box62
 )
 
 Class scrartcl Warning: Usage of package `fancyhdr' together
@@ -662,79 +729,81 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              `\addtokomafont' for the page style elements need
 (scrartcl)              explicite user intervention to work.
 (scrartcl)              Nevertheless, using requested
-(scrartcl)              package `fancyhdr' on input line 37.
+(scrartcl)              package `fancyhdr' on input line 41.
 
-(c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip89
-\f@nch@O@elh=\skip90
-\f@nch@O@erh=\skip91
-\f@nch@O@olh=\skip92
-\f@nch@O@orh=\skip93
-\f@nch@O@elf=\skip94
-\f@nch@O@erf=\skip95
-\f@nch@O@olf=\skip96
-\f@nch@O@orf=\skip97
+\f@nch@headwidth=\skip93
+\f@nch@O@elh=\skip94
+\f@nch@O@erh=\skip95
+\f@nch@O@olh=\skip96
+\f@nch@O@orh=\skip97
+\f@nch@O@elf=\skip98
+\f@nch@O@erf=\skip99
+\f@nch@O@olf=\skip100
+\f@nch@O@orf=\skip101
 )
-(c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count398
-\Gm@cntv=\count399
-\c@Gm@tempcnt=\count400
-\Gm@bindingoffset=\dimen156
-\Gm@wd@mp=\dimen157
-\Gm@odd@mp=\dimen158
-\Gm@even@mp=\dimen159
-\Gm@layoutwidth=\dimen160
-\Gm@layoutheight=\dimen161
-\Gm@layouthoffset=\dimen162
-\Gm@layoutvoffset=\dimen163
-\Gm@dimlist=\toks24
-)
+\Gm@cnth=\count407
+\Gm@cntv=\count408
+\c@Gm@tempcnt=\count409
+\Gm@bindingoffset=\dimen170
+\Gm@wd@mp=\dimen171
+\Gm@odd@mp=\dimen172
+\Gm@even@mp=\dimen173
+\Gm@layoutwidth=\dimen174
+\Gm@layoutheight=\dimen175
+\Gm@layouthoffset=\dimen176
+\Gm@layoutvoffset=\dimen177
+\Gm@dimlist=\toks25
+
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count401
-\@quotereset=\count402
-(./ausarbeitung.aux)
+\@quotelevel=\count410
+\@quotereset=\count411
+(ausarbeitung.aux)
 \openout1 = `ausarbeitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
-File: ngerman.lbx 2022/07/02 v3.18a biblatex localization (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lb
+x
+File: ngerman.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2022/07/02 v3.18a biblatex localization (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2022/07/02 v3.18a biblatex localization (PK/MW)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 ))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -746,32 +815,34 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ausarbeitung.bbl' found.
+ (ausarbeitung.bbl)
+Package biblatex Info: Reference section=0 on input line 52.
+Package biblatex Info: Reference segment=0 on input line 52.
 
-(./ausarbeitung.bbl)
-Package biblatex Info: Reference section=0 on input line 48.
-Package biblatex Info: Reference segment=0 on input line 48.
-
-(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count403
-\scratchdimen=\dimen164
-\scratchbox=\box58
-\nofMPsegments=\count404
-\nofMParguments=\count405
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count406
-\MPscratchDim=\dimen165
-\MPnumerator=\count407
-\makeMPintoPDFobject=\count408
-\everyMPtoPDFconversion=\toks26
-) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count412
+\scratchdimen=\dimen178
+\scratchbox=\box63
+\nofMPsegments=\count413
+\nofMParguments=\count414
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count415
+\MPscratchDim=\dimen179
+\MPnumerator=\count416
+\makeMPintoPDFobject=\count417
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -808,32 +879,33 @@ e
 
 [1
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/Users/lukas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
-2.
+6.
 
-(c:/texlive/2022/texmf-dist/tex/latex/base/t1cmss.fd
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (./ausarbeitung.toc
+)
+(ausarbeitung.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
-
-[2] [3])
+ [2] [3])
 \tf@toc=\write4
 \openout4 = `ausarbeitung.toc'.
 
- [4] (./kapitel/gender-hinweis.tex) [5] (./kapitel/einleitung.tex)
-(./kapitel/theorie.tex [1]
+ [4] (kapitel/gender-hinweis.tex) [5]
+(kapitel/einleitung.tex) (kapitel/theorie.tex [1]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 22.
- [2]) (./kapitel/materialmethode_v2.tex [3]
-<./abbildungen//einordnung-der-aufgaben-in-kontext.png, id=45, 964.60374pt x 63
+ [2])
+(kapitel/materialmethode_v2.tex [3]
+<./abbildungen//einordnung-der-aufgaben-in-kontext.png, id=44, 964.60374pt x 63
 3.36626pt>
 File: ./abbildungen//einordnung-der-aufgaben-in-kontext.png Graphic file (type 
 png)
@@ -842,184 +914,174 @@ Package pdftex.def Info: ./abbildungen//einordnung-der-aufgaben-in-kontext.png
  used on input line 31.
 (pdftex.def)             Requested size: 469.47049pt x 308.255pt.
  [4 <./abbildungen//einordnung-der-aufgaben-in-kontext.png>]
-<./abbildungen//konstellationenv3.png, id=51, 1234.6125pt x 898.35625pt>
+<./abbildungen//konstellationenv3.png, id=50, 1234.6125pt x 898.35625pt>
 File: ./abbildungen//konstellationenv3.png Graphic file (type png)
 <use ./abbildungen//konstellationenv3.png>
 Package pdftex.def Info: ./abbildungen//konstellationenv3.png  used on input li
 ne 44.
 (pdftex.def)             Requested size: 469.47049pt x 341.59824pt.
- [5 <./abbildungen//konstellationenv3.png>] [6]) (./kapitel/ergebnisse_generate
-d.tex [7] [8] [9] [10]
-[11] [12] [13] [14] [15]) (./kapitel/Diskussionv2.tex [16] [17] [18] [19])
-(./kapitel/eigenstaendigkeitserklaerung.tex [20]
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
+ [5 <./abbildungen//konstellationenv3.png>] [6])
+(kapitel/ergebnisse_generated.tex [7] [8] [9] [10] [11] [12] [13] [14] [15])
+(kapitel/diskussionv2.tex [16] [17] [18])
+(kapitel/eigenstaendigkeitserklaerung.tex [19]
+<./abbildungen//eigenstaendigkeitserklaerung.png, id=100, 2961.56438pt x 1727.7
+0468pt>
+File: ./abbildungen//eigenstaendigkeitserklaerung.png Graphic file (type png)
+<use ./abbildungen//eigenstaendigkeitserklaerung.png>
+Package pdftex.def Info: ./abbildungen//eigenstaendigkeitserklaerung.png  used 
+on input line 17.
+(pdftex.def)             Requested size: 2961.55719pt x 1727.70049pt.
+) (kapitel/anhang.tex [20 <./abbildungen//eigenstaendigkeitserklaerung.png>]
+<./abbildungen//bewerbungsformular1.png, id=105, 789.70032pt x 1094.58937pt>
+File: ./abbildungen//bewerbungsformular1.png Graphic file (type png)
+<use ./abbildungen//bewerbungsformular1.png>
+Package pdftex.def Info: ./abbildungen//bewerbungsformular1.png  used on input 
+line 10.
+(pdftex.def)             Requested size: 789.6984pt x 1094.5867pt.
+ [21 <./abbildungen//bewerbungsformular1.png>] [22
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
-
- []
-
-) (./kapitel/anhang.tex [21]
-<./abbildungen//bildungsgang.png, id=108, 1251.17438pt x 603.0028pt>
+]
+<./abbildungen//bildungsgang.png, id=113, 1251.17438pt x 603.0028pt>
 File: ./abbildungen//bildungsgang.png Graphic file (type png)
 <use ./abbildungen//bildungsgang.png>
-Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 10
+Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 78
 .
 (pdftex.def)             Requested size: 1251.17134pt x 603.00133pt.
- [22 <./abbildungen//bildungsgang.png>]
-File: ./abbildungen//bildungsgang.png Graphic file (type png)
-<use ./abbildungen//bildungsgang.png>
-Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 21
-.
-(pdftex.def)             Requested size: 1251.17134pt x 603.00133pt.
-<./abbildungen//sorgeberechtigte-liste.png, id=113, 1251.92719pt x 603.0028pt>
+ [23]
+<./abbildungen//sorgeberechtigte-liste.png, id=117, 1251.92719pt x 603.0028pt>
 File: ./abbildungen//sorgeberechtigte-liste.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigte-liste.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigte-liste.png  used on inp
-ut line 30.
+ut line 87.
 (pdftex.def)             Requested size: 1251.92413pt x 603.00133pt.
- [23
-
-]
-<./abbildungen//sorgeberechtigter-person.png, id=117, 363.60844pt x 462.22687pt
+ [24 <./abbildungen//bildungsgang.png>]
+<./abbildungen//sorgeberechtigter-person.png, id=122, 363.60844pt x 462.22687pt
 >
 File: ./abbildungen//sorgeberechtigter-person.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigter-person.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigter-person.png  used on i
-nput line 39.
+nput line 96.
 (pdftex.def)             Requested size: 363.60754pt x 462.22574pt.
-
-[24 <./abbildungen//sorgeberechtigte-liste.png>]
+ [25 <./abbildungen//sorgeberechtigte-liste.png>]
 Overfull \vbox (33.2415pt too high) has occurred while \output is active []
 
 
-[25 <./abbildungen//sorgeberechtigter-person.png>]
-<./abbildungen//sorgeberechtigter-anschrift.png, id=126, 915.42pt x 360.59718pt
+[26 <./abbildungen//sorgeberechtigter-person.png>]
+<./abbildungen//sorgeberechtigter-anschrift.png, id=132, 915.42pt x 360.59718pt
 >
 File: ./abbildungen//sorgeberechtigter-anschrift.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigter-anschrift.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigter-anschrift.png  used o
-n input line 48.
+n input line 105.
 (pdftex.def)             Requested size: 915.41777pt x 360.5963pt.
-<./abbildungen//sorgeberechtigter-kontakt.png, id=127, 365.11406pt x 280.04625p
+<./abbildungen//sorgeberechtigter-kontakt.png, id=133, 365.11406pt x 280.04625p
 t>
 File: ./abbildungen//sorgeberechtigter-kontakt.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigter-kontakt.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigter-kontakt.png  used on 
-input line 57.
+input line 114.
 (pdftex.def)             Requested size: 365.11316pt x 280.04555pt.
- [26 <./abbildungen//sorgeberechtigter-anschrift.png>]
-<./abbildungen//notfallkontakt-daten.png, id=133, 591.71063pt x 389.20406pt>
+ [27 <./abbildungen//sorgeberechtigter-anschrift.png>]
+<./abbildungen//notfallkontakt-daten.png, id=138, 591.71063pt x 389.20406pt>
 File: ./abbildungen//notfallkontakt-daten.png Graphic file (type png)
 <use ./abbildungen//notfallkontakt-daten.png>
 Package pdftex.def Info: ./abbildungen//notfallkontakt-daten.png  used on input
- line 66.
+ line 123.
 (pdftex.def)             Requested size: 591.70918pt x 389.20311pt.
- [27 <./abbildungen//sorgeberechtigter-kontakt.png>]
-<./abbildungen//notfallkontakt-liste.png, id=138, 1254.18562pt x 605.26125pt>
+ [28 <./abbildungen//sorgeberechtigter-kontakt.png>]
+<./abbildungen//notfallkontakt-liste.png, id=143, 1254.18562pt x 605.26125pt>
 File: ./abbildungen//notfallkontakt-liste.png Graphic file (type png)
 <use ./abbildungen//notfallkontakt-liste.png>
 Package pdftex.def Info: ./abbildungen//notfallkontakt-liste.png  used on input
- line 75.
+ line 132.
 (pdftex.def)             Requested size: 1254.18257pt x 605.25975pt.
 
-[28 <./abbildungen//notfallkontakt-daten.png>]
-<./abbildungen//migrationshintergrund-liegtvor.png, id=143, 1254.18562pt x 605.
+[29 <./abbildungen//notfallkontakt-daten.png>]
+<./abbildungen//migrationshintergrund-liegtvor.png, id=148, 1254.18562pt x 605.
 26125pt>
 File: ./abbildungen//migrationshintergrund-liegtvor.png Graphic file (type png)
 
 <use ./abbildungen//migrationshintergrund-liegtvor.png>
 Package pdftex.def Info: ./abbildungen//migrationshintergrund-liegtvor.png  use
-d on input line 84.
+d on input line 141.
 (pdftex.def)             Requested size: 1254.18257pt x 605.25975pt.
- [29 <./abbildungen//notfallkontakt-liste.png>]
-<./abbildungen//migrationshintergrund-liegtnichtvor.png, id=148, 1254.93843pt x
+ [30 <./abbildungen//notfallkontakt-liste.png>]
+<./abbildungen//migrationshintergrund-liegtnichtvor.png, id=153, 1254.93843pt x
  605.26125pt>
 File: ./abbildungen//migrationshintergrund-liegtnichtvor.png Graphic file (type
  png)
 <use ./abbildungen//migrationshintergrund-liegtnichtvor.png>
 Package pdftex.def Info: ./abbildungen//migrationshintergrund-liegtnichtvor.png
-  used on input line 93.
+  used on input line 150.
 (pdftex.def)             Requested size: 1254.93538pt x 605.25975pt.
- [30 <./abbildungen//migrationshintergrund-liegtvor.png>]
-<./abbildungen//qualifikation.png, id=153, 1254.93843pt x 607.51968pt>
+ [31 <./abbildungen//migrationshintergrund-liegtvor.png>]
+<./abbildungen//qualifikation.png, id=158, 1254.93843pt x 607.51968pt>
 File: ./abbildungen//qualifikation.png Graphic file (type png)
 <use ./abbildungen//qualifikation.png>
 Package pdftex.def Info: ./abbildungen//qualifikation.png  used on input line 1
-02.
+59.
 (pdftex.def)             Requested size: 1254.93538pt x 607.51819pt.
 
-[31 <./abbildungen//migrationshintergrund-liegtnichtvor.png>]
-<./abbildungen//letztetaetigkeit.png, id=158, 1254.18562pt x 605.26125pt>
+[32 <./abbildungen//migrationshintergrund-liegtnichtvor.png>]
+<./abbildungen//letztetaetigkeit.png, id=164, 1254.18562pt x 605.26125pt>
 File: ./abbildungen//letztetaetigkeit.png Graphic file (type png)
 <use ./abbildungen//letztetaetigkeit.png>
 Package pdftex.def Info: ./abbildungen//letztetaetigkeit.png  used on input lin
-e 111.
+e 168.
 (pdftex.def)             Requested size: 1254.18257pt x 605.25975pt.
- [32 <./abbildungen//qualifikation.png>]
-<./abbildungen//aufnahmeberatung.png, id=164, 1255.69125pt x 605.26125pt>
+ [33 <./abbildungen//qualifikation.png>]
+<./abbildungen//aufnahmeberatung.png, id=169, 1255.69125pt x 605.26125pt>
 File: ./abbildungen//aufnahmeberatung.png Graphic file (type png)
 <use ./abbildungen//aufnahmeberatung.png>
 Package pdftex.def Info: ./abbildungen//aufnahmeberatung.png  used on input lin
-e 120.
+e 177.
 (pdftex.def)             Requested size: 1255.6882pt x 605.25975pt.
- [33 <./abbildungen//letztetaetigkeit.png>]
-<./abbildungen//bemerkungen.png, id=169, 1254.93843pt x 605.26125pt>
+ [34 <./abbildungen//letztetaetigkeit.png>]
+<./abbildungen//bemerkungen.png, id=174, 1254.93843pt x 605.26125pt>
 File: ./abbildungen//bemerkungen.png Graphic file (type png)
 <use ./abbildungen//bemerkungen.png>
-Package pdftex.def Info: ./abbildungen//bemerkungen.png  used on input line 129
+Package pdftex.def Info: ./abbildungen//bemerkungen.png  used on input line 186
 .
 (pdftex.def)             Requested size: 1254.93538pt x 605.25975pt.
- [34 <./abbildungen//aufnahmeberatung.png>]
-<./abbildungen//zusammenfassung.png, id=174, 1254.18562pt x 607.51968pt>
+ [35 <./abbildungen//aufnahmeberatung.png>]
+<./abbildungen//zusammenfassung.png, id=179, 1254.18562pt x 607.51968pt>
 File: ./abbildungen//zusammenfassung.png Graphic file (type png)
 <use ./abbildungen//zusammenfassung.png>
 Package pdftex.def Info: ./abbildungen//zusammenfassung.png  used on input line
- 138.
+ 195.
 (pdftex.def)             Requested size: 1254.18257pt x 607.51819pt.
- [35 <./abbildungen//bemerkungen.png>]
-<./abbildungen//bestaetigung.png, id=179, 1253.43282pt x 606.76688pt>
+ [36 <./abbildungen//bemerkungen.png>]
+<./abbildungen//bestaetigung.png, id=184, 1253.43282pt x 606.76688pt>
 File: ./abbildungen//bestaetigung.png Graphic file (type png)
 <use ./abbildungen//bestaetigung.png>
-Package pdftex.def Info: ./abbildungen//bestaetigung.png  used on input line 14
-7.
+Package pdftex.def Info: ./abbildungen//bestaetigung.png  used on input line 20
+4.
 (pdftex.def)             Requested size: 1253.42976pt x 606.7654pt.
- [36 <./abbildungen//zusammenfassung.png>]
-<./abbildungen//update-bewerbung.png, id=184, 1252.68pt x 759.58781pt>
+ [37 <./abbildungen//zusammenfassung.png>]
+<./abbildungen//update-bewerbung.png, id=189, 1252.68pt x 759.58781pt>
 File: ./abbildungen//update-bewerbung.png Graphic file (type png)
 <use ./abbildungen//update-bewerbung.png>
 Package pdftex.def Info: ./abbildungen//update-bewerbung.png  used on input lin
-e 156.
+e 213.
 (pdftex.def)             Requested size: 1252.67694pt x 759.58595pt.
- [37 <./abbildungen//bestaetigung.png>]
+ [38 <./abbildungen//bestaetigung.png>]
 Overfull \vbox (12.6868pt too high) has occurred while \output is active []
 
 
-[38 <./abbildungen//update-bewerbung.png>])
-Overfull \hbox (16.68117pt too wide) in paragraph at lines 128--128
+[39 <./abbildungen//update-bewerbung.png>])
+Overfull \hbox (16.68117pt too wide) in paragraph at lines 134--134
 []\T1/cmr/m/n/10.95 ``Ergonomie der Mensch-System-Interaktion ^^U Teil 110: In-
 ter-ak-ti-ons-prin-zi-pi-en (ISO 9241-110:2020);
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-27.
-(c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
+33.
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [39
+)
+[40
 
-] (./ausarbeitung.aux)
+] (ausarbeitung.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1033,35 +1095,37 @@ Package logreq Info: Writing requests to 'ausarbeitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16195 strings out of 478036
- 324588 string characters out of 5843034
- 1135503 words of memory out of 5000000
- 34394 multiletter control sequences out of 15000+600000
+ 16437 strings out of 478338
+ 334167 string characters out of 2836700
+ 1142328 words of memory out of 3000000
+ 34609 multiletter control sequences out of 15000+600000
  489372 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,12n,106p,10603b,2467s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
-ive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/
-texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb><c:/texlive/2022/texmf-dist
-/fonts/type1/public/cm-super/sfbi2074.pfb><c:/texlive/2022/texmf-dist/fonts/typ
-e1/public/cm-super/sfbx1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/
-cm-super/sfbx2074.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/s
-fcc1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pf
-b><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texl
-ive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2022/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2022/texmf-dist/
-fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts/type
-1/public/cm-super/sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/c
-m-super/sfso1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sf
-sx1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb
-><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texli
-ve/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2022/te
-xmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><c:/texlive/2022/texmf-dist/f
-onts/type1/public/cm-super/sftt1095.pfb>
-Output written on ausarbeitung.pdf (44 pages, 1053580 bytes).
+ 108i,12n,106p,10609b,2467s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
+1095.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbi1095.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm0900.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm0600.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecso1200.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\lukas\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\lukas\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\lukas\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\lukas\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\
+lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\
+Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk
+> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
+000.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecsx1000.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1440.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecbi2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\lukas\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\eccc1728.pk>
+Output written on ausarbeitung.pdf (45 pages, 5337230 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
+ 834 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

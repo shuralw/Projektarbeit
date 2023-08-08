@@ -24,27 +24,31 @@
 \contentsline {section}{\numberline {5}Diskussion}{16}{}%
 \contentsline {subsection}{\numberline {5.1}Zusammenfassung}{16}{}%
 \contentsline {subsection}{\numberline {5.2}Interpretation der Ergebnisse}{17}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Problemstellen bezüglich Verständlichkeit}{17}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Problemstellen bezüglich Fehler}{17}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}Problemstellen von Inhaltlichen Fehler}{17}{}%
+\contentsline {subsubsection}{\numberline {5.2.4}Problemstellen bezüglich der Anordnung und Präsentation von Inhalten}{18}{}%
 \contentsline {subsection}{\numberline {5.3}Kritische Analyse}{18}{}%
 \contentsline {subsection}{\numberline {5.4}Fazit}{19}{}%
 \contentsline {subsection}{\numberline {5.5}Ausblick}{19}{}%
-\contentsline {section}{\numberline {6}Eigenständigkeitserklärung}{20}{}%
-\contentsline {section}{\numberline {7}Anhang}{21}{}%
-\contentsline {subsection}{\numberline {7.1}Musteranmeldeformular}{21}{}%
-\contentsline {subsection}{\numberline {7.2}bildungsgang}{24}{}%
-\contentsline {subsection}{\numberline {7.3}sorgeberechtigte-liste}{25}{}%
-\contentsline {subsection}{\numberline {7.4}sorgeberechtigter-person}{26}{}%
-\contentsline {subsection}{\numberline {7.5}sorgeberechtigter-anschrift}{27}{}%
-\contentsline {subsection}{\numberline {7.6}sorgeberechtigter-kontakt}{28}{}%
-\contentsline {subsection}{\numberline {7.7}notfallkontakt-daten}{29}{}%
-\contentsline {subsection}{\numberline {7.8}notfallkontakt-liste}{30}{}%
-\contentsline {subsection}{\numberline {7.9}migrationshintergrund-liegtvor}{31}{}%
-\contentsline {subsection}{\numberline {7.10}migrationshintergrund-liegtnichtvor}{32}{}%
-\contentsline {subsection}{\numberline {7.11}qualifikation}{33}{}%
-\contentsline {subsection}{\numberline {7.12}letztetaetigkeit}{34}{}%
-\contentsline {subsection}{\numberline {7.13}aufnahmeberatung}{35}{}%
-\contentsline {subsection}{\numberline {7.14}bemerkungen}{36}{}%
-\contentsline {subsection}{\numberline {7.15}zusammenfassung}{37}{}%
-\contentsline {subsection}{\numberline {7.16}bestaetigung}{38}{}%
-\contentsline {subsection}{\numberline {7.17}update-bewerbung}{39}{}%
-\contentsline {section}{\numberline {8}Literatur}{40}{}%
+\contentsline {section}{\numberline {6}Eigenständigkeitserklärung}{21}{}%
+\contentsline {section}{\numberline {7}Literatur}{22}{}%
+\contentsline {section}{\numberline {8}Anhang}{23}{}%
+\contentsline {subsection}{\numberline {8.1}Musteranmeldeformular}{23}{}%
+\contentsline {subsection}{\numberline {8.2}bildungsgang}{26}{}%
+\contentsline {subsection}{\numberline {8.3}sorgeberechtigte-liste}{27}{}%
+\contentsline {subsection}{\numberline {8.4}sorgeberechtigter-person}{28}{}%
+\contentsline {subsection}{\numberline {8.5}sorgeberechtigter-anschrift}{29}{}%
+\contentsline {subsection}{\numberline {8.6}sorgeberechtigter-kontakt}{30}{}%
+\contentsline {subsection}{\numberline {8.7}notfallkontakt-daten}{31}{}%
+\contentsline {subsection}{\numberline {8.8}notfallkontakt-liste}{32}{}%
+\contentsline {subsection}{\numberline {8.9}migrationshintergrund-liegtvor}{33}{}%
+\contentsline {subsection}{\numberline {8.10}migrationshintergrund-liegtnichtvor}{34}{}%
+\contentsline {subsection}{\numberline {8.11}qualifikation}{35}{}%
+\contentsline {subsection}{\numberline {8.12}letztetaetigkeit}{36}{}%
+\contentsline {subsection}{\numberline {8.13}aufnahmeberatung}{37}{}%
+\contentsline {subsection}{\numberline {8.14}bemerkungen}{38}{}%
+\contentsline {subsection}{\numberline {8.15}zusammenfassung}{39}{}%
+\contentsline {subsection}{\numberline {8.16}bestaetigung}{40}{}%
+\contentsline {subsection}{\numberline {8.17}update-bewerbung}{41}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

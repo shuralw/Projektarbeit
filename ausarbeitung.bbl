@@ -72,5 +72,26 @@
     \field{journaltitle}{Leitfaden Usability 1.3}
     \field{year}{2010}
   \endentry
+
+  \entry{Nielsen10}{online}{}
+    \name{author}{1}{}{%
+      {{hash=NJ}{%
+         family={Nielsen},
+         familyi={N\bibinitperiod},
+         given={Jakob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJ1}
+    \strng{fullhash}{NJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Updated Nov. 15, 2020}
+    \field{title}{10 Usability Heuristics for User Interface Design}
+    \verb{url}
+    \verb https://www.nngroup.com/articles/ten-usability-heuristics/
+    \endverb
+    \field{year}{1994}
+  \endentry
 \enddatalist
 \endinput

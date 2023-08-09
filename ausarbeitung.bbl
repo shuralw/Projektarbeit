@@ -17,6 +17,29 @@
 \endgroup
 
 \datalist[entry]{none/global//global/global}
+  \entry{SchulG_NRW_35}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{Nordrhein-Westfalen}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{{Schulgesetz für das Land Nordrhein-Westfalen
+  (Schulgesetz NRW - SchulG), Landesrecht Nordrhein-Westfalen, Vierter Teil –
+  Schulpflicht}}
+    \field{note}{Gliederungs-Nr.: 223}
+    \field{title}{{§ 35 SchulG – Beginn der Schulpflicht}}
+    \verb{url}
+    \verb http://www.lexsoft.de/cgi-bin/lexsoft/justizportal_nrw.cgi?xid=492252
+    \verb ,36
+    \endverb
+    \field{year}{2023}
+  \endentry
+
   \entry{ISO-9241-110}{report}{}
     \field{labeltitlesource}{title}
     \field{title}{Ergonomie der Mensch-System-Interaktion – Teil 110:
@@ -148,6 +171,55 @@
     \field{year}{2013}
   \endentry
 
+  \entry{CooperReimannEtAl14}{book}{}
+    \name{author}{4}{}{%
+      {{hash=CA}{%
+         family={Cooper},
+         familyi={C\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Reimann},
+         familyi={R\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cronin},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Noessel},
+         familyi={N\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \keyw{01624 103 book user interaction interface design}
+    \strng{namehash}{CARRCD+1}
+    \strng{fullhash}{CARRCDNC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{4}
+    \field{isbn}{978-1-118-76657-6}
+    \field{title}{About Face: The Essentials of Interaction Design}
+    \list{location}{1}{%
+      {Indianapolis, IN}%
+    }
+    \verb{file}
+    \verb eBook:2014/CooperReimannEtAl14.pdf:PDF;Wiley Product page:http\://eu.
+    \verb wiley.com/WileyCDA/WileyTitle/productCd-1118766571.html:URL;Amazon Se
+    \verb arch inside:http\://www.amazon.de/gp/reader/1118766571/:URL
+    \endverb
+    \field{year}{2014}
+  \endentry
+
   \entry{Norman}{book}{}
     \name{author}{1}{}{%
       {{hash=NDA}{%
@@ -182,6 +254,34 @@
       {[New York]}%
     }
     \field{year}{2002}
+  \endentry
+
+  \entry{Nielsen5Teilnehmer}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=WA}{%
+         family={Woolrych},
+         familyi={W\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Cockton},
+         familyi={C\bibinitperiod},
+         given={Gilbert},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=G}{%
+         family={Gilbert},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WACGG1}
+    \strng{fullhash}{WACGG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Why and when five test users aren't enough}
+    \field{month}{01}
+    \field{year}{2001}
   \endentry
 \enddatalist
 \endinput

@@ -371,8 +371,8 @@ Nach der Durchführung:
 Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?
 Wenn wir nichts in der Hand haben, was sollen wir dann ändern?
 Wir sind nicht Zuständigkeit für eine Aufnahmeentscheidung, nur die Aufnahme der Daten
+Anmeldestatus verbleibt auf angemeldet.
 Der Abteilungsleiter trifft entscheidung, ob der Schüler aufgenommen wird.
-
 
 
 

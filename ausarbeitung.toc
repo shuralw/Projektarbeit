@@ -5,53 +5,59 @@
 \contentsline {subsection}{\numberline {2.2}Definition von Effektivität im Rahmen dieser Ausarbeitung}{2}{}%
 \contentsline {subsection}{\numberline {2.3}Definition von Zufriedenstellung im Rahmen dieser Ausarbeitung}{2}{}%
 \contentsline {subsection}{\numberline {2.4}Definition von Problemstellen im Rahmen dieser Ausarbeitung}{2}{}%
-\contentsline {subsection}{\numberline {2.5}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{2}{}%
+\contentsline {subsection}{\numberline {2.5}Definition von Nutzerbedürfnissen im Rahmen dieser Ausarbeitung}{3}{}%
 \contentsline {section}{\numberline {3}Material und Methode}{3}{}%
 \contentsline {subsection}{\numberline {3.1}Teilnehmerauswahl}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Umgebungsbedingungen der Beobachtungen und Interviews}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Umgebungsbedingungen der Beobachtungen und Interviews}{4}{}%
 \contentsline {subsection}{\numberline {3.3}Erstellung des Fragebogens}{4}{}%
-\contentsline {subsection}{\numberline {3.4}Entwicklung von Aufgaben und Szenarien}{4}{}%
+\contentsline {subsection}{\numberline {3.4}Entwicklung von Aufgaben und Szenarien}{5}{}%
 \contentsline {subsection}{\numberline {3.5}Bereitstellung des Fragebogens}{6}{}%
-\contentsline {subsection}{\numberline {3.6}Rollenverteilung während der Studie}{6}{}%
-\contentsline {subsection}{\numberline {3.7}Durchführung der Studie}{6}{}%
-\contentsline {subsection}{\numberline {3.8}Nachbereitung und Auswertung der Studie}{7}{}%
-\contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{7}{}%
+\contentsline {subsection}{\numberline {3.6}Rollenverteilung während der Studie}{7}{}%
+\contentsline {subsection}{\numberline {3.7}Durchführung der Studie}{7}{}%
+\contentsline {subsection}{\numberline {3.8}Nachbereitung und Auswertung der Studie}{8}{}%
+\contentsline {subsection}{\numberline {3.9}Materialien und Ressourcen}{8}{}%
 \contentsline {section}{\numberline {4}Ergebnisse}{8}{}%
-\contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{8}{}%
-\contentsline {subsection}{\numberline {4.2}Unmittelbar vor der Durchführung}{9}{}%
-\contentsline {subsection}{\numberline {4.3}Während der Durchführung}{10}{}%
-\contentsline {subsection}{\numberline {4.4}Nach der Durchführung:}{13}{}%
-\contentsline {section}{\numberline {5}Diskussion}{16}{}%
-\contentsline {subsection}{\numberline {5.1}Zusammenfassung}{16}{}%
+\contentsline {subsection}{\numberline {4.1}Vor der Durchführung}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Unmittelbar vor der Durchführung}{10}{}%
+\contentsline {subsection}{\numberline {4.3}Beobachtungen während der Durchführung}{11}{}%
+\contentsline {subsection}{\numberline {4.4}Nach der Durchführung}{14}{}%
+\contentsline {section}{\numberline {5}Diskussion}{17}{}%
+\contentsline {subsection}{\numberline {5.1}Zusammenfassung}{17}{}%
 \contentsline {subsection}{\numberline {5.2}Interpretation der Ergebnisse}{17}{}%
 \contentsline {subsubsection}{\numberline {5.2.1}Problemstellen bezüglich Verständlichkeit}{17}{}%
-\contentsline {subsubsection}{\numberline {5.2.2}Problemstellen bezüglich Fehlerhandhabung und Nutzerführung}{17}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Problemstellen bezüglich Fehlerhandhabung und Nutzerführung}{18}{}%
 \contentsline {subsubsection}{\numberline {5.2.3}Problemstellen von Inhaltlichen Fehler}{18}{}%
-\contentsline {subsubsection}{\numberline {5.2.4}Problemstellen bezüglich der Anordnung und Präsentation von Inhalten}{18}{}%
-\contentsline {subsubsection}{\numberline {5.2.5}Nutzerbedürfnisse}{19}{}%
-\contentsline {subsubsection}{\numberline {5.2.6}Erfordernisse}{19}{}%
-\contentsline {subsubsection}{\numberline {5.2.7}Erwartungen}{19}{}%
-\contentsline {subsection}{\numberline {5.3}Kritische Analyse}{19}{}%
-\contentsline {subsection}{\numberline {5.4}Fazit}{20}{}%
-\contentsline {subsection}{\numberline {5.5}Ausblick}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.4}Problemstellen bezüglich der Anordnung und Präsentation von Inhalten}{19}{}%
+\contentsline {subsubsection}{\numberline {5.2.5}Nutzerbedürfnisse}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.6}Erfordernisse}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.7}Erwartungen}{20}{}%
+\contentsline {subsection}{\numberline {5.3}Kritische Analyse}{20}{}%
+\contentsline {subsection}{\numberline {5.4}Fazit}{21}{}%
+\contentsline {subsection}{\numberline {5.5}Ausblick}{21}{}%
 \contentsline {section}{\numberline {6}Eigenständigkeitserklärung}{22}{}%
 \contentsline {section}{\numberline {7}Literatur}{23}{}%
 \contentsline {section}{\numberline {8}Anhang}{24}{}%
 \contentsline {subsection}{\numberline {8.1}Musteranmeldeformular}{24}{}%
-\contentsline {subsection}{\numberline {8.2}bildungsgang}{27}{}%
-\contentsline {subsection}{\numberline {8.3}sorgeberechtigte-liste}{28}{}%
-\contentsline {subsection}{\numberline {8.4}sorgeberechtigter-person}{29}{}%
-\contentsline {subsection}{\numberline {8.5}sorgeberechtigter-anschrift}{30}{}%
-\contentsline {subsection}{\numberline {8.6}sorgeberechtigter-kontakt}{31}{}%
-\contentsline {subsection}{\numberline {8.7}notfallkontakt-daten}{32}{}%
-\contentsline {subsection}{\numberline {8.8}notfallkontakt-liste}{33}{}%
-\contentsline {subsection}{\numberline {8.9}migrationshintergrund-liegtvor}{34}{}%
-\contentsline {subsection}{\numberline {8.10}migrationshintergrund-liegtnichtvor}{35}{}%
-\contentsline {subsection}{\numberline {8.11}qualifikation}{36}{}%
-\contentsline {subsection}{\numberline {8.12}letztetaetigkeit}{37}{}%
-\contentsline {subsection}{\numberline {8.13}aufnahmeberatung}{38}{}%
-\contentsline {subsection}{\numberline {8.14}bemerkungen}{39}{}%
-\contentsline {subsection}{\numberline {8.15}zusammenfassung}{40}{}%
-\contentsline {subsection}{\numberline {8.16}bestaetigung}{41}{}%
-\contentsline {subsection}{\numberline {8.17}update-bewerbung}{42}{}%
+\contentsline {subsection}{\numberline {8.2}fragebogen}{25}{}%
+\contentsline {subsection}{\numberline {8.3}InterviewGymnasium}{26}{}%
+\contentsline {subsection}{\numberline {8.4}InterviewRealschule}{30}{}%
+\contentsline {subsection}{\numberline {8.5}InterviewFoerderschule}{33}{}%
+\contentsline {subsection}{\numberline {8.6}InterviewGrundschule}{36}{}%
+\contentsline {subsection}{\numberline {8.7}InterviewBerufskolleg}{39}{}%
+\contentsline {subsection}{\numberline {8.8}bildungsgang}{44}{}%
+\contentsline {subsection}{\numberline {8.9}sorgeberechtigte-liste}{45}{}%
+\contentsline {subsection}{\numberline {8.10}sorgeberechtigter-person}{46}{}%
+\contentsline {subsection}{\numberline {8.11}sorgeberechtigter-anschrift}{47}{}%
+\contentsline {subsection}{\numberline {8.12}sorgeberechtigter-kontakt}{48}{}%
+\contentsline {subsection}{\numberline {8.13}notfallkontakt-daten}{49}{}%
+\contentsline {subsection}{\numberline {8.14}notfallkontakt-liste}{50}{}%
+\contentsline {subsection}{\numberline {8.15}migrationshintergrund-liegtvor}{51}{}%
+\contentsline {subsection}{\numberline {8.16}migrationshintergrund-liegtnichtvor}{52}{}%
+\contentsline {subsection}{\numberline {8.17}qualifikation}{53}{}%
+\contentsline {subsection}{\numberline {8.18}letztetaetigkeit}{54}{}%
+\contentsline {subsection}{\numberline {8.19}aufnahmeberatung}{55}{}%
+\contentsline {subsection}{\numberline {8.20}bemerkungen}{56}{}%
+\contentsline {subsection}{\numberline {8.21}zusammenfassung}{57}{}%
+\contentsline {subsection}{\numberline {8.22}bestaetigung}{58}{}%
+\contentsline {subsection}{\numberline {8.23}update-bewerbung}{59}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

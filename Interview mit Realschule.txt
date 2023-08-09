@@ -357,7 +357,7 @@ Am liebsten hätte ich meinen eingescannten (Anmelde)-Bogen mit drin"
 
 Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?
 - Ich konnte das abschließen.			
-
+- Anmeldestatus bleibt angemeldet
 
 
 

@@ -343,6 +343,7 @@ Zusammenfassung
 Nach der Durchführung:		
 Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?	
 - Ja
+- sekretärin hat anmeldestatus auf angemeldet gesetzt 
 - Ich habe den Eindruck, dass sich einige Fragen irgendwann von selbst klären, wenn man etwas mit der Anwendung vertraut ist
 
 

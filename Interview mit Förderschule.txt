@@ -342,7 +342,8 @@ tabs nochmal prüfen"
 									
 Nach der Durchführung:									
 Konnten Sie die Aufgabe aus Ihrer Sicht erfolgreich und vollständig abschließen? Falls nein was hat Sie daran gehindert?		
-- Ich hab den Schüler reinbekommen, also ja							
+- Ich hab den Schüler reinbekommen, also ja		
+- anmeldestatus ist angemeldet					
 
 
 

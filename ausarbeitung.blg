@@ -19,47 +19,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ausarbeitung-blx.bib
 Database file #2: literatur/literatur.bib
+Warning--I didn't find a database entry for "ISO9241-11"
+Warning--I didn't find a database entry for "Cooper"
 Biblatex version: 3.18
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 6 entries,
+You've used 9 entries,
             6399 wiz_defined-function locations,
-            1232 strings with 9767 characters,
-and the built_in function-call counts, 19496 in all, are:
-= -- 1334
-> -- 393
-< -- 232
-+ -- 402
-- -- 76
-* -- 661
-:= -- 1380
+            1260 strings with 10677 characters,
+and the built_in function-call counts, 37063 in all, are:
+= -- 2675
+> -- 710
+< -- 357
++ -- 833
+- -- 162
+* -- 1692
+:= -- 3014
 add.period$ -- 0
-call.type$ -- 6
-change.case$ -- 190
+call.type$ -- 9
+change.case$ -- 287
 chr.to.int$ -- 48
-cite$ -- 10
-duplicate$ -- 2112
-empty$ -- 1965
-format.name$ -- 92
-if$ -- 4490
+cite$ -- 16
+duplicate$ -- 4018
+empty$ -- 3560
+format.name$ -- 249
+if$ -- 8243
 int.to.chr$ -- 0
-int.to.str$ -- 11
+int.to.str$ -- 23
 missing$ -- 0
-newline$ -- 94
-num.names$ -- 254
-pop$ -- 1674
+newline$ -- 179
+num.names$ -- 456
+pop$ -- 2687
 preamble$ -- 1
-purify$ -- 196
+purify$ -- 305
 quote$ -- 0
-skip$ -- 1063
+skip$ -- 1739
 stack$ -- 0
-substring$ -- 1702
-swap$ -- 570
-text.length$ -- 85
+substring$ -- 3839
+swap$ -- 985
+text.length$ -- 144
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 187
+type$ -- 289
 warning$ -- 0
-while$ -- 178
+while$ -- 371
 width$ -- 0
-write$ -- 89
+write$ -- 171
+(There were 2 warnings)

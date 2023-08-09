@@ -42,21 +42,16 @@
 
   \entry{ProductOwner2023}{misc}{}
     \name{author}{1}{}{%
-      {{hash=dASOPO}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Anwendung Schüler\bibnamedelima Online},
-         familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
-  O\bibinitperiod},
-         given={Product\bibnamedelima Owner},
-         giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+      {{hash=P}{%
+         family={{Product Owner der Anwendung Schüler Online}},
+         familyi={P\bibinitperiod},
       }}%
     }
-    \strng{namehash}{ASOPOd1}
-    \strng{fullhash}{ASOPOd1}
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{note}{Persönliche Kommunikation am 15.06.}
+    \field{note}{Gespräch vom 15.06.}
     \field{title}{Persönliche Kommunikation}
     \field{year}{2023}
   \endentry
@@ -336,11 +331,6 @@
     }
     \field{isbn}{0465067107 9780465067107}
     \field{title}{The design of everyday things}
-    \verb{url}
-    \verb http://www.amazon.de/The-Design-Everyday-Things-Norman/dp/0465067107/
-    \verb ref=wl_it_dp_o_pC_S_nC?ie=UTF8&colid=151193SNGKJT9&coliid=I262V9ZRW8H
-    \verb R2C
-    \endverb
     \list{location}{1}{%
       {[New York]}%
     }

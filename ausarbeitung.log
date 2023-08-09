@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.5)  9 AUG 2023 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.5)  9 AUG 2023 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -749,7 +749,11 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count413
 \@quotereset=\count414
-(./ausarbeitung.aux)
+(./ausarbeitung.aux
+
+LaTeX Warning: Label `tab:mytable' multiply defined.
+
+)
 \openout1 = `ausarbeitung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
@@ -768,8 +772,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
-
-(c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
 File: ngerman.lbx 2022/07/02 v3.18a biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
@@ -935,34 +938,14 @@ Package pdftex.def Info: ./abbildungen//bewerbungsformular1.png  used on input
 line 13.
 (pdftex.def)             Requested size: 789.6984pt x 1094.5867pt.
 
-Overfull \vbox (1.28146pt too high) has occurred while \output is active []
+Overfull \vbox (28.48148pt too high) has occurred while \output is active []
 
 
 [25 <./abbildungen//bewerbungsformular1.png>] (./fragebogen.tex [26])
 (./InterviewGymnasium.tex [27] [28] [29] [30]) (./InterviewRealschule.tex
 [31] [32] [33]) (./InterviewFoerderschule.tex [34] [35] [36])
 (./InterviewGrundschule.tex [37] [38]) (./InterviewBerufskolleg.tex [39]
-[40] [41]) [42]
-Overfull \hbox (34.14264pt too wide) in alignment at lines 45--72
- [] [] [] 
- []
-
-
-Overfull \hbox (34.14264pt too wide) in alignment at lines 72--76
- [] [] [] 
- []
-
-
-Overfull \hbox (34.14264pt too wide) in alignment at lines 76--78
- [] [] [] 
- []
-
-
-Overfull \hbox (34.14264pt too wide) in alignment at lines 78--97
- [] [] [] 
- []
-
-[43
+[40] [41]) [42] [43
 
 ]
 <./abbildungen//schuelersuche.png, id=174, 1443.14156pt x 604.50844pt>
@@ -986,7 +969,7 @@ Package pdftex.def Info: ./abbildungen//persoenliche-daten.png  used on input l
 ine 138.
 (pdftex.def)             Requested size: 1254.18257pt x 835.61983pt.
  [46 <./abbildungen//bildungsgang.png>]
-Overfull \vbox (52.45068pt too high) has occurred while \output is active []
+Overfull \vbox (68.78345pt too high) has occurred while \output is active []
 
 
 [47 <./abbildungen//persoenliche-daten.png>]
@@ -1004,7 +987,7 @@ Package pdftex.def Info: ./abbildungen//sorgeberechtigter-person.png  used on i
 nput line 158.
 (pdftex.def)             Requested size: 363.60754pt x 462.22574pt.
  [48 <./abbildungen//sorgeberechtigte-liste.png>]
-Overfull \vbox (33.2415pt too high) has occurred while \output is active []
+Overfull \vbox (47.2415pt too high) has occurred while \output is active []
 
 
 [49 <./abbildungen//sorgeberechtigter-person.png>]
@@ -1106,7 +1089,7 @@ Package pdftex.def Info: ./abbildungen//update-bewerbung.png  used on input lin
 e 288.
 (pdftex.def)             Requested size: 1252.67694pt x 759.58595pt.
  [61 <./abbildungen//bestaetigung.png>]
-Overfull \vbox (12.6868pt too high) has occurred while \output is active []
+Overfull \vbox (26.6868pt too high) has occurred while \output is active []
 
 
 [62 <./abbildungen//update-bewerbung.png>]) (./ausarbeitung.aux)
@@ -1114,7 +1097,7 @@ Overfull \vbox (12.6868pt too high) has occurred while \output is active []
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 
 Package biblatex Warning: Please (re)run BibTeX on the file(s):
@@ -1126,10 +1109,10 @@ Package logreq Info: Writing requests to 'ausarbeitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16751 strings out of 478036
- 337293 string characters out of 5843034
- 1141926 words of memory out of 5000000
- 34924 multiletter control sequences out of 15000+600000
+ 16750 strings out of 478036
+ 337272 string characters out of 5843034
+ 1142015 words of memory out of 5000000
+ 34923 multiletter control sequences out of 15000+600000
  487089 words of font info for 60 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,12n,106p,10603b,2467s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1150,7 +1133,7 @@ sx1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb
 ><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texli
 ve/2022/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><c:/texlive/2022/te
 xmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on ausarbeitung.pdf (65 pages, 5691878 bytes).
+Output written on ausarbeitung.pdf (65 pages, 5693924 bytes).
 PDF statistics:
  349 PDF objects out of 1000 (max. 8388607)
  201 compressed objects within 3 object streams

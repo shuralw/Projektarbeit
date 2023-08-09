@@ -26,45 +26,45 @@ Warning--I didn't find a database entry for "ISO9241-11"
 Biblatex version: 3.19
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 12 entries,
+You've used 13 entries,
             6399 wiz_defined-function locations,
-            1280 strings with 11563 characters,
-and the built_in function-call counts, 58333 in all, are:
-= -- 4307
-> -- 1085
-< -- 449
-+ -- 1491
-- -- 316
-* -- 3144
-:= -- 5405
+            1285 strings with 11700 characters,
+and the built_in function-call counts, 66505 in all, are:
+= -- 5031
+> -- 1156
+< -- 465
++ -- 1624
+- -- 337
+* -- 3808
+:= -- 6289
 add.period$ -- 0
-call.type$ -- 12
-change.case$ -- 330
+call.type$ -- 13
+change.case$ -- 337
 chr.to.int$ -- 54
-cite$ -- 22
-duplicate$ -- 6403
-empty$ -- 5359
-format.name$ -- 471
-if$ -- 12525
+cite$ -- 24
+duplicate$ -- 6972
+empty$ -- 6186
+format.name$ -- 516
+if$ -- 14259
 int.to.chr$ -- 0
-int.to.str$ -- 31
+int.to.str$ -- 33
 missing$ -- 0
-newline$ -- 277
-num.names$ -- 596
-pop$ -- 3766
+newline$ -- 297
+num.names$ -- 634
+pop$ -- 4109
 preamble$ -- 1
-purify$ -- 371
+purify$ -- 381
 quote$ -- 0
-skip$ -- 2315
+skip$ -- 2462
 stack$ -- 0
-substring$ -- 6639
-swap$ -- 1410
-text.length$ -- 222
+substring$ -- 8314
+swap$ -- 1511
+text.length$ -- 239
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 391
+type$ -- 425
 warning$ -- 0
-while$ -- 674
+while$ -- 742
 width$ -- 0
-write$ -- 266
+write$ -- 285
 (There was 1 warning)

@@ -40,6 +40,27 @@
     \field{year}{2023}
   \endentry
 
+  \entry{ProductOwner2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=dASOPO}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Anwendung Schüler\bibnamedelima Online},
+         familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  O\bibinitperiod},
+         given={Product\bibnamedelima Owner},
+         giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASOPOd1}
+    \strng{fullhash}{ASOPOd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Persönliche Kommunikation am 15.06.}
+    \field{title}{Persönliche Kommunikation}
+    \field{year}{2023}
+  \endentry
+
   \entry{ISO-9241-110}{report}{}
     \field{labeltitlesource}{title}
     \field{title}{Ergonomie der Mensch-System-Interaktion – Teil 110:

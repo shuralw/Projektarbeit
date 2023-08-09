@@ -106,6 +106,62 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Seibert-Giller}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SGV}{%
+         family={Seibert-Giller},
+         familyi={S\bibinithyphendelim G\bibinitperiod},
+         given={Verena},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {UXKnowHow}%
+    }
+    \strng{namehash}{SGV1}
+    \strng{fullhash}{SGV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Usability und User Experience Prüfungsvorbereitung zum
+  Certified Professional for Usability Engineering und User Experience Design}
+    \field{isbn}{9783950477207}
+    \field{title}{Usability und User Experience: Prüfungsvorbereitung zum
+  Certified Professional for Usability Engineering und User Experience Design}
+    \list{location}{1}{%
+      {Klosterneuburg, Österreich}%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{jacobsen}{online}{}
+    \name{author}{1}{}{%
+      {{hash=JJ}{%
+         family={Jacobsen},
+         familyi={J\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {TestingTime}%
+    }
+    \strng{namehash}{JJ1}
+    \strng{fullhash}{JJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Entnommen: 02.08.2023}
+    \field{title}{Contextual Inquiry fürs User Research: Wann und wie setze
+  ich sie ein?}
+    \verb{url}
+    \verb https://www.testingtime.com/blog/contextual-inquiry-fuers-user-resear
+    \verb ch/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
   \entry{dakks}{book}{}
     \verb{url}
     \verb https://www.dakks.de/docs/download/148

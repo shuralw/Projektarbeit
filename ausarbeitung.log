@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.5)  9 AUG 2023 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.5)  9 AUG 2023 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -601,7 +601,7 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@chunks=\count398
 \LT@p@ftn=\toks20
 )
-Class scrartcl Info: longtable captions redefined on input line 29.
+Class scrartcl Info: longtable captions redefined on input line 30.
 
 (c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
@@ -703,7 +703,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              `\addtokomafont' for the page style elements need
 (scrartcl)              explicite user intervention to work.
 (scrartcl)              Nevertheless, using requested
-(scrartcl)              package `fancyhdr' on input line 43.
+(scrartcl)              package `fancyhdr' on input line 44.
 
 (c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
@@ -746,20 +746,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./ausarbeitung.aux)
 \openout1 = `ausarbeitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
@@ -789,8 +789,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ausarbeitung.bbl' found.
 
 (./ausarbeitung.bbl)
-Package biblatex Info: Reference section=0 on input line 54.
-Package biblatex Info: Reference segment=0 on input line 54.
+Package biblatex Info: Reference section=0 on input line 55.
+Package biblatex Info: Reference segment=0 on input line 55.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -851,30 +851,29 @@ e
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
-8.
+9.
 
 (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (./ausarbeitung.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
-
-[2] [3])
+) (./ausarbeitung.toc)
 \tf@toc=\write4
 \openout4 = `ausarbeitung.toc'.
 
- [4] (./kapitel/gender-hinweis.tex) [5] (./kapitel/einleitung.tex)
+
+[2] (./kapitel/gender-hinweis.tex) [3] (./kapitel/einleitung.tex)
 (./kapitel/theorie.tex [1]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 24.
  [2]) (./kapitel/materialmethode_v2.tex [3]
-<./abbildungen//einordnung-der-aufgaben-in-kontext.png, id=45, 964.60374pt x 63
+<./abbildungen//einordnung-der-aufgaben-in-kontext.png, id=37, 964.60374pt x 63
 3.36626pt>
 File: ./abbildungen//einordnung-der-aufgaben-in-kontext.png Graphic file (type 
 png)
@@ -884,17 +883,101 @@ Package pdftex.def Info: ./abbildungen//einordnung-der-aufgaben-in-kontext.png
 (pdftex.def)             Requested size: 469.47049pt x 308.255pt.
  [4]
 [5 <./abbildungen//einordnung-der-aufgaben-in-kontext.png>]
-<./abbildungen//konstellationenv3.png, id=54, 1234.6125pt x 898.35625pt>
+<./abbildungen//konstellationenv3.png, id=47, 1234.6125pt x 898.35625pt>
 File: ./abbildungen//konstellationenv3.png Graphic file (type png)
 <use ./abbildungen//konstellationenv3.png>
 Package pdftex.def Info: ./abbildungen//konstellationenv3.png  used on input li
 ne 47.
 (pdftex.def)             Requested size: 469.47049pt x 341.59824pt.
- [6 <./abbildungen//konstellationenv3.png>] [7]) (./kapitel/ergebnisse_generate
-d.tex [8] [9]
-[10] [11] [12] [13] [14] [15] [16]) (./kapitel/Diskussionv2.tex [17] [18]
-[19] [20]) (./kapitel/eigenstaendigkeitserklaerung.tex [21]
-<./abbildungen//eigenstaendigkeitserklaerung.png, id=108, 2961.56438pt x 1727.7
+ [6 <./abbildungen//konstellationenv3.png>]
+
+LaTeX Warning: Reference `section-InterviewGymnasium' on page 7 undefined on in
+put line 90.
+
+
+LaTeX Warning: Reference `section-InterviewBerufskolleg' on page 7 undefined on
+ input line 90.
+
+[7]) (./kapitel/ergebnisse_generated.tex [8]
+
+LaTeX Warning: Reference `section-fragebogen' on page 9 undefined on input line
+ 12.
+
+[9] [10]
+
+LaTeX Warning: Reference `section-schuelersuche' on page 11 undefined on input 
+line 77.
+
+
+LaTeX Warning: Reference `section-bildungsgang' on page 11 undefined on input l
+ine 83.
+
+
+LaTeX Warning: Reference `section-persoenliche-daten' on page 11 undefined on i
+nput line 94.
+
+[11]
+
+LaTeX Warning: Reference `section-sorgeberechtigte-liste' on page 12 undefined 
+on input line 102.
+
+
+LaTeX Warning: Reference `section-sorgeberechtigter-kontakt' on page 12 undefin
+ed on input line 102.
+
+
+LaTeX Warning: Reference `section-notfallkontakt-liste' on page 12 undefined on
+ input line 113.
+
+
+LaTeX Warning: Reference `section-notfallkontakt-daten' on page 12 undefined on
+ input line 113.
+
+[12]
+
+LaTeX Warning: Reference `section-migrationshintergrund-liegtvor' on page 13 un
+defined on input line 120.
+
+
+LaTeX Warning: Reference `section-migrationshintergrund-liegtnichtvor' on page 
+13 undefined on input line 120.
+
+
+LaTeX Warning: Reference `section-letztetaetigkeit' on page 13 undefined on inp
+ut line 125.
+
+
+LaTeX Warning: Reference `section-qualifikation' on page 13 undefined on input 
+line 132.
+
+
+LaTeX Warning: Reference `section-aufnahmeberatung' on page 13 undefined on inp
+ut line 135.
+
+
+LaTeX Warning: Reference `section-bemerkungen' on page 13 undefined on input li
+ne 138.
+
+
+LaTeX Warning: Reference `section-zusammenfassung' on page 13 undefined on inpu
+t line 147.
+
+
+LaTeX Warning: Reference `section-bestaetigung' on page 13 undefined on input l
+ine 147.
+
+[13] [14]
+
+LaTeX Warning: Reference `section-update-bewerbung' on page 15 undefined on inp
+ut line 175.
+
+[15] [16]) (./kapitel/Diskussionv2.tex [17] [18] [19] [20]
+
+LaTeX Warning: Reference `section-fragebogen' on page 21 undefined on input lin
+e 85.
+
+) (./kapitel/eigenstaendigkeitserklaerung.tex [21]
+<./abbildungen//eigenstaendigkeitserklaerung.png, id=101, 2961.56438pt x 1727.7
 0468pt>
 File: ./abbildungen//eigenstaendigkeitserklaerung.png Graphic file (type png)
 <use ./abbildungen//eigenstaendigkeitserklaerung.png>
@@ -903,166 +986,192 @@ on input line 17.
 (pdftex.def)             Requested size: 2961.55719pt x 1727.70049pt.
 ) [22 <./abbildungen//eigenstaendigkeitserklaerung.png>]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-55.
+56.
 
 (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (10.86778pt too wide) in paragraph at lines 156--156
+Overfull \hbox (10.86778pt too wide) in paragraph at lines 157--157
 []\T1/cmr/m/n/10.95 Nordrhein-Westfalen, \T1/cmr/m/it/10.95 Ÿ 35 SchulG ^^U Be-
 ginn der Schul-pflicht\T1/cmr/m/n/10.95 , Schul-ge-setz für das Land Nordrhein-
 
  []
 
 
-Overfull \hbox (0.4557pt too wide) in paragraph at lines 156--156
+Overfull \hbox (0.4557pt too wide) in paragraph at lines 157--157
 []\T1/cmr/m/n/10.95 D. A. Nor-man, \T1/cmr/m/it/10.95 The de-sign of eve-r-y-da
 y things\T1/cmr/m/n/10.95 . [New York]: Ba-sic Books, 2002, \T1/cmr/m/sc/10.95 
 isbn\T1/cmr/m/n/10.95 : 0465067107
  []
 
-[23] (./kapitel/anhang.tex
-<./abbildungen//bewerbungsformular1.png, id=117, 789.70032pt x 1094.58937pt>
+[23] [24] (./kapitel/anhang.tex
+<./abbildungen//bewerbungsformular1.png, id=114, 789.70032pt x 1094.58937pt>
 File: ./abbildungen//bewerbungsformular1.png Graphic file (type png)
 <use ./abbildungen//bewerbungsformular1.png>
 Package pdftex.def Info: ./abbildungen//bewerbungsformular1.png  used on input 
 line 11.
 (pdftex.def)             Requested size: 789.6984pt x 1094.5867pt.
- (./fragebogen.tex [24 <./abbildungen//bewerbungsformular1.png>] [25]) (./Inter
-viewGymnasium.tex [26] [27] [28] [29])
-(./InterviewRealschule.tex [30] [31] [32]) (./InterviewFoerderschule.tex
-[33] [34] [35]) (./InterviewGrundschule.tex [36] [37])
-(./InterviewBerufskolleg.tex [38] [39] [40]) [41] [42
+ (./fragebogen.tex [25 <./abbildungen//bewerbungsformular1.png>] [26]) (./Inter
+viewGymnasium.tex [27] [28] [29] [30])
+(./InterviewRealschule.tex [31] [32] [33]) (./InterviewFoerderschule.tex
+[34] [35] [36]) (./InterviewGrundschule.tex [37] [38])
+(./InterviewBerufskolleg.tex [39] [40] [41]) [42]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 96.
+
+[43
 
 ]
-<./abbildungen//bildungsgang.png, id=179, 1251.17438pt x 603.0028pt>
+<./abbildungen//schuelersuche.png, id=176, 1443.14156pt x 604.50844pt>
+File: ./abbildungen//schuelersuche.png Graphic file (type png)
+<use ./abbildungen//schuelersuche.png>
+Package pdftex.def Info: ./abbildungen//schuelersuche.png  used on input line 1
+04.
+(pdftex.def)             Requested size: 1443.13805pt x 604.50696pt.
+ [44]
+<./abbildungen//bildungsgang.png, id=180, 1251.17438pt x 603.0028pt>
 File: ./abbildungen//bildungsgang.png Graphic file (type png)
 <use ./abbildungen//bildungsgang.png>
-Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 10
-3.
+Package pdftex.def Info: ./abbildungen//bildungsgang.png  used on input line 11
+4.
 (pdftex.def)             Requested size: 1251.17134pt x 603.00133pt.
- [43]
-<./abbildungen//sorgeberechtigte-liste.png, id=183, 1251.92719pt x 603.0028pt>
+ [45 <./abbildungen//schuelersuche.png>]
+<./abbildungen//persoenliche-daten.png, id=185, 1254.18562pt x 835.62187pt>
+File: ./abbildungen//persoenliche-daten.png Graphic file (type png)
+<use ./abbildungen//persoenliche-daten.png>
+Package pdftex.def Info: ./abbildungen//persoenliche-daten.png  used on input l
+ine 124.
+(pdftex.def)             Requested size: 1254.18257pt x 835.61983pt.
+ [46 <./abbildungen//bildungsgang.png>]
+Overfull \vbox (52.45068pt too high) has occurred while \output is active []
+
+
+[47 <./abbildungen//persoenliche-daten.png>]
+<./abbildungen//sorgeberechtigte-liste.png, id=196, 1251.92719pt x 603.0028pt>
 File: ./abbildungen//sorgeberechtigte-liste.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigte-liste.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigte-liste.png  used on inp
-ut line 113.
+ut line 134.
 (pdftex.def)             Requested size: 1251.92413pt x 603.00133pt.
- [44 <./abbildungen//bildungsgang.png>]
-<./abbildungen//sorgeberechtigter-person.png, id=189, 363.60844pt x 462.22687pt
+<./abbildungen//sorgeberechtigter-person.png, id=197, 363.60844pt x 462.22687pt
 >
 File: ./abbildungen//sorgeberechtigter-person.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigter-person.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigter-person.png  used on i
-nput line 123.
+nput line 144.
 (pdftex.def)             Requested size: 363.60754pt x 462.22574pt.
- [45 <./abbildungen//sorgeberechtigte-liste.png>]
+ [48 <./abbildungen//sorgeberechtigte-liste.png>]
 Overfull \vbox (33.2415pt too high) has occurred while \output is active []
 
 
-[46 <./abbildungen//sorgeberechtigter-person.png>]
-<./abbildungen//sorgeberechtigter-anschrift.png, id=199, 915.42pt x 360.59718pt
+[49 <./abbildungen//sorgeberechtigter-person.png>]
+<./abbildungen//sorgeberechtigter-anschrift.png, id=206, 915.42pt x 360.59718pt
 >
 File: ./abbildungen//sorgeberechtigter-anschrift.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigter-anschrift.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigter-anschrift.png  used o
-n input line 133.
+n input line 154.
 (pdftex.def)             Requested size: 915.41777pt x 360.5963pt.
-<./abbildungen//sorgeberechtigter-kontakt.png, id=200, 365.11406pt x 280.04625p
+<./abbildungen//sorgeberechtigter-kontakt.png, id=207, 365.11406pt x 280.04625p
 t>
 File: ./abbildungen//sorgeberechtigter-kontakt.png Graphic file (type png)
 <use ./abbildungen//sorgeberechtigter-kontakt.png>
 Package pdftex.def Info: ./abbildungen//sorgeberechtigter-kontakt.png  used on 
-input line 143.
+input line 164.
 (pdftex.def)             Requested size: 365.11316pt x 280.04555pt.
- [47 <./abbildungen//sorgeberechtigter-anschrift.png>]
-<./abbildungen//notfallkontakt-daten.png, id=205, 591.71063pt x 389.20406pt>
+ [50 <./abbildungen//sorgeberechtigter-anschrift.png>]
+<./abbildungen//notfallkontakt-daten.png, id=212, 591.71063pt x 389.20406pt>
 File: ./abbildungen//notfallkontakt-daten.png Graphic file (type png)
 <use ./abbildungen//notfallkontakt-daten.png>
 Package pdftex.def Info: ./abbildungen//notfallkontakt-daten.png  used on input
- line 153.
+ line 174.
 (pdftex.def)             Requested size: 591.70918pt x 389.20311pt.
- [48 <./abbildungen//sorgeberechtigter-kontakt.png>]
-<./abbildungen//notfallkontakt-liste.png, id=210, 1254.18562pt x 605.26125pt>
+ [51 <./abbildungen//sorgeberechtigter-kontakt.png>]
+<./abbildungen//notfallkontakt-liste.png, id=217, 1254.18562pt x 605.26125pt>
 File: ./abbildungen//notfallkontakt-liste.png Graphic file (type png)
 <use ./abbildungen//notfallkontakt-liste.png>
 Package pdftex.def Info: ./abbildungen//notfallkontakt-liste.png  used on input
- line 163.
+ line 184.
 (pdftex.def)             Requested size: 1254.18257pt x 605.25975pt.
 
-[49 <./abbildungen//notfallkontakt-daten.png>]
-<./abbildungen//migrationshintergrund-liegtvor.png, id=215, 1254.18562pt x 605.
+[52 <./abbildungen//notfallkontakt-daten.png>]
+<./abbildungen//migrationshintergrund-liegtvor.png, id=223, 1254.18562pt x 605.
 26125pt>
 File: ./abbildungen//migrationshintergrund-liegtvor.png Graphic file (type png)
 
 <use ./abbildungen//migrationshintergrund-liegtvor.png>
 Package pdftex.def Info: ./abbildungen//migrationshintergrund-liegtvor.png  use
-d on input line 173.
+d on input line 194.
 (pdftex.def)             Requested size: 1254.18257pt x 605.25975pt.
- [50 <./abbildungen//notfallkontakt-liste.png>]
-<./abbildungen//migrationshintergrund-liegtnichtvor.png, id=221, 1254.93843pt x
+ [53 <./abbildungen//notfallkontakt-liste.png>]
+<./abbildungen//migrationshintergrund-liegtnichtvor.png, id=228, 1254.93843pt x
  605.26125pt>
 File: ./abbildungen//migrationshintergrund-liegtnichtvor.png Graphic file (type
  png)
 <use ./abbildungen//migrationshintergrund-liegtnichtvor.png>
 Package pdftex.def Info: ./abbildungen//migrationshintergrund-liegtnichtvor.png
-  used on input line 183.
+  used on input line 204.
 (pdftex.def)             Requested size: 1254.93538pt x 605.25975pt.
- [51 <./abbildungen//migrationshintergrund-liegtvor.png>]
-<./abbildungen//qualifikation.png, id=226, 1254.93843pt x 607.51968pt>
+ [54 <./abbildungen//migrationshintergrund-liegtvor.png>]
+<./abbildungen//qualifikation.png, id=233, 1254.93843pt x 607.51968pt>
 File: ./abbildungen//qualifikation.png Graphic file (type png)
 <use ./abbildungen//qualifikation.png>
-Package pdftex.def Info: ./abbildungen//qualifikation.png  used on input line 1
-93.
+Package pdftex.def Info: ./abbildungen//qualifikation.png  used on input line 2
+14.
 (pdftex.def)             Requested size: 1254.93538pt x 607.51819pt.
 
-[52 <./abbildungen//migrationshintergrund-liegtnichtvor.png>]
-<./abbildungen//letztetaetigkeit.png, id=231, 1254.18562pt x 605.26125pt>
+[55 <./abbildungen//migrationshintergrund-liegtnichtvor.png>]
+<./abbildungen//letztetaetigkeit.png, id=238, 1254.18562pt x 605.26125pt>
 File: ./abbildungen//letztetaetigkeit.png Graphic file (type png)
 <use ./abbildungen//letztetaetigkeit.png>
 Package pdftex.def Info: ./abbildungen//letztetaetigkeit.png  used on input lin
-e 203.
+e 224.
 (pdftex.def)             Requested size: 1254.18257pt x 605.25975pt.
- [53 <./abbildungen//qualifikation.png>]
-<./abbildungen//aufnahmeberatung.png, id=236, 1255.69125pt x 605.26125pt>
+ [56 <./abbildungen//qualifikation.png>]
+<./abbildungen//aufnahmeberatung.png, id=243, 1255.69125pt x 605.26125pt>
 File: ./abbildungen//aufnahmeberatung.png Graphic file (type png)
 <use ./abbildungen//aufnahmeberatung.png>
 Package pdftex.def Info: ./abbildungen//aufnahmeberatung.png  used on input lin
-e 213.
+e 234.
 (pdftex.def)             Requested size: 1255.6882pt x 605.25975pt.
- [54 <./abbildungen//letztetaetigkeit.png>]
-<./abbildungen//bemerkungen.png, id=241, 1254.93843pt x 605.26125pt>
+ [57 <./abbildungen//letztetaetigkeit.png>]
+<./abbildungen//bemerkungen.png, id=248, 1254.93843pt x 605.26125pt>
 File: ./abbildungen//bemerkungen.png Graphic file (type png)
 <use ./abbildungen//bemerkungen.png>
-Package pdftex.def Info: ./abbildungen//bemerkungen.png  used on input line 223
+Package pdftex.def Info: ./abbildungen//bemerkungen.png  used on input line 244
 .
 (pdftex.def)             Requested size: 1254.93538pt x 605.25975pt.
- [55 <./abbildungen//aufnahmeberatung.png>]
-<./abbildungen//zusammenfassung.png, id=246, 1254.18562pt x 607.51968pt>
+ [58 <./abbildungen//aufnahmeberatung.png>]
+<./abbildungen//zusammenfassung.png, id=254, 1254.18562pt x 607.51968pt>
 File: ./abbildungen//zusammenfassung.png Graphic file (type png)
 <use ./abbildungen//zusammenfassung.png>
 Package pdftex.def Info: ./abbildungen//zusammenfassung.png  used on input line
- 233.
+ 254.
 (pdftex.def)             Requested size: 1254.18257pt x 607.51819pt.
- [56 <./abbildungen//bemerkungen.png>]
-<./abbildungen//bestaetigung.png, id=252, 1253.43282pt x 606.76688pt>
+ [59 <./abbildungen//bemerkungen.png>]
+<./abbildungen//bestaetigung.png, id=259, 1253.43282pt x 606.76688pt>
 File: ./abbildungen//bestaetigung.png Graphic file (type png)
 <use ./abbildungen//bestaetigung.png>
-Package pdftex.def Info: ./abbildungen//bestaetigung.png  used on input line 24
-3.
+Package pdftex.def Info: ./abbildungen//bestaetigung.png  used on input line 26
+4.
 (pdftex.def)             Requested size: 1253.42976pt x 606.7654pt.
- [57 <./abbildungen//zusammenfassung.png>]
-<./abbildungen//update-bewerbung.png, id=257, 1252.68pt x 759.58781pt>
+ [60 <./abbildungen//zusammenfassung.png>]
+<./abbildungen//update-bewerbung.png, id=264, 1252.68pt x 759.58781pt>
 File: ./abbildungen//update-bewerbung.png Graphic file (type png)
 <use ./abbildungen//update-bewerbung.png>
 Package pdftex.def Info: ./abbildungen//update-bewerbung.png  used on input lin
-e 253.
+e 274.
 (pdftex.def)             Requested size: 1252.67694pt x 759.58595pt.
- [58 <./abbildungen//bestaetigung.png>]
+ [61 <./abbildungen//bestaetigung.png>]
 Overfull \vbox (12.6868pt too high) has occurred while \output is active []
 
 
-[59 <./abbildungen//update-bewerbung.png>]) (./ausarbeitung.aux)
+[62 <./abbildungen//update-bewerbung.png>])
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+(./ausarbeitung.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1079,10 +1188,10 @@ Package logreq Info: Writing requests to 'ausarbeitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16606 strings out of 478036
- 334239 string characters out of 5843034
- 1139338 words of memory out of 5000000
- 34779 multiletter control sequences out of 15000+600000
+ 16633 strings out of 478036
+ 335215 string characters out of 5843034
+ 1138414 words of memory out of 5000000
+ 34806 multiletter control sequences out of 15000+600000
  489372 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,12n,106p,10603b,2467s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1105,10 +1214,10 @@ ve/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2022/te
 xmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2022/texmf-dist/f
 onts/type1/public/cm-super/sfti1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1
 /public/cm-super/sftt1095.pfb>
-Output written on ausarbeitung.pdf (64 pages, 5609325 bytes).
+Output written on ausarbeitung.pdf (65 pages, 5727413 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
+ 359 PDF objects out of 1000 (max. 8388607)
+ 207 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

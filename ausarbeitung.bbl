@@ -141,6 +141,20 @@
     \field{year}{2014}
   \endentry
 
+  \entry{iso9241-11}{misc}{}
+    \list{organization}{1}{%
+      {International Organization for Standardization}%
+    }
+    \field{labeltitlesource}{title}
+    \field{howpublished}{ISO 9241-11:2018(en)}
+    \field{title}{Ergonomics of human-system interaction — Part 11:
+  Usability: Definitions and concepts}
+    \verb{url}
+    \verb https://www.iso.org/standard/63500.html
+    \endverb
+    \field{year}{2018}
+  \endentry
+
   \entry{Nielsen10}{online}{}
     \name{author}{1}{}{%
       {{hash=NJ}{%
@@ -303,6 +317,170 @@
     \field{title}{Why and when five test users aren't enough}
     \field{month}{01}
     \field{year}{2001}
+  \endentry
+
+  \entry{mayo1933human}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ME}{%
+         family={Mayo},
+         familyi={M\bibinitperiod},
+         given={Elton},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Macmillan}%
+    }
+    \strng{namehash}{ME1}
+    \strng{fullhash}{ME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The Human Problems of an Industrial Civilization}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1933}
+  \endentry
+
+  \entry{landsberger1958hawthorne}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LHA}{%
+         family={Landsberger},
+         familyi={L\bibinitperiod},
+         given={Henry\bibnamedelima A.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cornell University}%
+    }
+    \strng{namehash}{LHA1}
+    \strng{fullhash}{LHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Hawthorne Revisited}
+    \list{location}{1}{%
+      {Ithaca, NY}%
+    }
+    \field{year}{1958}
+  \endentry
+
+  \entry{adair1984hawthorne}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AJG}{%
+         family={Adair},
+         familyi={A\bibinitperiod},
+         given={John\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AJG1}
+    \strng{fullhash}{AJG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{334\bibrangedash 345}
+    \field{title}{The Hawthorne Effect: A Reconsideration of the Methodological
+  Artifact}
+    \field{volume}{69}
+    \field{journaltitle}{Journal of Applied Psychology}
+    \field{year}{1984}
+  \endentry
+
+  \entry{crowne1960scale}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CDP}{%
+         family={Crowne},
+         familyi={C\bibinitperiod},
+         given={Douglas\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Marlowe},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CDPMD1}
+    \strng{fullhash}{CDPMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{349\bibrangedash 354}
+    \field{title}{A New Scale of Social Desirability Independent of
+  Psychopathology}
+    \field{volume}{24}
+    \field{journaltitle}{Journal of Consulting Psychology}
+    \field{year}{1960}
+  \endentry
+
+  \entry{fisher1993social}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FRJ}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FRJ1}
+    \strng{fullhash}{FRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{303\bibrangedash 315}
+    \field{title}{Social Desirability Bias and the Validity of Indirect
+  Questioning}
+    \field{volume}{20}
+    \field{journaltitle}{Journal of Consumer Research}
+    \field{year}{1993}
+  \endentry
+
+  \entry{paulhus2002socially}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=PDL}{%
+         family={Paulhus},
+         familyi={P\bibinitperiod},
+         given={Delroy\bibnamedelima L.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=BHI}{%
+         family={Braun},
+         familyi={B\bibinitperiod},
+         given={Henry\bibnamedelima I.},
+         giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={Douglas\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=WDE}{%
+         family={Wiley},
+         familyi={W\bibinitperiod},
+         given={David\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Lawrence Erlbaum Associates}%
+    }
+    \strng{namehash}{PDL1}
+    \strng{fullhash}{PDL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{The Role of Constructs in Psychological and Educational
+  Measurement}
+    \field{pages}{49\bibrangedash 69}
+    \field{title}{Socially Desirable Responding: The Evolution of a Construct}
+    \list{location}{1}{%
+      {Mahwah, NJ}%
+    }
+    \field{year}{2002}
   \endentry
 \enddatalist
 \endinput
